@@ -30,7 +30,7 @@ def setup_logging():
         format='%(asctime)s - %(levelname)s - %(message)s',
         handlers=[
             logging.FileHandler(f'data/logs/cbn_scraper_{today}.log'),
-            logging.StreamHandler()  # Also output to console
+            logging.StreamHandler()  # Also output to console              +++++++++++++++
         ]
     )
     

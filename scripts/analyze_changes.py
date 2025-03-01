@@ -19,17 +19,15 @@ def setup_add_logging():
         format='%(asctime)s - %(levelname)s - %(message)s',
         handlers=[
             logging.FileHandler(f'data/logs/cbn_analysis_{today}.log'),
-            logging.StreamHandler()  # Also output to console
+            logging.StreamHandler()  # Also output to console               +++++++++++++++
         ]
     )
     
     return logging.getLogger()
 
 
-
 ## Set up logger
 logger = setup_add_logging()
-
 
 
 def get_latest_and_previous_files():
@@ -48,7 +46,6 @@ def get_latest_and_previous_files():
         return files[0] if files else None, None
     
     return files[0], files[1]
-
 
 
 def compare_institutions(current_file, previous_file):
@@ -108,9 +105,6 @@ def compare_institutions(current_file, previous_file):
             'total_previous': []
         }
     
-    
-
-
 
 def generate_change_report(changes):
     """
@@ -119,7 +113,7 @@ def generate_change_report(changes):
 
     today = datetime.now().strftime('%Y-%m-%d')
     
-    with open(f'data/cbn_data/changes_{today}.txt', 'w') as f:
+    with open(f'data/report/changes_{today}.txt', 'w') as f:
         f.write(f"CBN Financial Institutions Change Report - {today}\n")
         f.write("="*60 + "\n\n")
         
@@ -156,7 +150,9 @@ def generate_change_report(changes):
 
 
 def cleanup_old_files(keep_latest=3):
-    """Optionally cleanup older data files, keeping the most recent ones"""
+    """
+    Optionally cleanup older data files, keeping the most recent ones
+    """
     files = glob.glob('data/cbn_data/cbn_all_financial_institutions_*.csv')
     files = [f for f in files if not f.endswith('_latest.csv')]
     
@@ -173,7 +169,6 @@ def cleanup_old_files(keep_latest=3):
             logger.info(f"Removed old data file: {file}")
         except Exception as e:
             logger.error(f"Error removing {file}: {str(e)}")
-
 
 
 def main():
@@ -197,7 +192,7 @@ def main():
     # Create empty file if no changes
     if not changes['added'] and not changes['removed'] and not changes['changed']:
         today = datetime.now().strftime('%Y-%m-%d')
-        with open(f'data/cbn_data/no_changes_{today}.txt', 'w') as f:
+        with open(f'data/report/no_changes_{today}.txt', 'w') as f:
             pass
     
     # Cleanup old files (optional)
