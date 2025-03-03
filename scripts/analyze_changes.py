@@ -54,63 +54,58 @@ def compare_institutions(current_file, previous_file):
     """
 
     # Load data
-    try:
-        current_df = pd.read_csv(current_file)
-        previous_df = pd.read_csv(previous_file)
-    except Exception as e:
-        logger.error(f"Could not read current and/or previous scrapped data: {str(e)}")
+    current_df = pd.read_csv(current_file)
+    previous_df = pd.read_csv(previous_file)
     
-    try:
-        # Get institution names
-        current_names = set(current_df['Institution Name'])
-        previous_names = set(previous_df['Institution Name'])
-        
-        # Find additions and removals
-        added = current_names - previous_names
-        removed = previous_names - current_names
-        
-        # Check for name changes (This can be more sophisticated to capture other patterns)
-        changed = []
-        for index, row in current_df.iterrows():
-            inst_name = row['Institution Name']
-            if inst_name in previous_names:
-                # Get previous record
-                prev_row = previous_df[previous_df['Institution Name'] == inst_name].iloc[0]
-                
-                # Check for changes in key fields
-                for field in ['Website']: #, 'Telephone number' 'Street Address', 
-                    if field in row and field in prev_row:
-                        if str(row[field]) != str(prev_row[field]):
-                            changed.append({
-                                'Institution': inst_name,
-                                'Field': field,
-                                'Previous': prev_row[field],
-                                'Current': row[field]
-                            })
-        logger.info("Successfully Checked data")
-        return {
-            'added': list(added),
-            'removed': list(removed),
-            'changed': changed,
-            'total_current': len(current_names),
-            'total_previous': len(previous_names)
-        }
-    except Exception as e:
-        logger.error(f"Error occured during analysis and checks: {str(e)}")
-        return {
-            'added': [],
-            'removed': [],
-            'changed': [],
-            'total_current': [],
-            'total_previous': []
-        }
+    # Create unique identifier combining name and category
+    current_df['identifier'] = current_df['Institution Name'] + ' (' + current_df['Category'] + ')'
+    previous_df['identifier'] = previous_df['Institution Name'] + ' (' + previous_df['Category'] + ')'
     
+    # Get institution identifiers
+    current_identifiers = set(current_df['identifier'])
+    previous_identifiers = set(previous_df['identifier'])
+    
+    # Find additions and removals with category info
+    added = current_identifiers - previous_identifiers
+    removed = previous_identifiers - current_identifiers
+    
+    # Check for name changes and other field changes
+    changed = []
+    for index, row in current_df.iterrows():
+        inst_name = row['Institution Name']
+        category = row['Category']
+        identifier = row['identifier']
+        
+        # Look for same institution (by name and category)
+        if identifier in previous_identifiers:
+            # Get previous record
+            prev_row = previous_df[previous_df['identifier'] == identifier].iloc[0]
+            
+            # Check for changes in key fields
+            for field in ['Street Address', 'Website', 'Telephone number']:
+                if field in row and field in prev_row:
+                    if str(row[field]) != str(prev_row[field]):
+                        changed.append({
+                            'Institution': inst_name,
+                            'Category': category,
+                            'Field': field,
+                            'Previous': prev_row[field],
+                            'Current': row[field]
+                        })
+    
+    return {
+        'added': list(added),
+        'removed': list(removed),
+        'changed': changed,
+        'total_current': len(current_identifiers),
+        'total_previous': len(previous_identifiers)
+    }
+
 
 def generate_change_report(changes):
     """
     Generate a human-readable change report
     """
-
     today = datetime.now().strftime('%Y-%m-%d')
     
     with open(f'data/report/changes_{today}.txt', 'w') as f:
@@ -125,7 +120,7 @@ def generate_change_report(changes):
         f.write(f"Total institutions: {changes['total_current']} (previous: {changes['total_previous']})\n")
         f.write(f"New institutions: {len(changes['added'])}\n")
         f.write(f"Removed institutions: {len(changes['removed'])}\n")
-        f.write(f"Institutions with changed details: {len(set(c['Institution'] for c in changes['changed']))}\n\n")
+        f.write(f"Institutions with changed details: {len(set((c['Institution'], c['Category']) for c in changes['changed']))}\n\n")
         
         if changes['added']:
             f.write("ADDED INSTITUTIONS:\n")
@@ -141,13 +136,15 @@ def generate_change_report(changes):
             
         if changes['changed']:
             f.write("CHANGED INSTITUTION DETAILS:\n")
-            current_inst = None
-            for change in sorted(changes['changed'], key=lambda x: x['Institution']):
-                if current_inst != change['Institution']:
-                    current_inst = change['Institution']
-                    f.write(f"\n* {current_inst}:\n")
+            current_key = None
+            for change in sorted(changes['changed'], key=lambda x: (x['Category'], x['Institution'])):
+                key = (change['Institution'], change['Category'])
+                if current_key != key:
+                    current_key = key
+                    f.write(f"\n* {change['Institution']} ({change['Category']}):\n")
                 f.write(f"  - {change['Field']}: '{change['Previous']}' → '{change['Current']}'\n")
 
+    
 
 def cleanup_old_files(keep_latest=3):
     """
@@ -181,6 +178,21 @@ def main():
         
     if not previous_file:
         logger.error("Only one data file found. No comparison possible.")
+        # Create an initial baseline report instead of a comparison
+        today = datetime.now().strftime('%Y-%m-%d')
+        current_df = pd.read_csv(current_file)
+        
+        with open(f'data/report/initial_baseline_{today}.txt', 'w') as f:
+            f.write(f"CBN Financial Institutions Initial Baseline - {today}\n")
+            f.write("="*60 + "\n\n")
+            f.write(f"Total institutions: {len(current_df)}\n\n")
+            f.write("INSTITUTIONS:\n")
+            
+            # List all institutions in the baseline
+            for name in sorted(current_df['Institution Name']):
+                f.write(f"- {name}\n")
+        
+        logger.info(f"Created initial baseline report with {len(current_df)} institutions.")
         return
     
     # Compare the data
