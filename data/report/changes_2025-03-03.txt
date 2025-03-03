@@ -1,0 +1,12 @@
+CBN Financial Institutions Change Report - 2025-03-03
+============================================================
+
+SUMMARY:
+Total institutions: 944 (previous: 943)
+New institutions: 1
+Removed institutions: 0
+Institutions with changed details: 0
+
+ADDED INSTITUTIONS:
++ Summit Bank Limited (Non-Interest Banks)
+

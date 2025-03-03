@@ -34,7 +34,13 @@ jobs:
         run: python scripts/cbn_scraper.py
         
       - name: Compare and analyze results
-        run: python scripts/analyze_changes.py
+        run: |
+          if [ $(find data/cbn_data -name "cbn_all_financial_institutions_*.csv" | wc -l) -le 1 ]; then
+            echo "First execution detected, skipping comparison"
+            python scripts/analyze_first_run.py
+          else
+            python scripts/analyze_changes.py
+          fi
         
       - name: Commit results
         run: |
