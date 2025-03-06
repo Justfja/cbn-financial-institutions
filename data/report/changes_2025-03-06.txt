@@ -1,0 +1,35 @@
+CBN Financial Institutions Change Report - 2025-03-06
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 953 (previous: 944)
+New institutions: 9
+Removed institutions: 0
+Institutions with changed details: 0
+
+ADDED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Finance Companies]
+• EVIB FINANCE COMPANY LIMITED
+  Website: - | Address: 3 Shalom Drivem Patrick Harbour Estate Off Mojisola Onikoyi Estate, Ikoyi Lagos
+• FIDUCIA FINANCE COMPANY LIMITED
+  Website: - | Address: The Rock Tower, The Rock Drive, Lekki Phase 1, Lagos State
+• NOLT FINANCE COMPANY LIMITED
+  Website: - | Address: Suite 4, First Floor, 11 Awolowo Road, Ikoyi, Lagos State
+• NORTHQUEST FINANCE COMPANY LIMITED
+  Website: - | Address: 8B Oluwakayode Jacobs Crescent, Lekki Phase 1, Lagos State
+• OXYGEN X FINANCE COMPANY LIMITED
+  Website: - | Address: 4th Floor Plot 1665, Oyin Jolayemi Street, Victoria Island Lagos
+• PREFERRED FINANCE COMPANY LIMITED
+  Website: - | Address: 3rd Floor, Infinity House, Kaura Namoda Street, off Faskari Crescent Area3, Garki, Abuja FCT
+• SPRING SKY FINANCE COMPANY LIMITED
+  Website: - | Address: Plot 6, Block 101, Furo Ezimaora Road, Lekki Phase 1, Lagos State
+• WOODHALL FINANCE COMPANY LIMITED
+  Website: - | Address: 22B, Gerrard Road, Ikoyi, Lagos State
+
+[Payment Service Banks]
+• SMARTCASH PSB LIMITED
+  Website: - | Address: Plot L2 401 Close Banana Island, Ikoyi, Lagos
+
