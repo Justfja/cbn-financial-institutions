@@ -1,0 +1,92 @@
+CBN Financial Institutions Change Report - 2025-03-10
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 884 (previous: 953)
+New institutions: 0
+Removed institutions: 69
+Institutions with changed details: 1
+
+REMOVED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• BROOKS MFB
+• BUBAYERO MFB LTD
+• BUNDI MFB
+• BUNGUDU MFB
+• BUNKASA MFB
+• BUNKURE MFB
+• BUSU MFB
+• CANAAN MFB
+• CAPITALMETRIQ SWIFT MFB
+• CARBON MFB
+• CARETAKER MFB
+• CASH RITE MFB
+• CASHCONNECT MFB
+• CASTLE MFB
+• CATLAND MFB
+• CEDAR MFB
+• CHALLENGE MFB
+• CHANGAN RTS MFB
+• CHASE MFB LTD
+• CHEVRON EMPLOYEE CO-OPERATIVE MFB (CEMCS)
+• CHIBUEZE MFB
+• CHIKUM MFB
+• CHRISORE MFB
+• CHRONICLES MFB
+• CHUKWUNENYE MFB
+• CINTRUST MFB
+• CITIZEN TRUST MFB
+• CITY MISSION METHODIST MFB
+• CIVIC MFB
+• CLOVERLEAF MFB
+• COAL CAMP MFB
+• COASTLINE MFB
+• COEMINNA MFB
+• CONFIDENCE MFB
+• CONSISTENT TRUST MFB
+• CORESTEP MFB
+• COVENANT MFB
+• CREEKLINE MFB
+• CRESCENT MFB
+• CREST MFB
+• CROSSRIVER MFB
+• CRUTECH MFB
+• CRYSTABEL MFB
+• CSD MFB
+• DAILY-TRUST MFB
+• DAL MFB
+• DAMBATTA- MAKODA MFB
+• DAVODANI MFB
+• DAWAKIN KUDU MFB
+• DAWAKIN TOFA MFB
+• DAYLIGHT MFB LTD
+• DEC-ENUGU MFB
+• DIOBU MFB
+• DOGUWA MFB
+• DOLPHIN MFB
+• DORBEN MFB
+• DUTSE MFB
+• DUTSIN-MA MFB
+• EAGLE FLIGHT MFB
+• EAST GATE MFB
+• EASTMAN MFB
+• EASY ACCESS MFB LTD
+• EBEDI MFB
+• EBONYI STATE UNIVERSITY MFB (EBSU)
+• EDFIN MFB
+• EDO MFB
+• EGBE MFB
+• EGBEMOHA MFB
+• e-BARCS MFB
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Finance Companies]
+• Harmony Breakthrough Finance Company Limited
+  - Street Address: '1st Floor Old Kingsway Building Radio Nigeria, Dugbe Ibadan, Oyo State' → 'nan'
+  - Website: '-' → 'nan'
+
