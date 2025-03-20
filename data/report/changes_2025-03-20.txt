@@ -1,0 +1,129 @@
+CBN Financial Institutions Change Report - 2025-03-20
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 953 (previous: 946)
+New institutions: 7
+Removed institutions: 0
+Institutions with changed details: 24
+
+ADDED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Holding Companies]
+• ACCESS HOLDINGS PLC
+• FBN HOLDINGS PLC
+• FCMB GROUP PLC
+• FSDH HOLDING COMPANY
+• GTB HOLD CO
+• STANBIC IBTC HOLDINGS PLC
+• STERLING FINANCIAL HOLDINGS LIMITED
+  Website: - | Address: NO 22 Marina, Lagos
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Citibank Nigeria Limited
+  - Street Address: '27 Kofo Abayomi Street, Victoria Island, Lagos.' → 'nan'
+  - Website: 'www.citibank.com' → 'nan'
+
+• Ecobank Nigeria Plc
+  - Street Address: '21 Ahmadu Bello Way, Victoria Island, Lagos.' → 'nan'
+  - Website: 'www.ecobank.com' → 'nan'
+
+[Finance Companies]
+• FUNDSWORTH LIMITED
+  - Street Address: '6, Louis Solomon Close;' → 'nan'
+  - Website: '-' → 'nan'
+
+• OXYGEN X FINANCE COMPANY LIMITED
+  - Street Address: 'nan' → '4th Floor Plot 1665, Oyin Jolayemi Street, Victoria Island Lagos'
+  - Website: 'nan' → '-'
+
+• SPRING SKY FINANCE COMPANY LIMITED
+  - Street Address: 'nan' → 'Plot 6, Block 101, Furo Ezimaora Road, Lekki Phase 1, Lagos State'
+  - Website: 'nan' → '-'
+
+[Merchant Banks]
+• FBNQUEST MERCHANT BANK
+  - Street Address: '2 Kofo Abayomi Street' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• Awkuzu Microfinance Bank Limited
+  - Street Address: 'nan' → 'OTUOCHA-ABAGANA ROAD, AWKUZU, ANAMBRA'
+  - Website: 'nan' → '-'
+
+• Balera Microfinance Bank Limited
+  - Street Address: 'nan' → 'NO. 2, KAFANCHAN ROAD, LERE LERE LGA KADUNA STATE'
+  - Website: 'nan' → '-'
+
+• Balogun Gambari Microfinance Bank Limited
+  - Street Address: 'nan' → 'NO 1 OJAGBORO JUNCTION BOLOGUN GAMBARI ROAD, ILORIN.'
+  - Website: 'nan' → '-'
+
+• Bejin-Doko Microfinance Bank Limited
+  - Street Address: 'nan' → 'BIDA ROAD, DOKO GARAGE, NEAR POLICE STATION, LAVUN LGA, P.OBOX 568, BIDA, NIGER STATE'
+  - Website: 'nan' → '-'
+
+• Bichi Microfinance Bank Limited
+  - Street Address: 'nan' → 'No. 1, Bichi Main Street, Bichi Town, Bichi LGA, Kano State'
+  - Website: 'nan' → '-'
+
+• Blooms Microfinance Bank
+  - Street Address: 'nan' → 'No 108 Lagos Road, Ikorodu, Lagos State'
+  - Website: 'nan' → '-'
+
+• Boost Microfinance Bank Limited
+  - Street Address: 'No 108 Lagos Road, Ikorodu, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Flexi Microfinance Bank
+  - Street Address: 'nan' → 'No 63 Adekunle Fajuyi Way, GRA Ikeja, Lagos State'
+  - Website: 'nan' → '-'
+
+• Wallet Microfinance Bank
+  - Street Address: 'nan' → 'Suite 312-314C Royal Plaza, Opposite Mararaba Building Materials Market, Mararaba Karu LGA, Nasarawa State.'
+  - Website: 'nan' → '-'
+
+[Mobile Money Operators]
+• ABEG TECHNOLOGIES LIMITED
+  - Street Address: 'nan' → 'Tesmot House 3 Abdulrahman Okene Close, Off Ligali Ayorinde Street, Lagos'
+  - Website: 'nan' → '-'
+
+• CHAMS MOBILE LIMITED
+  - Street Address: 'nan' → '8 Louis Solomon Close Off Ahmadu Bello Way ,Victoria Island, Lagos'
+  - Website: 'nan' → '-'
+
+• FORTIS MOBILE MONEY LIMITED
+  - Street Address: 'nan' → 'Suit 402 Capital Hub Mabushi, Abuja'
+  - Website: 'nan' → '-'
+
+• NOWNOW DIGITAL SYSTEMS LIMITED (FORMERLY CONTEC GLOBAL INFOTECH LIMITED)
+  - Street Address: 'nan' → '239/241 Ikorodu Road Beside Sterling Bank Head Office Annex Office illupeju'
+  - Website: 'nan' → '-'
+
+• OPAY DIGITAL SERVICES LIMITED (FORMERLY PAYCOM NIGERIA LIMITED)
+  - Street Address: 'nan' → 'Alexander House Otunba Jobi Fele Way Agidingbi, Alausa, Ikeja, Lagos'
+  - Website: 'nan' → '-'
+
+• PAGATECH LIMITED
+  - Street Address: 'nan' → '176 Herbert Macaulay Way 3rd Floor, Yaba, Lagos'
+  - Website: 'nan' → '-'
+
+[Non-Interest Banks]
+• Alternative Bank Limited
+  - Street Address: 'No 239, Ikorodu Road, Obanikoro, Ilupeju, Mushin LGA Lagos.' → 'nan'
+  - Website: 'https://altbank.ng' → 'nan'
+
+• Summit Bank Limited
+  - Street Address: 'nan' → 'No. 5 Amal Pepple Street Off Ameyo Adadevoh Way, Jahi Abuja.'
+  - Website: 'nan' → '-'
+
+[Primary Mortgage Banks]
+• Adamawa Mortgage Bank Limited
+  - Street Address: 'No 1, Bishop Street, Jimeta Yola, Adamawa State' → 'nan'
+  - Website: '-' → 'nan'
+
