@@ -1,7 +1,7 @@
 Institution Name,Category,Name of Financial Institution,Instituition Type,Categorization,Old Name,Date of New Name,Street Address,Area,State,Telephone Number(s),Website,Email,Fax,PostalAddress,country,Ownership Type,Other Information,Date Licensed
 Access Bank Plc,Commercial Banks,Access Bank Plc,Commercial Bank,International,Access Bank Plc,17/01/1990,"14/15, Prince Alaba Oniru Road, Victoria Island, Lagos",Victoria Island,LAGOS,"(234) 01 26210404-41,2626273-76,2641571-72,3201889",www.accessbankplc.com,info@accessbankplc.com,(234) 01 2621037,"Plot 1665, Oyin Jolayemi Street",NGN,Domestic,"Access Bank, Capital Bank Int. Marina Bank,","5th Feb, 2001 (previously licensed Dec. 19, 1988)"
-Citibank Nigeria Limited,Commercial Banks,,,,,,,,,,,,,,,,,
-Ecobank Nigeria Plc,Commercial Banks,,,,,,,,,,,,,,,,,
+Citibank Nigeria Limited,Commercial Banks,Citibank Nigeria Limited,Commercial Bank,National,Nigerian International Bank Ltd,11/10/2004,"27 Kofo Abayomi Street, Victoria Island, Lagos.",Victoria Island,LAGOS,234 01 2622000-9,www.citibank.com,-,"234 01 2618916,2623334","P.O.Box 6391, Victoria island",NGN,Foreign,Nigerian International Bank Ltd,"3rd January, 2006"
+Ecobank Nigeria Plc,Commercial Banks,Ecobank Nigeria Plc,Commercial Bank,National,-,24/04/1989,"21 Ahmadu Bello Way, Victoria Island, Lagos.",Victoria Island,LAGOS,"234 01 2626638-88, 2626710-17",www.ecobank.com,ecobank@ecobank.com,"234 01 2616568, 2620920","P.O.Box 72688 Victoria island, Lagos",NGN,-,Ecobank Ltd,"3rd January, 2006 (previously licensed Dec. 16, 1988)"
 Fidelity Bank Plc,Commercial Banks,,,,,,,,,,,,,,,,,
 First Bank Nigeria Limited,Commercial Banks,,,,,,,,,,,,,,,,,
 First City Monument Bank Plc,Commercial Banks,First City Monument Bank Plc,Commercial Bank,International,First City Monument Bank Plc,11/11/1983,"Primrose Towers, 6-10 Floors 17A Tinubu Square",Tinubu Square,LAGOS,01 2665944 - 53,www.fcmb-ltd.com,caf@firstcitygroup.com,01 2665126,"P. O. Box 9117, Lagos Nigeria",NGN,-,"FCMB, Co-operative Dev, NAMBL, Midas","3rd January, 2006 (previously August 11,1983)"
@@ -86,7 +86,7 @@ FIRST MARINA TRUST LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
 FLOBAL FINANCIAL SERVICES LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
 FUNDIT FINANCIAL SERVICES LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
 FUNDQUEST FINANCIAL SERVICES LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
-FUNDSWORTH LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
+FUNDSWORTH LIMITED,Finance Companies,FUNDSWORTH LIMITED,Finance Company,-,-,03/07/2007,"6, Louis Solomon Close;",-,LAG,01-4803077; 610782; 2611306,-,-,-,"P.O. Box 74424, Victoria Island",NGN,Domestic,-,7/3/2007
 GADOL FINANCE LTD,Finance Companies,,,,,,,,,,,,,,,,,
 GDL FINANCE AND LEASING COMPANY LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
 GOODGATE FINANCE LTD,Finance Companies,,,,,,,,,,,,,,,,,
@@ -159,7 +159,7 @@ GTB HOLD CO,Holding Companies,,,,,,,,,,,,,,,,,
 STANBIC IBTC HOLDINGS PLC,Holding Companies,,,,,,,,,,,,,,,,,
 STERLING FINANCIAL HOLDINGS LIMITED,Holding Companies,STERLING FINANCIAL HOLDINGS LIMITED,Holding Company,None,-,01/01/1900,"NO 22 Marina, Lagos",Lagos,LAGOS,xxxxxxxxx,-,-,-,"NO 22 Marina, Lagos",NGN,Domestic,-,04/26/2024
 CORONATION MERCHANT BANK,Merchant Banks,,,,,,,,,,,,,,,,,
-FBNQUEST MERCHANT BANK,Merchant Banks,,,,,,,,,,,,,,,,,
+FBNQUEST MERCHANT BANK,Merchant Banks,FBNQUEST MERCHANT BANK,Merchant Bank,International,-,02/01/2006,2 Kofo Abayomi Street,Victoria Island,LAGOS,234 01 2610408-12,-,-,234 01 2610414,"2, Kofo Abayomi Street",NGN,-,"Fidelity Bank, FSB, Manny Bank",3rd January 2006
 FSDH MERCHANT BANK,Merchant Banks,,,,,,,,,,,,,,,,,
 GREENWICH MERCHANT BANK,Merchant Banks,,,,,,,,,,,,,,,,,
 RAND MERCHANT BANK,Merchant Banks,,,,,,,,,,,,,,,,,
@@ -274,7 +274,7 @@ BOJI BOJI MFB LTD.,Micro-finance Banks,,,,,,,,,,,,,,,,,
 BOKKOS MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 BOMPAI MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 BONGHE MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
-Boost Microfinance Bank Limited,Micro-finance Banks,,,,,,,,,,,,,,,,,
+Boost Microfinance Bank Limited,Micro-finance Banks,Boost Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,-,01/01/1900,"No 108 Lagos Road, Ikorodu, Lagos State",Ikorodu,LAGOS,xxx,-,-,-,-,NGN,Domestic,-,08/08/2024
 BORGU MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 BORNO RENAISSANCE MFB LTD.,Micro-finance Banks,,,,,,,,,,,,,,,,,
 BOROMU MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
@@ -892,13 +892,13 @@ ZIKORA MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 ZION MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 ZURMI MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 ZURU MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
-Alternative Bank Limited,Non-Interest Banks,,,,,,,,,,,,,,,,,
+Alternative Bank Limited,Non-Interest Banks,Alternative Bank Limited,Non-Interest Bank,National,-,01/01/1900,"No 239, Ikorodu Road, Obanikoro, Ilupeju, Mushin LGA Lagos.",Mushin,LAGOS,+23417000555,https://altbank.ng,help@altbank.ng,-,"o 239, Ikorodu Road, Obanikoro, Ilupeju, Mushin LGA Lagos.",NGN,Domestic,-,06/26/2023
 JAIZ BANK PLC,Non-Interest Banks,,,,,,,,,,,,,,,,,
 LOTUS BANK LTD,Non-Interest Banks,,,,,,,,,,,,,,,,,
 Summit Bank Limited,Non-Interest Banks,Summit Bank Limited,Non-Interest Bank,Regional,-,01/01/1900,"No. 5 Amal Pepple Street Off Ameyo Adadevoh Way, Jahi Abuja.",Abuja,ABUJA,0,-,-,-,-,NGN,Domestic,-,02/06/2025
 TAJ,Non-Interest Banks,,,,,,,,,,,,,,,,,
 ABBEY MORTGAGE BANK,Primary Mortgage Banks,,,,,,,,,,,,,,,,,
-Adamawa Mortgage Bank Limited,Primary Mortgage Banks,,,,,,,,,,,,,,,,,
+Adamawa Mortgage Bank Limited,Primary Mortgage Banks,Adamawa Mortgage Bank Limited,Primary Mortgage Institutions,State,-,01/01/1900,"No 1, Bishop Street, Jimeta Yola, Adamawa State",Yola,ADAMAWA,07032268912,-,-,-,-,NGN,Domestic,-,05/23/2024
 AG HOMES,Primary Mortgage Banks,,,,,,,,,,,,,,,,,
 AKWA SAVINGS,Primary Mortgage Banks,,,,,,,,,,,,,,,,,
 ASO SAVINGS & LOANS,Primary Mortgage Banks,,,,,,,,,,,,,,,,,

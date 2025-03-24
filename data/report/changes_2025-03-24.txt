@@ -1,0 +1,47 @@
+CBN Financial Institutions Change Report - 2025-03-24
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 953 (previous: 953)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 7
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Citibank Nigeria Limited
+  - Street Address: 'nan' → '27 Kofo Abayomi Street, Victoria Island, Lagos.'
+  - Website: 'nan' → 'www.citibank.com'
+
+• Ecobank Nigeria Plc
+  - Street Address: 'nan' → '21 Ahmadu Bello Way, Victoria Island, Lagos.'
+  - Website: 'nan' → 'www.ecobank.com'
+
+[Finance Companies]
+• FUNDSWORTH LIMITED
+  - Street Address: 'nan' → '6, Louis Solomon Close;'
+  - Website: 'nan' → '-'
+
+[Merchant Banks]
+• FBNQUEST MERCHANT BANK
+  - Street Address: 'nan' → '2 Kofo Abayomi Street'
+  - Website: 'nan' → '-'
+
+[Micro-finance Banks]
+• Boost Microfinance Bank Limited
+  - Street Address: 'nan' → 'No 108 Lagos Road, Ikorodu, Lagos State'
+  - Website: 'nan' → '-'
+
+[Non-Interest Banks]
+• Alternative Bank Limited
+  - Street Address: 'nan' → 'No 239, Ikorodu Road, Obanikoro, Ilupeju, Mushin LGA Lagos.'
+  - Website: 'nan' → 'https://altbank.ng'
+
+[Primary Mortgage Banks]
+• Adamawa Mortgage Bank Limited
+  - Street Address: 'nan' → 'No 1, Bishop Street, Jimeta Yola, Adamawa State'
+  - Website: 'nan' → '-'
+
