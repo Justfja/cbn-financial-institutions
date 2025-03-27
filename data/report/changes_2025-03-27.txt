@@ -1,0 +1,101 @@
+CBN Financial Institutions Change Report - 2025-03-27
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 953 (previous: 953)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 21
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Guaranty Trust Bank Plc
+  - Street Address: '635, Akin Adesola Street, Victoria Island, Lagos' → 'nan'
+  - Website: 'www.gtbplc.com' → 'nan'
+
+• Nova Commercial Bank Limited
+  - Street Address: '23 Kofo Abayomi Street, Victoria Island, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• Optimus Bank
+  - Street Address: 'No 55 Bishop Oluwole Street, Victoria Island, Lagos' → 'nan'
+  - Website: 'https://optimusbank.com' → 'nan'
+
+• Standard Chartered Bank Nigeria Ltd.
+  - Street Address: '142 Ahmadu Bello Way, Victoria Island, Lagos.' → 'nan'
+  - Website: 'www.ng.standardchartered.com' → 'nan'
+
+• Sterling Bank Plc
+  - Street Address: 'Sterling Towers, 20 Marina, Lagos.' → 'nan'
+  - Website: 'www.sterlingbankng.com' → 'nan'
+
+• SunTrust Bank Nigeria Limited
+  - Street Address: '1 Oladele Olashore Street' → 'nan'
+  - Website: '-' → 'nan'
+
+[Development Finance Institutions]
+• BANK OF INDUSTRY
+  - Street Address: '23, Marina, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+[Finance Companies]
+• CFS Financial Services Limited
+  - Street Address: 'Eleganza Building, 15B Wesley/Joseph Street,' → 'nan'
+  - Website: '-' → 'nan'
+
+• CO-LINK INVESTMENT MANAGEMENT COMPANY LIMITED
+  - Street Address: 'NO,1 MOTOR WAYS AVENUE, ALAUSA, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• DIGNITY FINANCE LIMITED
+  - Street Address: 'YOMA PLACE, NO 5 O.P. FINGESI STREET, UTAKO DISTRICT, ABUJA, FCT' → 'nan'
+  - Website: '-' → 'nan'
+
+• DOMINION FINANCE LIMITED
+  - Street Address: '207 IGBOSERE ROAD, LAGOS ISLAND, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• EVIB FINANCE COMPANY LIMITED
+  - Street Address: '3 Shalom Drivem Patrick Harbour Estate Off Mojisola Onikoyi Estate, Ikoyi Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• FUNDSWORTH LIMITED
+  - Street Address: '6, Louis Solomon Close;' → 'nan'
+  - Website: '-' → 'nan'
+
+• SPRING SKY FINANCE COMPANY LIMITED
+  - Street Address: 'Plot 6, Block 101, Furo Ezimaora Road, Lekki Phase 1, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• STIRLING TRUST COMPANY LIMITED
+  - Street Address: 'Plot PC 10, Engineering Close,' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• AWESOME MFB
+  - Street Address: 'DUO PLAZA OPP GWAGWALADAULTRA MODERN MARKET, KUTUNKU, ABUJA' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aspire Microfinance Bank LImited
+  - Street Address: 'No. 254, Umusadegi Road, Kwale' → 'nan'
+  - Website: '-' → 'nan'
+
+• Awe Microfinance Bank Limited
+  - Street Address: 'Awe-Iwo Road, Awe, Oyo State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Balera Microfinance Bank Limited
+  - Street Address: 'NO. 2, KAFANCHAN ROAD, LERE LERE LGA KADUNA STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bauchi CFA Mirofinance Bank Limited
+  - Street Address: 'Mohammed Adamu Hashidu House, No. 21 Abdulkadir Ahmed Road, P.M.B. 0125, Bauchi, Bauchi State.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Berachah Microfinance Bank Limited
+  - Street Address: 'PLOT 1, CMD ROAD, IKOSI, KETU, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
