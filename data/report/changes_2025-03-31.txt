@@ -1,0 +1,130 @@
+CBN Financial Institutions Change Report - 2025-03-31
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 953 (previous: 953)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 28
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Guaranty Trust Bank Plc
+  - Street Address: 'nan' → '635, Akin Adesola Street, Victoria Island, Lagos'
+  - Website: 'nan' → 'www.gtbplc.com'
+
+• Nova Commercial Bank Limited
+  - Street Address: 'nan' → '23 Kofo Abayomi Street, Victoria Island, Lagos'
+  - Website: 'nan' → '-'
+
+• Optimus Bank
+  - Street Address: 'nan' → 'No 55 Bishop Oluwole Street, Victoria Island, Lagos'
+  - Website: 'nan' → 'https://optimusbank.com'
+
+• Standard Chartered Bank Nigeria Ltd.
+  - Street Address: 'nan' → '142 Ahmadu Bello Way, Victoria Island, Lagos.'
+  - Website: 'nan' → 'www.ng.standardchartered.com'
+
+• Sterling Bank Plc
+  - Street Address: 'nan' → 'Sterling Towers, 20 Marina, Lagos.'
+  - Website: 'nan' → 'www.sterlingbankng.com'
+
+• SunTrust Bank Nigeria Limited
+  - Street Address: 'nan' → '1 Oladele Olashore Street'
+  - Website: 'nan' → '-'
+
+[Development Finance Institutions]
+• BANK OF INDUSTRY
+  - Street Address: 'nan' → '23, Marina, Lagos'
+  - Website: 'nan' → '-'
+
+[Finance Companies]
+• CFS Financial Services Limited
+  - Street Address: 'nan' → 'Eleganza Building, 15B Wesley/Joseph Street,'
+  - Website: 'nan' → '-'
+
+• CO-LINK INVESTMENT MANAGEMENT COMPANY LIMITED
+  - Street Address: 'nan' → 'NO,1 MOTOR WAYS AVENUE, ALAUSA, LAGOS'
+  - Website: 'nan' → '-'
+
+• DIGNITY FINANCE LIMITED
+  - Street Address: 'nan' → 'YOMA PLACE, NO 5 O.P. FINGESI STREET, UTAKO DISTRICT, ABUJA, FCT'
+  - Website: 'nan' → '-'
+
+• EVIB FINANCE COMPANY LIMITED
+  - Street Address: 'nan' → '3 Shalom Drivem Patrick Harbour Estate Off Mojisola Onikoyi Estate, Ikoyi Lagos'
+  - Website: 'nan' → '-'
+
+• FUNDSWORTH LIMITED
+  - Street Address: 'nan' → '6, Louis Solomon Close;'
+  - Website: 'nan' → '-'
+
+• SPRING SKY FINANCE COMPANY LIMITED
+  - Street Address: 'nan' → 'Plot 6, Block 101, Furo Ezimaora Road, Lekki Phase 1, Lagos State'
+  - Website: 'nan' → '-'
+
+• STIRLING TRUST COMPANY LIMITED
+  - Street Address: 'nan' → 'Plot PC 10, Engineering Close,'
+  - Website: 'nan' → '-'
+
+[Micro-finance Banks]
+• AACB Microfinance Bank Limited
+  - Street Address: 'Adazi-Ani Town Hall, Adazi Ani,' → 'nan'
+  - Website: '-' → 'nan'
+
+• AWESOME MFB
+  - Street Address: 'nan' → 'DUO PLAZA OPP GWAGWALADAULTRA MODERN MARKET, KUTUNKU, ABUJA'
+  - Website: 'nan' → '-'
+
+• Abia State University Microfinance Bank Limited
+  - Street Address: 'Uturu, Isuikwuato LGA, Abia State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Achina Microfinance Bank Limited
+  - Street Address: 'Achima Aguata LGA, Anambra State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ajewole Microfinance Bank Limited
+  - Street Address: 'Ilorin Road, Sabo, Ogbomosho' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aspire Microfinance Bank LImited
+  - Street Address: 'nan' → 'No. 254, Umusadegi Road, Kwale'
+  - Website: 'nan' → '-'
+
+• Awe Microfinance Bank Limited
+  - Street Address: 'nan' → 'Awe-Iwo Road, Awe, Oyo State'
+  - Website: 'nan' → '-'
+
+• Balera Microfinance Bank Limited
+  - Street Address: 'nan' → 'NO. 2, KAFANCHAN ROAD, LERE LERE LGA KADUNA STATE'
+  - Website: 'nan' → '-'
+
+• Bauchi CFA Mirofinance Bank Limited
+  - Street Address: 'nan' → 'Mohammed Adamu Hashidu House, No. 21 Abdulkadir Ahmed Road, P.M.B. 0125, Bauchi, Bauchi State.'
+  - Website: 'nan' → '-'
+
+• Berachah Microfinance Bank Limited
+  - Street Address: 'nan' → 'PLOT 1, CMD ROAD, IKOSI, KETU, LAGOS'
+  - Website: 'nan' → '-'
+
+• Bethel Microfinance Bank Limited
+  - Street Address: 'PLOT C/1 OWERRI ROAD EXTENSION, SECRETARIAT QTRS, ASATA, ENUGU STATE.' → 'nan'
+  - Website: '-' → 'nan'
+
+[Mobile Money Operators]
+• ETRANZACT INTERNATIONAL LIMITED
+  - Street Address: '27/29 Adeyemo Alakija Street Victoria Island' → 'nan'
+  - Website: '-' → 'nan'
+
+• NOWNOW DIGITAL SYSTEMS LIMITED (FORMERLY CONTEC GLOBAL INFOTECH LIMITED)
+  - Street Address: '239/241 Ikorodu Road Beside Sterling Bank Head Office Annex Office illupeju' → 'nan'
+  - Website: '-' → 'nan'
+
+• XPRESS MTS LIMITED
+  - Street Address: 'N0 23 Oba Akinjobi Way, Ikeja GRA, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
