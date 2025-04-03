@@ -1,0 +1,119 @@
+CBN Financial Institutions Change Report - 2025-04-03
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 953 (previous: 953)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 25
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Signature Bank Limited
+  - Street Address: 'Plot 31B, Gana Street, Maitama, FCT Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• United Bank For Africa Plc
+  - Street Address: '57, Marina' → 'nan'
+  - Website: 'www.ubagroup.com' → 'nan'
+
+[Finance Companies]
+• CO-LINK INVESTMENT MANAGEMENT COMPANY LIMITED
+  - Street Address: 'NO,1 MOTOR WAYS AVENUE, ALAUSA, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• DOMINION FINANCE LIMITED
+  - Street Address: 'nan' → '207 IGBOSERE ROAD, LAGOS ISLAND, LAGOS'
+  - Website: 'nan' → '-'
+
+• OXYGEN X FINANCE COMPANY LIMITED
+  - Street Address: '4th Floor Plot 1665, Oyin Jolayemi Street, Victoria Island Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• AACB Microfinance Bank Limited
+  - Street Address: 'nan' → 'Adazi-Ani Town Hall, Adazi Ani,'
+  - Website: 'nan' → '-'
+
+• AZSA Microfinance Bank Limited
+  - Street Address: '37 OSOLO WAY, AJAO ESTATE OFF INTERNATIONAL AIRPORT LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• Abia State University Microfinance Bank Limited
+  - Street Address: 'nan' → 'Uturu, Isuikwuato LGA, Abia State'
+  - Website: 'nan' → '-'
+
+• Achina Microfinance Bank Limited
+  - Street Address: 'nan' → 'Achima Aguata LGA, Anambra State'
+  - Website: 'nan' → '-'
+
+• Ajewole Microfinance Bank Limited
+  - Street Address: 'nan' → 'Ilorin Road, Sabo, Ogbomosho'
+  - Website: 'nan' → '-'
+
+• Ajose Microfinance Bank Limited
+  - Street Address: 'Ejinrin Road, Ijebu South' → 'nan'
+  - Website: '-' → 'nan'
+
+• Astra Polaris Microfinance Bank Limited
+  - Street Address: 'ADIGBE AREA, OBAFEMI OWODE LGA, ABEOKUTA, OGUN STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Auchi Microfinance Bank Limited
+  - Street Address: '40, Otaru Road, Auchi' → 'nan'
+  - Website: '-' → 'nan'
+
+• Auchi Polytechnic Microfinance Bank Limited
+  - Street Address: 'Main Gate, Main Campus, Auchi Polytechnic, Benin-Okene Expressway, Auchi, Edo State.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bethel Microfinance Bank Limited
+  - Street Address: 'nan' → 'PLOT C/1 OWERRI ROAD EXTENSION, SECRETARIAT QTRS, ASATA, ENUGU STATE.'
+  - Website: 'nan' → '-'
+
+• Bichi Microfinance Bank Limited
+  - Street Address: 'No. 1, Bichi Main Street, Bichi Town, Bichi LGA, Kano State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ladder Microfinance Bank
+  - Street Address: 'No 77 Ayangburen Road, Ikorodu, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+[Mobile Money Operators]
+• ABEG TECHNOLOGIES LIMITED
+  - Street Address: 'Tesmot House 3 Abdulrahman Okene Close, Off Ligali Ayorinde Street, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• CHAMS MOBILE LIMITED
+  - Street Address: '8 Louis Solomon Close Off Ahmadu Bello Way ,Victoria Island, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• ETRANZACT INTERNATIONAL LIMITED
+  - Street Address: 'nan' → '27/29 Adeyemo Alakija Street Victoria Island'
+  - Website: 'nan' → '-'
+
+• FORTIS MOBILE MONEY LIMITED
+  - Street Address: 'Suit 402 Capital Hub Mabushi, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• MKUDI LIMITED
+  - Street Address: 'Plot 1648C, Oko-Awo Close, Victoria Island, Eti Osa' → 'nan'
+  - Website: '-' → 'nan'
+
+• VISUAL ICT LIMITED
+  - Street Address: 'No 4, Tamale Street, Wuse Zone 3, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+[Payment Service Banks]
+• SMARTCASH PSB LIMITED
+  - Street Address: 'Plot L2 401 Close Banana Island, Ikoyi, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+[Primary Mortgage Banks]
+• Adamawa Mortgage Bank Limited
+  - Street Address: 'No 1, Bishop Street, Jimeta Yola, Adamawa State' → 'nan'
+  - Website: '-' → 'nan'
+
