@@ -1,0 +1,99 @@
+CBN Financial Institutions Change Report - 2025-04-07
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 953 (previous: 953)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 20
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Signature Bank Limited
+  - Street Address: 'nan' → 'Plot 31B, Gana Street, Maitama, FCT Abuja'
+  - Website: 'nan' → '-'
+
+• United Bank For Africa Plc
+  - Street Address: 'nan' → '57, Marina'
+  - Website: 'nan' → 'www.ubagroup.com'
+
+[Finance Companies]
+• CO-LINK INVESTMENT MANAGEMENT COMPANY LIMITED
+  - Street Address: 'nan' → 'NO,1 MOTOR WAYS AVENUE, ALAUSA, LAGOS'
+  - Website: 'nan' → '-'
+
+• OXYGEN X FINANCE COMPANY LIMITED
+  - Street Address: 'nan' → '4th Floor Plot 1665, Oyin Jolayemi Street, Victoria Island Lagos'
+  - Website: 'nan' → '-'
+
+[Micro-finance Banks]
+• AZSA Microfinance Bank Limited
+  - Street Address: 'nan' → '37 OSOLO WAY, AJAO ESTATE OFF INTERNATIONAL AIRPORT LAGOS'
+  - Website: 'nan' → '-'
+
+• Ajose Microfinance Bank Limited
+  - Street Address: 'nan' → 'Ejinrin Road, Ijebu South'
+  - Website: 'nan' → '-'
+
+• Astra Polaris Microfinance Bank Limited
+  - Street Address: 'nan' → 'ADIGBE AREA, OBAFEMI OWODE LGA, ABEOKUTA, OGUN STATE'
+  - Website: 'nan' → '-'
+
+• Auchi Microfinance Bank Limited
+  - Street Address: 'nan' → '40, Otaru Road, Auchi'
+  - Website: 'nan' → '-'
+
+• Auchi Polytechnic Microfinance Bank Limited
+  - Street Address: 'nan' → 'Main Gate, Main Campus, Auchi Polytechnic, Benin-Okene Expressway, Auchi, Edo State.'
+  - Website: 'nan' → '-'
+
+• Bichi Microfinance Bank Limited
+  - Street Address: 'nan' → 'No. 1, Bichi Main Street, Bichi Town, Bichi LGA, Kano State'
+  - Website: 'nan' → '-'
+
+• Ladder Microfinance Bank
+  - Street Address: 'nan' → 'No 77 Ayangburen Road, Ikorodu, Lagos State'
+  - Website: 'nan' → '-'
+
+[Mobile Money Operators]
+• ABEG TECHNOLOGIES LIMITED
+  - Street Address: 'nan' → 'Tesmot House 3 Abdulrahman Okene Close, Off Ligali Ayorinde Street, Lagos'
+  - Website: 'nan' → '-'
+
+• CHAMS MOBILE LIMITED
+  - Street Address: 'nan' → '8 Louis Solomon Close Off Ahmadu Bello Way ,Victoria Island, Lagos'
+  - Website: 'nan' → '-'
+
+• FORTIS MOBILE MONEY LIMITED
+  - Street Address: 'nan' → 'Suit 402 Capital Hub Mabushi, Abuja'
+  - Website: 'nan' → '-'
+
+• MKUDI LIMITED
+  - Street Address: 'nan' → 'Plot 1648C, Oko-Awo Close, Victoria Island, Eti Osa'
+  - Website: 'nan' → '-'
+
+• NOWNOW DIGITAL SYSTEMS LIMITED (FORMERLY CONTEC GLOBAL INFOTECH LIMITED)
+  - Street Address: 'nan' → '239/241 Ikorodu Road Beside Sterling Bank Head Office Annex Office illupeju'
+  - Website: 'nan' → '-'
+
+• VISUAL ICT LIMITED
+  - Street Address: 'nan' → 'No 4, Tamale Street, Wuse Zone 3, Abuja'
+  - Website: 'nan' → '-'
+
+• XPRESS MTS LIMITED
+  - Street Address: 'nan' → 'N0 23 Oba Akinjobi Way, Ikeja GRA, Lagos'
+  - Website: 'nan' → '-'
+
+[Payment Service Banks]
+• SMARTCASH PSB LIMITED
+  - Street Address: 'nan' → 'Plot L2 401 Close Banana Island, Ikoyi, Lagos'
+  - Website: 'nan' → '-'
+
+[Primary Mortgage Banks]
+• Adamawa Mortgage Bank Limited
+  - Street Address: 'nan' → 'No 1, Bishop Street, Jimeta Yola, Adamawa State'
+  - Website: 'nan' → '-'
+
