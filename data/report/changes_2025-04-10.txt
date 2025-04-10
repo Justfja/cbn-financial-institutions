@@ -1,0 +1,23 @@
+CBN Financial Institutions Change Report - 2025-04-10
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 953 (previous: 953)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 2
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Mobile Money Operators]
+• ABEG TECHNOLOGIES LIMITED
+  - Street Address: 'Tesmot House 3 Abdulrahman Okene Close, Off Ligali Ayorinde Street, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+[Payment Service Banks]
+• MOMO PAYMENT SERVICE BANK
+  - Street Address: 'ATLANTIS BUILDING, PLOT 290B, AKIN ADESOLA STREET, VICTORIA ISLAND LAGOS' → 'nan'
+  - Website: 'www.momopsb.com' → 'nan'
+
