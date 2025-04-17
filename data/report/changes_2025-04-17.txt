@@ -1,0 +1,53 @@
+CBN Financial Institutions Change Report - 2025-04-17
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 953 (previous: 953)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 9
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Optimus Bank
+  - Street Address: 'No 55 Bishop Oluwole Street, Victoria Island, Lagos' → 'nan'
+  - Website: 'https://optimusbank.com' → 'nan'
+
+• Unity Bank Plc
+  - Street Address: 'Plot 42, Ahmed Onibudo Street, Victoria Island, Lagos.' → 'nan'
+  - Website: 'www.unitybankng.com' → 'nan'
+
+[Development Finance Institutions]
+• FEDERAL MORTGAGE BANK OF NIGERIA
+  - Street Address: 'Plot 266, Cadastral Zone A0, Central Business Dist' → 'nan'
+  - Website: '-' → 'nan'
+
+• NIGERIA EXPORT IMPORT BANK
+  - Street Address: 'Plot 975, Cadastral Zone A0, Central Business Dist' → 'nan'
+  - Website: 'www.neximbank.com.ng' → 'nan'
+
+[Finance Companies]
+• CO-LINK INVESTMENT MANAGEMENT COMPANY LIMITED
+  - Street Address: 'NO,1 MOTOR WAYS AVENUE, ALAUSA, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• One-Stop Finance Company
+  - Street Address: 'No 96 Ogui Road, Enugu, Enugu State' → 'nan'
+  - Website: '-' → 'nan'
+
+• STIRLING TRUST COMPANY LIMITED
+  - Street Address: 'Plot PC 10, Engineering Close,' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• Aniocha Microfinance Bank Limited
+  - Street Address: 'Umeadi House, Ogbeofu Quarter' → 'nan'
+  - Website: '-' → 'nan'
+
+• Awe Microfinance Bank Limited
+  - Street Address: 'Awe-Iwo Road, Awe, Oyo State' → 'nan'
+  - Website: '-' → 'nan'
+
