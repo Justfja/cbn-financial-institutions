@@ -1,0 +1,85 @@
+CBN Financial Institutions Change Report - 2025-04-21
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 953 (previous: 953)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 17
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Optimus Bank
+  - Street Address: 'nan' → 'No 55 Bishop Oluwole Street, Victoria Island, Lagos'
+  - Website: 'nan' → 'https://optimusbank.com'
+
+• Unity Bank Plc
+  - Street Address: 'nan' → 'Plot 42, Ahmed Onibudo Street, Victoria Island, Lagos.'
+  - Website: 'nan' → 'www.unitybankng.com'
+
+[Development Finance Institutions]
+• FEDERAL MORTGAGE BANK OF NIGERIA
+  - Street Address: 'nan' → 'Plot 266, Cadastral Zone A0, Central Business Dist'
+  - Website: 'nan' → '-'
+
+• NIGERIA EXPORT IMPORT BANK
+  - Street Address: 'nan' → 'Plot 975, Cadastral Zone A0, Central Business Dist'
+  - Website: 'nan' → 'www.neximbank.com.ng'
+
+[Finance Companies]
+• CO-LINK INVESTMENT MANAGEMENT COMPANY LIMITED
+  - Street Address: 'nan' → 'NO,1 MOTOR WAYS AVENUE, ALAUSA, LAGOS'
+  - Website: 'nan' → '-'
+
+• FUNDSWORTH LIMITED
+  - Street Address: '6, Louis Solomon Close;' → 'nan'
+  - Website: '-' → 'nan'
+
+• One-Stop Finance Company
+  - Street Address: 'nan' → 'No 96 Ogui Road, Enugu, Enugu State'
+  - Website: 'nan' → '-'
+
+• SPRING SKY FINANCE COMPANY LIMITED
+  - Street Address: 'Plot 6, Block 101, Furo Ezimaora Road, Lekki Phase 1, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• STIRLING TRUST COMPANY LIMITED
+  - Street Address: 'nan' → 'Plot PC 10, Engineering Close,'
+  - Website: 'nan' → '-'
+
+[Micro-finance Banks]
+• Ajuta Microfinance Bank Limited
+  - Street Address: 'Market Road, Loso Quarters, Ogbagi Akoko' → 'nan'
+  - Website: '-' → 'nan'
+
+• Alekun Microfinance Bank Limited
+  - Street Address: '6, Oladipo Diya Road, Odogbolu' → 'nan'
+  - Website: '-' → 'nan'
+
+• Alvana Microfinance Bank Limited
+  - Street Address: 'Alvan Ikoku College of Education' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aniocha Microfinance Bank Limited
+  - Street Address: 'nan' → 'Umeadi House, Ogbeofu Quarter'
+  - Website: 'nan' → '-'
+
+• Aogo Microfinance Bank Limited
+  - Street Address: 'Oba Adesanoye House,' → 'nan'
+  - Website: '-' → 'nan'
+
+• Awe Microfinance Bank Limited
+  - Street Address: 'nan' → 'Awe-Iwo Road, Awe, Oyo State'
+  - Website: 'nan' → '-'
+
+• Banex Microfinance Bank Limited
+  - Street Address: 'SUITE C 1 & 2 BANEX PLAZA VINA WUSE II, ABUJA' → 'nan'
+  - Website: '-' → 'nan'
+
+• Flexi Microfinance Bank
+  - Street Address: 'No 63 Adekunle Fajuyi Way, GRA Ikeja, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
