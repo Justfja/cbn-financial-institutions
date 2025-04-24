@@ -1,0 +1,76 @@
+CBN Financial Institutions Change Report - 2025-04-24
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 953 (previous: 953)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 15
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Finance Companies]
+• CFS Financial Services Limited
+  - Street Address: 'Eleganza Building, 15B Wesley/Joseph Street,' → 'nan'
+  - Website: '-' → 'nan'
+
+• Centrum Finance Company Limited
+  - Street Address: 'Centrum Finance Company Limited No 9B Lumumbashi Street Abacha Estate Wuse Zone 4 Abuja' → 'nan'
+  - Website: 'centrumfinanceltd.com' → 'nan'
+
+• EVIB FINANCE COMPANY LIMITED
+  - Street Address: '3 Shalom Drivem Patrick Harbour Estate Off Mojisola Onikoyi Estate, Ikoyi Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• FUNDSWORTH LIMITED
+  - Street Address: 'nan' → '6, Louis Solomon Close;'
+  - Website: 'nan' → '-'
+
+• SPRING SKY FINANCE COMPANY LIMITED
+  - Street Address: 'nan' → 'Plot 6, Block 101, Furo Ezimaora Road, Lekki Phase 1, Lagos State'
+  - Website: 'nan' → '-'
+
+[Holding Companies]
+• STERLING FINANCIAL HOLDINGS LIMITED
+  - Street Address: 'NO 22 Marina, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• Adazi-Enu Microfinance Bank Limited
+  - Street Address: 'Nkwor Market Square, Adazi- Enu, Anaocha Local Govt' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ajose Microfinance Bank Limited
+  - Street Address: 'Ejinrin Road, Ijebu South' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ajuta Microfinance Bank Limited
+  - Street Address: 'nan' → 'Market Road, Loso Quarters, Ogbagi Akoko'
+  - Website: 'nan' → '-'
+
+• Alvana Microfinance Bank Limited
+  - Street Address: 'nan' → 'Alvan Ikoku College of Education'
+  - Website: 'nan' → '-'
+
+• Aogo Microfinance Bank Limited
+  - Street Address: 'nan' → 'Oba Adesanoye House,'
+  - Website: 'nan' → '-'
+
+• Balera Microfinance Bank Limited
+  - Street Address: 'NO. 2, KAFANCHAN ROAD, LERE LERE LGA KADUNA STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Balogun Gambari Microfinance Bank Limited
+  - Street Address: 'NO 1 OJAGBORO JUNCTION BOLOGUN GAMBARI ROAD, ILORIN.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Banex Microfinance Bank Limited
+  - Street Address: 'nan' → 'SUITE C 1 & 2 BANEX PLAZA VINA WUSE II, ABUJA'
+  - Website: 'nan' → '-'
+
+• Flexi Microfinance Bank
+  - Street Address: 'nan' → 'No 63 Adekunle Fajuyi Way, GRA Ikeja, Lagos State'
+  - Website: 'nan' → '-'
+
