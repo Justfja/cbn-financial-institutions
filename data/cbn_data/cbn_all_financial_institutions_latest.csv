@@ -54,9 +54,9 @@ CAPRI-MARTINS FINANCE LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
 CARBON FINANCE AND INVESTMENT LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
 CASH-LINK LEASING PLC,Finance Companies,,,,,,,,,,,,,,,,,
 CELOX FINANCE & INVESTMENT LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
-Centrum Finance Company Limited,Finance Companies,,,,,,,,,,,,,,,,,
+Centrum Finance Company Limited,Finance Companies,Centrum Finance Company Limited,Finance Company,National,ALC Finance Limited,18/05/2022,Centrum Finance Company Limited No 9B Lumumbashi Street Abacha Estate Wuse Zone 4 Abuja,Wuse Zone 4,ABUJA,+234 908 8888 198,centrumfinanceltd.com,info@centrumfinanceltd.com,+234 908 8888 198,Centrum Finance Company Limited No 9B Lumumbashi Street Abacha Estate Wuse Zone 4 Abuja,NGN,Domestic,-,03/12/2023
 CEVIANT FINANCE LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
-CFS Financial Services Limited,Finance Companies,,,,,,,,,,,,,,,,,
+CFS Financial Services Limited,Finance Companies,CFS Financial Services Limited,Finance Company,-,-,03/07/2007,"Eleganza Building, 15B Wesley/Joseph Street,",-,LAG,01-2600757,-,-,-,"Lagos Island,",NGN,Domestic,-,7/3/2007
 CITIHOMES FINANCE COMPANY LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
 CO-LINK INVESTMENT MANAGEMENT COMPANY LIMITED,Finance Companies,CO-LINK INVESTMENT MANAGEMENT COMPANY LIMITED,Finance Company,-,-,03/07/2007,"NO,1 MOTOR WAYS AVENUE, ALAUSA, LAGOS",-,LAG,01-4932202,-,-,-,-,NGN,Domestic,-,7/3/2007
 CONSUMER INVESTMENT LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
@@ -74,7 +74,7 @@ DYNAMIC FINANCE LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
 E-FINANCE LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
 ENCO FINANCE COMPANY LTD,Finance Companies,,,,,,,,,,,,,,,,,
 EVERDEN FINANCIAL SERVICES LTD,Finance Companies,,,,,,,,,,,,,,,,,
-EVIB FINANCE COMPANY LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
+EVIB FINANCE COMPANY LIMITED,Finance Companies,EVIB FINANCE COMPANY LIMITED,Finance Company,None,-,01/01/1900,"3 Shalom Drivem Patrick Harbour Estate Off Mojisola Onikoyi Estate, Ikoyi Lagos",Ikoyi,LAGOS,08053333585,-,-,-,-,NGN,Domestic,-,08/21/2024
 FACTORING & SUPPLY CHAIN FINANCE LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
 FAST CREDIT LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
 FEWCHORE FINANCE COMPANY LIMITED,Finance Companies,,,,,,,,,,,,,,,,,
@@ -157,7 +157,7 @@ FCMB GROUP PLC,Holding Companies,,,,,,,,,,,,,,,,,
 FSDH HOLDING COMPANY,Holding Companies,,,,,,,,,,,,,,,,,
 GTB HOLD CO,Holding Companies,,,,,,,,,,,,,,,,,
 STANBIC IBTC HOLDINGS PLC,Holding Companies,,,,,,,,,,,,,,,,,
-STERLING FINANCIAL HOLDINGS LIMITED,Holding Companies,,,,,,,,,,,,,,,,,
+STERLING FINANCIAL HOLDINGS LIMITED,Holding Companies,STERLING FINANCIAL HOLDINGS LIMITED,Holding Company,None,-,01/01/1900,"NO 22 Marina, Lagos",Lagos,LAGOS,xxxxxxxxx,-,-,-,"NO 22 Marina, Lagos",NGN,Domestic,-,04/26/2024
 CORONATION MERCHANT BANK,Merchant Banks,,,,,,,,,,,,,,,,,
 FBNQUEST MERCHANT BANK,Merchant Banks,FBNQUEST MERCHANT BANK,Merchant Bank,International,-,02/01/2006,2 Kofo Abayomi Street,Victoria Island,LAGOS,234 01 2610408-12,-,-,234 01 2610414,"2, Kofo Abayomi Street",NGN,-,"Fidelity Bank, FSB, Manny Bank",3rd January 2006
 FSDH MERCHANT BANK,Merchant Banks,,,,,,,,,,,,,,,,,
@@ -176,7 +176,7 @@ Accion Microfinance Bank Limited,Micro-finance Banks,Accion Microfinance Bank Li
 ACE Microfinance Bank Limited,Micro-finance Banks,ACE Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,ACE Community Bank Limited,01/02/2008,"3, Daniel Aliyu Street, Kwali, Abuja",Abuja,ABJ,-,-,-,-,"P.O.Box 011, Kwali, Abuja",NGN,Domestic,provisional approval to convert to microfinance bank,2/1/2008
 Achina Microfinance Bank Limited,Micro-finance Banks,Achina Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Achina Community Bank Limited,01/02/2008,"Achima Aguata LGA, Anambra State",Anambra,ANA,803495322,-,-,-,"P.O.Box 256, Achima Aguata LGA, Anambra State",NGN,Domestic,provisional approval to convert to microfinance bank,2/1/2008
 ADA Microfinance Bank Limited,Micro-finance Banks,,,,,,,,,,,,,,,,,
-Adazi-Enu Microfinance Bank Limited,Micro-finance Banks,,,,,,,,,,,,,,,,,
+Adazi-Enu Microfinance Bank Limited,Micro-finance Banks,Adazi-Enu Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Adazi-Enu Community Bank Limited,01/02/2008,"Nkwor Market Square, Adazi- Enu, Anaocha Local Govt",Anambra,ANA,-,-,-,-,"P.O.Box 207, Nkwor Market Square",NGN,Domestic,provisional approval to convert to microfinance bank,2/1/2008
 Adazi-Nnukwu Microfinance Bank Limited,Micro-finance Banks,Adazi-Nnukwu Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Adazi-Nnukwu Community Bank Limited,01/02/2008,"Near Eke Market, Adazi Nnukwu, Adazi, Anambra State",Anambra,ANA,-,-,-,-,"Near Eke Market, Adazi Nnukwu, Adazi, Anambra Stat",NGN,Domestic,provisional approval to convert to microfinance bank,2/1/2008
 Addosser Microfinance Bank Limited,Micro-finance Banks,,,,,,,,,,,,,,,,,
 Adeyemi College Staff Microfinance Bank,Micro-finance Banks,,,,,,,,,,,,,,,,,
@@ -186,17 +186,17 @@ Agosasa Microfinance Bank Limited,Micro-finance Banks,Agosasa Microfinance Bank 
 Ahmadu Bello University Microfinance Bank Limited,Micro-finance Banks,Ahmadu Bello University Microfinance Bank Limited,MicroFinance Bank,STATE MFB,Ahmadu Bello University Community Bank Limited,01/02/2008,"Main Campus, Opp. Post Graduate School,",-,KAD,-,-,-,-,"Ahmadu Ballo University Campus, Zaria",NGN,Domestic,-,2/1/2008
 Aibio Microfinance Bank,Micro-finance Banks,,,,,,,,,,,,,,,,,
 Ajewole Microfinance Bank Limited,Micro-finance Banks,Ajewole Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Ajewole Community Bank Limited,01/02/2008,"Ilorin Road, Sabo, Ogbomosho",Oyo,OYO,-,-,-,-,"Ilorin Road, Sabo, Ogbomosho, Oyo State",NGN,Domestic,-,2/1/2008
-Ajose Microfinance Bank Limited,Micro-finance Banks,,,,,,,,,,,,,,,,,
+Ajose Microfinance Bank Limited,Micro-finance Banks,Ajose Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Ajose Community Bank Limited,01/02/2008,"Ejinrin Road, Ijebu South",Ogun,OGU,-,-,-,-,"P.O. Box 806, Ijebu-Ode",NGN,Domestic,-,2/1/2008
 Ajuta Microfinance Bank Limited,Micro-finance Banks,Ajuta Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Ogbagi Community Bank Limited,01/02/2008,"Market Road, Loso Quarters, Ogbagi Akoko",Ondo,OND,-,-,-,-,"Market Road, Loso Quarters, Ogbagi Akoko, Ondo State",NGN,Domestic,-,2/1/2008
 Akalabo Microfinance Bank Limited,Micro-finance Banks,Akalabo Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Amesi Community Bank Limited,01/02/2008,"Co-operative House, Afor Market Square",Anambra,ANA,8037456842,-,-,-,"Co-operative House, Afor Market Square, Amesi, Aguata LGA, Anambra State",NGN,Domestic,-,2/1/2008
-Akokwa Microfinance Bank Limited,Micro-finance Banks,Akokwa Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Akokwa Community Bank Limited,01/02/2008,"Oris-Akokwa Market Square,",-,IMO,-,-,-,-,Ideato North Local Govt Area,NGN,Domestic,-,2/1/2008
+Akokwa Microfinance Bank Limited,Micro-finance Banks,,,,,,,,,,,,,,,,,
 Akpo Microfinance Bank Limited,Micro-finance Banks,Akpo Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Akpo Community Bank Limited,01/02/2008,"Akpo Junction, Akpo, Aguata LGA, Anambra State",Anambra,ANA,-,-,-,-,"Akpo Junction, Akpo, Aguata LGA, Anambra State",NGN,Domestic,provisional approval to convert to microfinance bank,2/1/2008
 Aku Diewa Microfinance Bank Limited,Micro-finance Banks,Aku Diewa Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Aku Diewa Community Bank Limited,01/02/2008,"ENU ORIE UWELE, AKU, ENUGU STATE",Enugu,ENU,-,-,-,-,"Box 117, Aku",NGN,Domestic,-,2/1/2008
 Akuchukwu Microfinance Bank Limited,Micro-finance Banks,,,,,,,,,,,,,,,,,
 Al-Barakah Microfinance Bank Limited,Micro-finance Banks,,,,,,,,,,,,,,,,,
 Al-Hayat Microfinance Bank,Micro-finance Banks,,,,,,,,,,,,,,,,,
 Albasu Microfinance Bank Limited,Micro-finance Banks,,,,,,,,,,,,,,,,,
-Alekun Microfinance Bank Limited,Micro-finance Banks,,,,,,,,,,,,,,,,,
+Alekun Microfinance Bank Limited,Micro-finance Banks,Alekun Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Alekun Community Bank Limited,01/02/2008,"6, Oladipo Diya Road, Odogbolu",Ogun,OGU,-,-,-,-,"6, Oladipo Diya Road, Odogbolu",NGN,Domestic,-,2/1/2008
 Alert Microfinance Bank,Micro-finance Banks,,,,,,,,,,,,,,,,,
 Algreb Microfinance Bank,Micro-finance Banks,,,,,,,,,,,,,,,,,
 Aliero Microfinance Bank Limited,Micro-finance Banks,Aliero Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Aliero Community Bank Limited,01/02/2008,"Attahiru Road, Aliero Local Government Area, Aliero",Kebbi,KEB,-,-,alieromicrobankltd@yahoo.com,-,"ATTAHIRU ROAD, AILERO LGA, KEBBI STATE",NGN,Domestic,-,2/1/2008
@@ -240,9 +240,9 @@ Babba Microfinance Bank Limited,Micro-finance Banks,,,,,,,,,,,,,,,,,
 Babcock Microfinance Bank Limited,Micro-finance Banks,Babcock Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,-,01/01/1900,"Babcock University, Babcock University Road, Ilishan-Remo, Ogun State",-,OGU,"07065155688; 07034471974, 07089260400",-,babcockmfb@gmail.com,-,"Babcock University, Babcock University Road, Ilishan-Remo, Ogun State",NGN,Domestic,-,7/28/2014
 Babura Microfinance Bank Limited,Micro-finance Banks,Babura Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Babura Community Bank Limited,01/02/2008,"OPPOSITE DISTRICT HEAD'S OFFICE, BABURA, JIGAWA STATE",-,JIG,-,-,-,-,"OPPOSITE DISTRICT HEAD'S OFFICE, BABURA, JIGAWA STATE",NGN,Domestic,-,2/1/2008
 Baines Credit Microfinance bank,Micro-finance Banks,,,,,,,,,,,,,,,,,
-Balera Microfinance Bank Limited,Micro-finance Banks,,,,,,,,,,,,,,,,,
+Balera Microfinance Bank Limited,Micro-finance Banks,Balera Microfinance Bank Limited,MicroFinance Bank,TIER 2 UNIT,Balera Community Bank Limited,01/02/2008,"NO. 2, KAFANCHAN ROAD, LERE LERE LGA KADUNA STATE",-,KAD,-,-,-,-,"NO. 2, KAFANCHAN ROAD, LERE LERE LGA KADUNA STATE",NGN,Domestic,-,2/1/2008
 Balogun Fulani Microfinance Bank Limited,Micro-finance Banks,Balogun Fulani Microfinance Bank Limited,MicroFinance Bank,TIER 1 UNIT,Balogun Fulani Community Bank Limited,01/02/2008,"9, Balogun Fulani Road, Ilorin, Kwara State",Ilorin,KWA,-,-,-,-,"9, Balogun Fulani Road, Ilorin, Kwara State",NGN,Domestic,-,2/1/2008
-Balogun Gambari Microfinance Bank Limited,Micro-finance Banks,,,,,,,,,,,,,,,,,
+Balogun Gambari Microfinance Bank Limited,Micro-finance Banks,Balogun Gambari Microfinance Bank Limited,MicroFinance Bank,TIER 1 UNIT,Balogun Gambari Community Bank Limited,01/02/2008,"NO 1 OJAGBORO JUNCTION BOLOGUN GAMBARI ROAD, ILORIN.",Ilorin,KWA,-,-,-,-,"NO 1 OJAGBORO JUNCTION BOLOGUN GAMBARI ROAD, ILORIN.",NGN,Domestic,-,2/1/2008
 Bam Microfinance Bank Limited,Micro-finance Banks,Bam Microfinance Bank Limited,MicroFinance Bank,STATE MFB,-,22/01/2008,"SUITE D77/67, AREA11 SHOPPING MALL (BY FCDA JUNCTION), AHMADU BELLO WAY, AREA 11, GARKI, ABUJA, FCT","Garki District, Abuja",ABJ,-,-,-,-,"SUITE D77/67, AREA11 SHOPPING MALL (BY FCDA JUNCTION), AHMADU BELLO WAY, AREA 11, GARKI, ABUJA, FCT",NGN,Domestic,Approval_In_Principle granted,1/22/2008
 Banex Microfinance Bank Limited,Micro-finance Banks,Banex Microfinance Bank Limited,MicroFinance Bank,TIER 1 UNIT,-,01/01/1900,"SUITE C 1 & 2 BANEX PLAZA VINA WUSE II, ABUJA",-,ABU,"08033406429, 08035543623",-,banexmfb@gmail.com,-,"SUITE C 1 & 2 BANEX PLAZA VINA WUSE II, ABUJA",NGN,Domestic,-,7/28/2014
 Baobab Microfinance Bank,Micro-finance Banks,,,,,,,,,,,,,,,,,
@@ -870,7 +870,7 @@ VISA MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 VISCOUNT MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 WAILA MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 Wallet Microfinance Bank,Micro-finance Banks,Wallet Microfinance Bank,MicroFinance Bank,TIER 2 UNIT,-,01/01/1900,"Suite 312-314C Royal Plaza, Opposite Mararaba Building Materials Market, Mararaba Karu LGA, Nasarawa State.",Karu,NASARAWA,07061420023,-,-,-,-,NGN,Domestic,-,11/25/2024
-WAYA MFB,Micro-finance Banks,WAYA MFB,MicroFinance Bank,TIER 2 UNIT,-,01/01/1900,"PLOT 7, KANO CRESCENT, AGBARA ADA-ODO, OTA LGA, OGUN STATE",OGUN STATE,OGU,09063059889,-,-,-,"PLOT 7, KANO CRESCENT, AGBARA ADA-ODO, OTA LGA, OGUN STATE",NGN,Domestic,-,20/10/2022
+WAYA MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 WELFARE MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 WETLAND MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 WOLIWO MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
@@ -934,9 +934,9 @@ TRUSTBOND MORTGAGE BANK,Primary Mortgage Banks,,,,,,,,,,,,,,,,,
 Hope PSB Ltd,Payment Service Banks,,,,,,,,,,,,,,,,,
 MOMO PAYMENT SERVICE BANK,Payment Service Banks,MOMO PAYMENT SERVICE BANK,Payment Service Bank,National,MOMO PAYMENT SERVICE BANK,01/01/1900,"ATLANTIS BUILDING, PLOT 290B, AKIN ADESOLA STREET, VICTORIA ISLAND LAGOS",VICTORIA ISLAND,LAGOS,xxxxxxxxxx,www.momopsb.com,-,-,"P.M.B. 80147 ADEOLA ODEKU POST OFFICE, VICTORIA ISLAND, LAGOS",NGN,Domestic,-,04/08/2022
 Moneymaster PSB Ltd,Payment Service Banks,,,,,,,,,,,,,,,,,
-SMARTCASH PSB LIMITED,Payment Service Banks,SMARTCASH PSB LIMITED,Payment Service Bank,None,-,01/01/1900,"Plot L2 401 Close Banana Island, Ikoyi, Lagos",Ikoyi,LAGOS,09125939939,-,-,-,-,NGN,Domestic,-,04/27/2022
+SMARTCASH PSB LIMITED,Payment Service Banks,,,,,,,,,,,,,,,,,
 ABEG TECHNOLOGIES LIMITED,Mobile Money Operators,ABEG TECHNOLOGIES LIMITED,Mobile Money Operator,None,ABEG TECHNOLOGIES LIMITED,01/01/1900,"Tesmot House 3 Abdulrahman Okene Close, Off Ligali Ayorinde Street, Lagos",Lagos,LAGOS,xxxxx,-,tricia@abeg.app,-,-,NGN,Domestic,-,01/03/2023
-CHAMS MOBILE LIMITED,Mobile Money Operators,CHAMS MOBILE LIMITED,Mobile Money Operator,None,CHAMS MOBILE LIMITED,01/01/1900,"8 Louis Solomon Close Off Ahmadu Bello Way ,Victoria Island, Lagos",Victoria Island,LAGOS,xxx,-,colaniyan@chamsmobile.com,-,-,NGN,Domestic,-,09/24/2012
+CHAMS MOBILE LIMITED,Mobile Money Operators,,,,,,,,,,,,,,,,,
 ETRANZACT INTERNATIONAL LIMITED,Mobile Money Operators,ETRANZACT INTERNATIONAL LIMITED,Mobile Money Operator,None,ETRANZACT INTERNATIONAL LIMITED,01/01/1900,27/29 Adeyemo Alakija Street Victoria Island,Victoria Island,LAGOS,xxxx,-,Oluwafemi.Aminu@etranzactng.com,-,-,NGN,Domestic,-,08/18/2021
 FORTIS MOBILE MONEY LIMITED,Mobile Money Operators,FORTIS MOBILE MONEY LIMITED,Mobile Money Operator,None,FORTIS MOBILE MONEY LIMITED,01/01/1900,"Suit 402 Capital Hub Mabushi, Abuja",Mabushi,ABUJA,xxxx,-,aagabaenwere@fortismobilemoney.com,-,-,NGN,Domestic,-,12/10/2013
 FUNDS AND ELECTRONIC TRANSFER (FETS) LIMITED,Mobile Money Operators,FUNDS AND ELECTRONIC TRANSFER (FETS) LIMITED,Mobile Money Operator,None,FUNDS AND ELECTRONIC TRANSFER (FETS) LIMITED,01/01/1900,"15 Cameron Road, Ikoyi, Lagos",Ikoyi,LAGOS,xxxxx,-,JOHN.MAGO@FETSLIMITED.COM,-,-,NGN,Domestic,-,12/10/2013
@@ -944,7 +944,7 @@ HEDONMARK MANAGEMENT SERVICES LIMITED,Mobile Money Operators,HEDONMARK MANAGEMEN
 KONGAPAY TECHNOLOGIES LIMITED (FORMERLY ZINTERNET LIMITED ),Mobile Money Operators,KONGAPAY TECHNOLOGIES LIMITED (FORMERLY ZINTERNET LIMITED ),Mobile Money Operator,None,ZINTERNET LIMITED,01/01/1900,"1 Redemption Crescent Gbagada, before UPS, off Oshodi Apapa Express way, Lagos",Apapa,LAGOS,xxxxx,-,michael@kongapay.com,-,-,NGN,Domestic,-,09/24/2012
 MKUDI LIMITED,Mobile Money Operators,MKUDI LIMITED,Mobile Money Operator,None,MKUDI LIMITED,01/01/1900,"Plot 1648C, Oko-Awo Close, Victoria Island, Eti Osa",Victoria Island,LAGOS,xxxxx,-,Thomas.Ezeh@interswitchgroup.com,-,-,NGN,Domestic,-,12/09/2013
 NOWNOW DIGITAL SYSTEMS LIMITED (FORMERLY CONTEC GLOBAL INFOTECH LIMITED),Mobile Money Operators,NOWNOW DIGITAL SYSTEMS LIMITED (FORMERLY CONTEC GLOBAL INFOTECH LIMITED),Mobile Money Operator,None,CONTEC GLOBAL INFOTECH LIMITED,01/01/1900,239/241 Ikorodu Road Beside Sterling Bank Head Office Annex Office illupeju,Ilupeju,LAGOS,xxxxx,-,chiamaka@nownow.ng,-,-,NGN,Domestic,-,01/25/2018
-OPAY DIGITAL SERVICES LIMITED (FORMERLY PAYCOM NIGERIA LIMITED),Mobile Money Operators,OPAY DIGITAL SERVICES LIMITED (FORMERLY PAYCOM NIGERIA LIMITED),Mobile Money Operator,None,PAYCOM NIGERIA LIMITED,01/01/1900,"Alexander House Otunba Jobi Fele Way Agidingbi, Alausa, Ikeja, Lagos",Ikeja,LAGOS,xxxxx,-,aolaniyi@opay-inc.com,-,-,NGN,Domestic,-,12/09/2013
+OPAY DIGITAL SERVICES LIMITED (FORMERLY PAYCOM NIGERIA LIMITED),Mobile Money Operators,,,,,,,,,,,,,,,,,
 PAGATECH LIMITED,Mobile Money Operators,PAGATECH LIMITED,Mobile Money Operator,None,PAGATECH LIMITED,01/01/1900,"176 Herbert Macaulay Way 3rd Floor, Yaba, Lagos",Yaba,LAGOS,xxxxx,-,tayo@pagatech.com,-,-,NGN,Domestic,-,12/09/2013
 PALMPAY LIMITED,Mobile Money Operators,PALMPAY LIMITED,Mobile Money Operator,None,PALMPAY LIMITED,01/01/1900,"No 63, Adekunle Fajuyi Street, Ikeja, Lagos",Ikeja,LAGOS,xxxxx,-,chika.nwosu@palmpay-inc.com,-,-,NGN,Domestic,-,06/24/2020
 PARKWAY PROJECTS LIMITED,Mobile Money Operators,PARKWAY PROJECTS LIMITED,Mobile Money Operator,None,PARKWAY PROJECTS LIMITED,01/01/1900,"295, Herbert Macaulay way, Yaba, Lagos",Yaba,LAGOS,xxxxx,-,eonwugbufor@parkway.ng,-,-,NGN,Domestic,-,12/23/2011
