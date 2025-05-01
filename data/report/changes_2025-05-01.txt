@@ -1,0 +1,140 @@
+CBN Financial Institutions Change Report - 2025-05-01
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 953)
+New institutions: 2
+Removed institutions: 0
+Institutions with changed details: 28
+
+ADDED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Alpha Morgan Bank Limited
+  Website: - | Address: 44 Ademola Adetokunbo Crescent, Wuse II, Abuja
+• Tatum Bank Limited
+  Website: - | Address: Plot 1088 Cadastral Zone A01 Area 3, Garki, Abuja
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• First City Monument Bank Plc
+  - Street Address: 'Primrose Towers, 6-10 Floors 17A Tinubu Square' → 'nan'
+  - Website: 'www.fcmb-ltd.com' → 'nan'
+
+• Guaranty Trust Bank Plc
+  - Street Address: '635, Akin Adesola Street, Victoria Island, Lagos' → 'nan'
+  - Website: 'www.gtbplc.com' → 'nan'
+
+• Signature Bank Limited
+  - Street Address: 'Plot 31B, Gana Street, Maitama, FCT Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• Union Bank of Nigeria Plc
+  - Street Address: 'Stallion Plaza, 36 Marina, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• United Bank For Africa Plc
+  - Street Address: '57, Marina' → 'nan'
+  - Website: 'www.ubagroup.com' → 'nan'
+
+• Unity Bank Plc
+  - Street Address: 'Plot 42, Ahmed Onibudo Street, Victoria Island, Lagos.' → 'nan'
+  - Website: 'www.unitybankng.com' → 'nan'
+
+• Wema Bank Plc
+  - Street Address: 'Wema Towers 54, Marina Lagos Island' → 'nan'
+  - Website: 'www.wemabank.com' → 'nan'
+
+• Zenith Bank Plc
+  - Street Address: 'Plot 84, Ajose Adeogun Street, Victoria Island, La' → 'nan'
+  - Website: 'www.zenithbank.com' → 'nan'
+
+[Development Finance Institutions]
+• Development Bank of Nigeria PLC
+  - Street Address: 'Plot 1386A Tigris Crescent, Maitama, FCT Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• FEDERAL MORTGAGE BANK OF NIGERIA
+  - Street Address: 'Plot 266, Cadastral Zone A0, Central Business Dist' → 'nan'
+  - Website: '-' → 'nan'
+
+• NIGERIA EXPORT IMPORT BANK
+  - Street Address: 'Plot 975, Cadastral Zone A0, Central Business Dist' → 'nan'
+  - Website: 'www.neximbank.com.ng' → 'nan'
+
+• The Infrastructure Bank
+  - Street Address: 'Plot 977, Central Business District, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+[Finance Companies]
+• CORE CAPITAL LIMITED
+  - Street Address: 'YCMA BUILDING, 77 AWOLOWO ROAD IKOYI, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• Centrum Finance Company Limited
+  - Street Address: 'Centrum Finance Company Limited No 9B Lumumbashi Street Abacha Estate Wuse Zone 4 Abuja' → 'nan'
+  - Website: 'centrumfinanceltd.com' → 'nan'
+
+• WOODHALL FINANCE COMPANY LIMITED
+  - Street Address: '22B, Gerrard Road, Ikoyi, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Whitecrust Finance Company Limited
+  - Street Address: '402, Ikorodu Road, By Ojota Bus Stop, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• Abia State University Microfinance Bank Limited
+  - Street Address: 'Uturu, Isuikwuato LGA, Abia State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Abigi Microfinance Bank Limited
+  - Street Address: '28, Moborode Odofin Street,' → 'nan'
+  - Website: '-' → 'nan'
+
+• Adazi-Enu Microfinance Bank Limited
+  - Street Address: 'Nkwor Market Square, Adazi- Enu, Anaocha Local Govt' → 'nan'
+  - Website: '-' → 'nan'
+
+• Adazi-Nnukwu Microfinance Bank Limited
+  - Street Address: 'Near Eke Market, Adazi Nnukwu, Adazi, Anambra State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ajose Microfinance Bank Limited
+  - Street Address: 'Ejinrin Road, Ijebu South' → 'nan'
+  - Website: '-' → 'nan'
+
+• Akokwa Microfinance Bank Limited
+  - Street Address: 'nan' → 'Oris-Akokwa Market Square,'
+  - Website: 'nan' → '-'
+
+• Astra Polaris Microfinance Bank Limited
+  - Street Address: 'ADIGBE AREA, OBAFEMI OWODE LGA, ABEOKUTA, OGUN STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bethel Microfinance Bank Limited
+  - Street Address: 'PLOT C/1 OWERRI ROAD EXTENSION, SECRETARIAT QTRS, ASATA, ENUGU STATE.' → 'nan'
+  - Website: '-' → 'nan'
+
+• WAYA MFB
+  - Street Address: 'nan' → 'PLOT 7, KANO CRESCENT, AGBARA ADA-ODO, OTA LGA, OGUN STATE'
+  - Website: 'nan' → '-'
+
+[Mobile Money Operators]
+• CHAMS MOBILE LIMITED
+  - Street Address: 'nan' → '8 Louis Solomon Close Off Ahmadu Bello Way ,Victoria Island, Lagos'
+  - Website: 'nan' → '-'
+
+• OPAY DIGITAL SERVICES LIMITED (FORMERLY PAYCOM NIGERIA LIMITED)
+  - Street Address: 'nan' → 'Alexander House Otunba Jobi Fele Way Agidingbi, Alausa, Ikeja, Lagos'
+  - Website: 'nan' → '-'
+
+[Payment Service Banks]
+• SMARTCASH PSB LIMITED
+  - Street Address: 'nan' → 'Plot L2 401 Close Banana Island, Ikoyi, Lagos'
+  - Website: 'nan' → '-'
+
