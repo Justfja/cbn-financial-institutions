@@ -1,0 +1,895 @@
+CBN Financial Institutions Change Report - 2025-05-08
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 226 (previous: 955)
+New institutions: 0
+Removed institutions: 729
+Institutions with changed details: 22
+
+REMOVED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• AACB Microfinance Bank Limited
+• AB Microfinance Bank Limited
+• ACE Microfinance Bank Limited
+• ADA Microfinance Bank Limited
+• AMAC Microfinance Bank
+• AMJU-Unique Microfinance Bank Limited
+• AMML Microfinance Bank Limited (Abuja Markets Management Ltd)
+  Website: - | Address: Plot 1363, Ladoke Akintola Boulevard, Garki Model Market, Abuja
+• AVE MARIA MFB
+  Website: - | Address: NO.16, OKE ASUNNARA, IWERE-ILE IWAJOWA LGA, OYO STATE
+• AWESOME MFB
+  Website: - | Address: DUO PLAZA OPP GWAGWALADAULTRA MODERN MARKET, KUTUNKU, ABUJA
+• AZSA Microfinance Bank Limited
+  Website: - | Address: 37 OSOLO WAY, AJAO ESTATE OFF INTERNATIONAL AIRPORT LAGOS
+• Abia SME Microfinance Bank
+• Abia State University Microfinance Bank Limited
+  Website: - | Address: Uturu, Isuikwuato LGA, Abia State
+• Abigi Microfinance Bank Limited
+  Website: - | Address: 28, Moborode Odofin Street,
+• Above Only Microfinance Bank
+• Abubakar Tafawa Balewa University (ATBU) Microfinance Bank
+• Abucoop Microfinance Bank Limited
+• Abulesoro Microfinance Bank
+• Accion Microfinance Bank Limited
+  Website: - | Address: ELIZADE PLAZA, 4TH FLOOR, 322A IKORODU ROAD, ANTHONY, IKEJA, LAGOS
+• Achina Microfinance Bank Limited
+  Website: - | Address: Achima Aguata LGA, Anambra State
+• Adazi-Enu Microfinance Bank Limited
+  Website: - | Address: Nkwor Market Square, Adazi- Enu, Anaocha Local Govt
+• Adazi-Nnukwu Microfinance Bank Limited
+  Website: - | Address: Near Eke Market, Adazi Nnukwu, Adazi, Anambra State
+• Addosser Microfinance Bank Limited
+• Adeyemi College Staff Microfinance Bank
+• Afekhafe Microfinance Bank
+• Afemai Microfinance Bank Limited
+  Website: - | Address: 61B, Bode Road, Jattu-Uzairue
+• Agosasa Microfinance Bank Limited
+  Website: - | Address: 5, Ilupeju Estate, Ipokia Road,
+• Ahmadu Bello University Microfinance Bank Limited
+• Aibio Microfinance Bank
+• Ajewole Microfinance Bank Limited
+  Website: - | Address: Ilorin Road, Sabo, Ogbomosho
+• Ajose Microfinance Bank Limited
+  Website: - | Address: Ejinrin Road, Ijebu South
+• Ajuta Microfinance Bank Limited
+  Website: - | Address: Market Road, Loso Quarters, Ogbagi Akoko
+• Akalabo Microfinance Bank Limited
+  Website: - | Address: Co-operative House, Afor Market Square
+• Akokwa Microfinance Bank Limited
+  Website: - | Address: Oris-Akokwa Market Square,
+• Akpo Microfinance Bank Limited
+• Aku Diewa Microfinance Bank Limited
+• Akuchukwu Microfinance Bank Limited
+• Al-Barakah Microfinance Bank Limited
+• Al-Hayat Microfinance Bank
+• Albasu Microfinance Bank Limited
+• Alekun Microfinance Bank Limited
+  Website: - | Address: 6, Oladipo Diya Road, Odogbolu
+• Alert Microfinance Bank
+• Algreb Microfinance Bank
+• Aliero Microfinance Bank Limited
+  Website: - | Address: Attahiru Road, Aliero Local Government Area, Aliero
+• All Workers Microfinance Bank Limited
+  Website: - | Address: 30, MBARI STREET, IKENEGBU LAYOUT, OWERRI, IMO STATE
+• Alor Microfinance Bank Limited
+• Alpha Kapital Microfinance Bank
+• Alvana Microfinance Bank Limited
+• Amazu Microfinance Bank Limited
+• Amegy Microfinance Bank Limited
+• Ampersand Microfinance Bank
+• Ample Microfinance Bank Limited
+  Website: - | Address: Comfort Fatoyinbo House, Ilorin-Kabba Road, Eruku, Kwara State
+• Amucha Microfinance Bank Limited
+• Anchorage Microfinance Bank Limited
+  Website: - | Address: Highbury Plaza, 104 Gado Nasco Road, Kubwa, abuja
+• Aniocha Microfinance Bank Limited
+  Website: - | Address: Umeadi House, Ogbeofu Quarter
+• Annointed Microfinance Bank Limited
+• Aogo Microfinance Bank Limited
+  Website: - | Address: Oba Adesanoye House,
+• Apa Microfinance Bank Limited
+  Website: - | Address: Makurdi Road, Adoka, Otukpo
+• Apex Trust Microfinance Bank Limited
+• Apple Microfinance Bank Limited
+  Website: - | Address: 26, Agbon Street, Oru-Ijebu
+• Aramoko Microfinance Bank Limited
+  Website: - | Address: Civic Centre, Aramoko Ekiti
+• Aris Microfinance Bank
+• Asha Microfinance Bank Limited
+• Aspire Microfinance Bank LImited
+  Website: - | Address: No. 254, Umusadegi Road, Kwale
+• Asset Matrix Microfinance Bank Limited
+• Assets Microfinance Bank Limited
+• Astra Polaris Microfinance Bank Limited
+  Website: - | Address: ADIGBE AREA, OBAFEMI OWODE LGA, ABEOKUTA, OGUN STATE
+• Auchi Microfinance Bank Limited
+  Website: - | Address: 40, Otaru Road, Auchi
+• Auchi Polytechnic Microfinance Bank Limited
+  Website: - | Address: Main Gate, Main Campus, Auchi Polytechnic, Benin-Okene Expressway, Auchi, Edo State.
+• Avunegbe Microfinance Bank Limited
+• Awe Microfinance Bank Limited
+  Website: - | Address: Awe-Iwo Road, Awe, Oyo State
+• Awka-Etiti Microfinance Bank Limited
+  Website: - | Address: KM 1-3, Nnobi Awka Etiti Road, Idemili LGA, Anambra
+• Awkuzu Microfinance Bank Limited
+  Website: - | Address: OTUOCHA-ABAGANA ROAD, AWKUZU, ANAMBRA
+• B C Kash Microfinance Bank
+• BATAGWARA MFB
+• BAURE MFB
+• BLUCON MFB
+• BLUE RIDGE MFB
+• BLUEPRINT INVESTMENTS MFB
+• BOCTRUST MFB
+• BOI MFB
+• BOJI BOJI MFB LTD.
+• BOKKOS MFB
+• BOMPAI MFB
+• BONGHE MFB
+• BORGU MFB
+• BORNO RENAISSANCE MFB LTD.
+• BOROMU MFB
+• BORSTAL MFB
+• BOSAK MFB
+• BOWEN MFB
+• BOWMAN MFB
+• BRETHREN  MFB
+• BRIGHTWAY MFB LTD
+• BROADVIEW MFB
+• BROOKS MFB
+• BUBAYERO MFB LTD
+• BUNDI MFB
+• BUNGUDU MFB
+• BUNKASA MFB
+• BUNKURE MFB
+• BUSU MFB
+• Babba Microfinance Bank Limited
+• Babcock Microfinance Bank Limited
+• Babura Microfinance Bank Limited
+  Website: - | Address: OPPOSITE DISTRICT HEAD'S OFFICE, BABURA, JIGAWA STATE
+• Baines Credit Microfinance bank
+• Balera Microfinance Bank Limited
+  Website: - | Address: NO. 2, KAFANCHAN ROAD, LERE LERE LGA KADUNA STATE
+• Balogun Fulani Microfinance Bank Limited
+  Website: - | Address: 9, Balogun Fulani Road, Ilorin, Kwara State
+• Balogun Gambari Microfinance Bank Limited
+  Website: - | Address: NO 1 OJAGBORO JUNCTION BOLOGUN GAMBARI ROAD, ILORIN.
+• Bam Microfinance Bank Limited
+  Website: - | Address: SUITE D77/67, AREA11 SHOPPING MALL (BY FCDA JUNCTION), AHMADU BELLO WAY, AREA 11, GARKI, ABUJA, FCT
+• Banex Microfinance Bank Limited
+  Website: - | Address: SUITE C 1 & 2 BANEX PLAZA VINA WUSE II, ABUJA
+• Baobab Microfinance Bank
+• Barnawa Microfinance Bank Limited
+  Website: - | Address: PLOT 3, MOZAMBIQUE ROAD, BARNAWA SHOPPING COMPLEX, BARNAWA KADUNA SOUTH, KADUNA STATE.
+• Bauchi CFA Mirofinance Bank Limited
+  Website: - | Address: Mohammed Adamu Hashidu House, No. 21 Abdulkadir Ahmed Road, P.M.B. 0125, Bauchi, Bauchi State.
+• Bauchi Investment Corporation MFB Limited (BIC)
+• Bawyi Microfinance Bank Limited
+• Bayajidda Microfinance Bank Limited
+• Bayero University Microfinance Bank
+• Bayetin Microfinance Bank Limited
+• Bejin-Doko Microfinance Bank Limited
+  Website: - | Address: BIDA ROAD, DOKO GARAGE, NEAR POLICE STATION, LAVUN LGA, P.OBOX 568, BIDA, NIGER STATE
+• Benue Microfinance Bank
+• Benysta Microfinance Bank
+• Berachah Microfinance Bank Limited
+  Website: - | Address: PLOT 1, CMD ROAD, IKOSI, KETU, LAGOS
+• Best Star Microfinance Bank Limited
+• Bethel Microfinance Bank Limited
+  Website: - | Address: PLOT C/1 OWERRI ROAD EXTENSION, SECRETARIAT QTRS, ASATA, ENUGU STATE.
+• Better Life Microfinace Bank
+• Bichi Microfinance Bank Limited
+  Website: - | Address: No. 1, Bichi Main Street, Bichi Town, Bichi LGA, Kano State
+• Bida Polytechnic Microfinance Bank
+• Blooms Microfinance Bank
+  Website: - | Address: No 108 Lagos Road, Ikorodu, Lagos State
+• Boost Microfinance Bank Limited
+• CANAAN MFB
+• CAPITALMETRIQ SWIFT MFB
+• CAPSTONE MFB
+• CARBON MFB
+• CARETAKER MFB
+• CASH RITE MFB
+• CASHCONNECT MFB
+• CASTLE MFB
+• CATLAND MFB
+• CEDAR MFB
+• CHALLENGE MFB
+• CHANELLE MFB
+• CHANGAN RTS MFB
+• CHASE MFB LTD
+• CHEVRON EMPLOYEE CO-OPERATIVE MFB (CEMCS)
+• CHIBUEZE MFB
+• CHIKUM MFB
+• CHRISORE MFB
+• CHRONICLES MFB
+• CHUKWUNENYE MFB
+• CINTRUST MFB
+• CIT MFB
+• CITIZEN TRUST MFB
+• CITY MISSION METHODIST MFB
+• CIVIC MFB
+• CLOVERLEAF MFB
+• COAL CAMP MFB
+• COASTLINE MFB
+• COEMINNA MFB
+• CONFIDENCE MFB
+• CONSISTENT TRUST MFB
+• CONSUMER MFB
+• CORESTEP MFB
+• COVENANT MFB
+• CREEKLINE MFB
+• CRESCENT MFB
+• CREST MFB
+• CROSSRIVER MFB
+• CRUTECH MFB
+• CRYSTABEL MFB
+• CSD MFB
+• CUSTODIAN MFB
+• DAILY-TRUST MFB
+• DAL MFB
+• DAMBATTA- MAKODA MFB
+• DAVODANI MFB
+• DAWAKIN KUDU MFB
+• DAWAKIN TOFA MFB
+• DAYLIGHT MFB LTD
+• DEC-ENUGU MFB
+• DESTINY MFB
+• DIOBU MFB
+• DOGUWA MFB
+• DOLPHIN MFB
+• DORBEN MFB
+• DUTSE MFB
+• DUTSIN-MA MFB
+• EAGLE FLIGHT MFB
+• EARNWELL MFB
+• EAST GATE MFB
+• EASTMAN MFB
+• EASY ACCESS MFB LTD
+• EBEDI MFB
+• EBONYI STATE UNIVERSITY MFB (EBSU)
+• EDFIN MFB
+• EDO MFB
+• EGBE MFB
+• EGBEMOHA MFB
+• EGWAFIN MFB
+• EJINDU MFB
+• EK-RELIABLE MFB
+• EKIMOGUN MFB
+• EKONDO MFB
+• EKWULOBIA MFB
+• ELO-EMEDE MFB
+• EMERALD MFB
+• EMPIRE TRUST MFB
+• ENDWELL MFB
+• ENEDE MFB LTD
+• ENRICH MFB
+• EQUATOR MFB
+• EQUINOX MFB
+• ESO-E MFB
+• EVERGREEN MFB
+• EWT MFB
+• EXCEL MFB
+• EZEBO MFB
+• FAIDA MFB LTD
+• FAIRMONEY MFB LTD
+• FAME MFB
+• FAST MFB
+• FCMB MFB LTD.
+• FECETU MFB
+• FEDERAL POLYTECHNIC, NEKEDE MFB LTD
+• FEDETH CO-OP MFB
+• FEDPOLY NASARAWA MFB
+• FFS MFB
+• FIDFUND MFB
+• FIMS MFB
+• FINATRUST MFB
+• FINCA MFB
+• FINEX MFB
+• FIRMUS MFB
+• FIRST ACCESS MFB LTD
+• FIRST HERITAGE MFB
+• FIRST LOW-LAND MFB
+• FIRST MUTUAL MFB
+• FIRST OPTION MFB
+• FIRST ROYAL MFB
+• FLOURISH MFB
+• FORESIGHT MFB
+• FORTRESS MFB
+• FORWARD MFB
+• FRONTLINE MFB
+• FTA FUNTUA MFB
+• FUD MFB
+• FUT MINNA
+• FUTO MFB
+• Flexi Microfinance Bank
+  Website: - | Address: No 63 Adekunle Fajuyi Way, GRA Ikeja, Lagos State
+• Fullrange Microfinance Bank Ltd
+• GAA AKANBI MFB
+• GABASAWA MFB
+• GAMAWA MFB
+• GAREWA MFB
+• GARKI MFB
+• GARU MALLAM MFB
+• GASHUA MFB
+• GAYA MFB
+• GBEDE MFB
+• GEZAWA MFB
+• GIANT STRIDE MFB LTD
+• GIGINYA MFB
+• GIREI MFB
+• GIWA MFB
+• GLOBAL INITIATIVE MFB
+• GLORY MFB
+• GMB MFB
+• GOBARAU MFB
+• GOLD MFB
+• GOLDEN CHOICE MFB
+• GOLDMAN MFB
+• GOMBE MFB
+• GOOD NEIGHBOURS MFB
+• GOOD NEWS MFB
+• GOOD SHEPHERD MFB
+• GOWANS MFB
+• GRANTS MFB
+• GREEN ACRES MFB
+• GREEN ENERGY MFB
+• GREEN-BANK MFB
+• GREENVILLE MFB
+• GROOMING MFB
+• GTI MFB
+• GUDUSISA MFB
+• GULFARE MFB
+• GWONG MFB
+• Gidauniya Alheri MFB
+• HADEIJA MFB
+• HALAL CREDIT MFB
+• HALLOWED MFB
+• HAMADA MFB
+• HAMDA MFB
+• HASAL MFB
+• HEADWAY MFB LTD
+• HIGHLAND MFB
+• HINACHE MFB
+• HONEY MFB
+• HOPE ALIVE MFB
+• I-Care Microfinance Bank Ltd
+• IBETO MFB
+• IBILE MFB
+• IBOLO MFB
+• IBOM FADAMA MFB
+• IBRAHIM BADAMASI BABANGIDA UNIVERSITY  MFB
+• IBU-AJE MFB
+• ICHI MFB
+• IDEATO MFB
+• IDEMILI MFB
+• IFEDAPO MFB
+• IFELODUN MFB
+• IGBO-UKWU MFB
+• IGBOORA MFB
+• IHIALA MFB
+• IJARE MFB
+• IJEBU IFE MFB
+• IKENNE MFB
+• IKIRE MFB
+• IKORODU DIVISION MFB
+• IKOYI-ILE MFB
+• IKOYI-OSUN MFB
+• ILARO POLYTECHNIC MFB
+• ILE-OLUJI MFB
+• ILISAN MFB
+• ILOBU MFB
+• ILOFFA MFB
+• ILORA MFB
+• ILORIN MFB
+• ILUDUN ORO MFB
+• ILUTUNTUN-OSORO MFB
+• IMO STATE MICROFINANCE BANK
+• IMODI-IMOSAN MFB
+• IMOPOLY MFB
+• IMOWO MFB
+• IMSU MFB
+• IMT MFB
+• INFINITY MFB
+• INSIGHT MFB
+• IPAPO MFB
+• IPERU MFB
+• IRL MFB
+• ISALE OYO MFB
+• ISHIAGU MFB
+• ISHIE MFB
+• ISI-UZO MFB
+• ISLAND MFB
+• ISUA MFB
+• ISUOFIA MFB
+• IWA MFB
+• IWADE MFB
+• IWOYE-IJESA MFB
+• IYA-ZAKARI (MASHI) MFB
+• IYAMOYE MFB
+• IYERU OKIN MFB
+• IYIN EKITI MFB
+• IZON MFB LTD
+• JANMAA MFB
+• JANZAMA MFB
+• JEN MFB
+• JESSEFIELD MFB
+• JEWEL COOP MFB
+• KABO MFB
+• KADPOLY MFB
+• KADUPE MFB
+• KAMBA MFB
+• KANKARA MFB
+• KANKIA MFB LTD
+• KANO POLY MFB
+• KANO-WEST MFB
+• KATAGUM MFB
+• KAYVEE MFB
+• KC MFB
+• KCMB MFB
+• KENECHUKWU MFB
+• KHB MFB
+• KINGDOM COLLEGE MFB LTD
+• KISI MFB
+• KKU Microfinance
+• KMC MFB
+• KONTAGORA MFB
+• KOPO-KOPE MFB
+• KREDI MONEY MFB (Formerly CONPRO MFB)
+• KUDA MFB
+• KUMBOTSO MFB
+• KUNAGABA MFB
+• KUNCHI MFB
+• KURA MFB
+• KUSALLA MFB
+• KWACOFOCUS MFB
+• KWASU MFB
+• KWATASHI MFB
+• LA FAYETTE MFB
+• LANDGOLD MFB
+• LAPO MFB
+• LAVENDER
+• LAWYERS MFB
+• LAYELU MFB
+• LEADCITY MFB
+• LEGACY MFB
+• LEGEND MFB
+• LETSHEGO MFB
+• LEVITE MFB
+• LIFEGATE MFB
+• LIGHT MFB
+• LINKS MFB
+• LIVING SPRING MFB
+• LOBREM MFB
+• LOVONUS MFB
+• Ladder Microfinance Bank
+  Website: - | Address: No 77 Ayangburen Road, Ikorodu, Lagos State
+• M & M MFB
+• MAB ALLIANZ MFB LTD
+• MACROD MFB
+• MADELYN MFB
+• MADOBI MFB
+• MAGAJIN-GIRI MFB
+• MAGNET MFB
+• MAIGATARI MFB
+• MAIN TRUST MFB
+• MAINLAND MFB
+• MAINSTREET MFB
+• MALACHY MFB
+• MAPOLY MFB
+• MARITIME MFB
+• MATAZU MFB LTD
+• MAXITRUST MFB
+• MBAITOLI MFB
+• MBAWULU MFB
+• MEGA MFB
+• MEGAPRAISE MFB
+• MEMENTO MFB LTD
+• MEMPHIS MICROFINANCE BANK LIMITED
+• MERCHANT MFB
+• MERIDIAN MFB
+• MGBIDI MFB
+• MICHEAL OKPARA UNIVERSITY MFB
+• MICROVIS MFB
+• MIDLAND MFB
+• MINJI-SE CHURCHILL MFB
+• MINJIBIR MFB
+• MKOBO MFB LTD
+• MODEL MFB
+• MODIYA YEKOKPE MFB
+• MOLUSI MFB
+• MONARCH MFB
+• MONEYTRONICS MFB (Formerly Ipodo-Ikeja MFB)
+• MOYOFADE MFB
+• MOZFIN MFB
+• MULTIVEST MFB
+• MUTUAL BENEFIT MFB
+• MUTUAL TRUST MFB
+• MWAGHAVUL MFB
+• Moneytrust MFB
+• NAGARTA MFB
+• NAISA MFB
+• NAKOWA MFB
+• NAMODA MFB
+• NASARAWA MFB
+• NDIOLU MFB
+• NDIORAH MFB
+• NENZIT MFB
+• NEPTUNE MFB
+• NEW DAWN MFB
+• NEW ERA MFB
+• NEW GOLDEN PASTURES MFB
+• NEW WOMEN'S MFB
+• NGBO MFB LTD
+• NICE MFB
+• NIGERIAN NAVY MFB LTD
+• NIGERIAN PRISONS MFB
+• NINGI MFB
+• NIRSAL MFB
+• NKPA MFB
+• NKPOLOGWU MFB
+• NKPOLU-UST MFB
+• NNOKWA MFB
+• NOBLE MFB
+• NOMASE MICROFINANCE BANK LTD
+• NOUN MFB
+• NOVEL MFB
+• NPF MFB
+• NRI MFB
+• NSU MFB
+• NSUK MFB
+• NSUKKA TOWNSHIP MFB
+• NUGGETS MFB
+  Website: - | Address: NO.15, SULAIMON SHODERU STREET, POWER LINE ROAD, IKORODU, LAGOS
+• NUMO MFB
+• NUN MFB
+• NUT OKEBOLA MFB
+• NWANNEGADI MFB
+• OAKLAND MFB
+• OBA MFB
+• OBAFEMI AWOLOWO UNIVERSITY MFB
+• OBELEDU MFB
+• OBODOUKWU MFB
+• OBOKUN MFB
+• OBOLLO MFB
+• OCHE MFB
+• OCON SUCCESS MFB
+• OCTOPUS MFB
+• ODOAKPU MFB
+• ODU MFB
+• OGBERURU MFB
+• OGBETE MFB
+• OGBOEFERE MFB
+• OGIGE MFB
+• OGIYAN MFB
+• OHAFIA MFB
+• OHHA MFB
+• OJOKORO MFB
+• OKE- ARO OREDEGBE MFB
+• OKEAGBE MFB
+• OKENGWE MFB
+• OKO MFB
+• OKPE MFB
+• OKPOFE MFB
+• OKPOGA MFB
+• OKUKU MFB
+• OKUTA MFB
+• OKWO-OHA MFB
+• OLABISI ONABANJO UNIVERSITY MFB
+• OLIVE MFB
+• OLOWOLAGBA MFB
+• OLU-BASIRI MFB
+• OLUCHUKWU MFB
+• OMAK MFB
+• OMIYE MFB
+• OMUMA MFB
+• ONIBU-ORE MFB
+• ORAUKWU MFB
+• ORILONISE MFB
+• ORISUN MFB
+• ORITA BASORUN MFB
+• OROKAM MFB
+• ORSU MFB
+• OSANTA MFB
+• OSCT MFB
+• OSI MFB
+• OSOMHE MFB
+• OSPOLY MFB
+• OSUMENYI MFB
+• OTUO MFB
+• OURS MFB
+• OWOTUTU MFB
+• OYAN MFB
+• PALMCOAST MFB
+• PALMERA MFB
+• PANA MFB
+• PARKWAY MFB
+• PATHFINDER MFB
+• PATRICKGOLD MFB
+• PEACE MFB
+• PECAN TRUST MFB
+• PENINSULA MFB LTD
+• PENNYWISE MFB
+• PENTECOST MFB LTD
+• PERSONAL TRUST MFB
+• PETRA MFB
+• PHOENIX MFB
+• PILLAR MFB
+• POLYBADAN MFB
+• POLYUNWANNA MFB
+• PREEMINENT MFB
+• PRESTIGE MFB
+• PRISCO MFB
+• PRISTINE DIVITIS MFB
+• PROJECTS MFB
+• PROSPECTS MFB
+• PROSPERITY MFB
+• PRUDENT MFB
+• PYRAMID MFB
+• Pointone Microfinance Bank
+• QUBE MFB
+• QUICKFUND MFB
+• RAHAMA MFB
+• RAKIB MFB
+• RAMILOWO MFB
+• RANDALPHA
+• RANO MFB
+• REFINED BENEFITS MFB
+• REGENT MFB
+• REHOBOTH MFB
+• RELIANCE MFB
+• RENMONEY MFB
+• REPHIDIM MFB
+• RIC MFB
+• RICHWAY MFB LTD.
+• RIGO MFB
+• RIMA GROWTH PATHWAY MFB LTD
+• RIMA MFB
+• RIMIN GADO MFB
+• RIVERSIDE MFB
+• ROCKSHIELD MFB
+• ROLEZ MFB
+• ROYAL BLUE MFB
+• ROYAL EXCHANGE MFB
+• ROYAL LIFE KEY MFB
+• ROYAL MFB
+• RUBIES MFB
+• SABI MFB
+• SABON YELWA MFB
+• SABUWA MFB LTD
+• SAFANA MFB
+• SAFE HAVEN MFB
+• SAFEGATE MFB
+• SAFELINE MFB
+• SAGAMU MFB
+• SANDAMU MFB
+• SAPIDA MFB
+• SARKIN KUDU MFB LTD
+• SEAP MFB
+• SEEDVEST MFB
+• SENCHI MFB
+• SHANONO MFB
+• SHEPHERD TRUST MFB
+• SHIELD MFB
+• SHONGOM MFB
+• SINCERE MFB
+• SLS MFB
+• SMARTMICRO MFB
+• SNOW MFB
+• SOLID ALLIANZ MFB
+• SOLID ROCK MFB
+• SOROMAN MFB
+• SOURCE MICROFINANCE BANK LIMITED
+• SPARKLE MFB
+• SPECTRUM MFB
+• STANDARD MFB
+• STANFORD MFB
+• STATESIDE MFB
+• STELLAS MFB
+• STEP BY STEP MFB
+• STILLWATERS MFB LTD
+• STOCKCORP MFB
+• SULSPAP MFB
+• SUMAILA MFB
+• SUNBEAM MFB
+• SUPPORT MFB
+• SUPREME MFB
+• SURE ANCHOR MFB
+• Shalom MFB
+• Solid Trust MFB
+• Suntop Microfinance Bank
+  Website: - | Address: PHASE 2, ULTRA MODERN MARKET, WESTERN RESERVOIR ROAD, ILORIN KWARA STATE
+• TANADI MFB
+• TANGALE MFB
+• TASUED MFB
+• TCF MFB
+• TF MFB
+• TOFA MFB
+• TOP RATE MFB
+• TOPCLASS MFB
+• TOTAL TRUST MFB
+• TOUCHGOLD MFB
+• TOWNSERVE MFB
+• TREASURES MFB
+• TRIDENT MFB
+• TRIPPLE A MFB
+• TRIUMPHANT MICROFINANCE BANK LIMITED
+  Website: - | Address: Suit A8-A10 Bethany Plaza Odenigbo Road, Nsukka, Enugu State
+• TRUST MFB
+• TRUSTBANC J6
+• TRUSTFUND MFB
+• TSANYAWA MFB
+• TUDUNWADA MFB LTD
+• Tangerine Money Microfinance Bank
+• The Millennium MFB
+• U & C MFB
+• UCB MFB
+• UDA MFB
+• UDOKA MFB
+• UGA MFB
+• UGBORIMILI MFB
+• UHURU MFB
+• UKPOR MFB
+• UKWALA MFB
+• ULTIMATE MFB
+• UMMAH MFB
+• UMUAWULU MFB
+• UMUCHINEMERE PROCREDIT MFB
+• UMUCHUKWU MFB
+• UMUNNACHI MFB
+• UMUOJI MFB
+• UMYU Microfinance Bank Limited
+• UNAAB MFB
+• UNGOGO MFB
+• UNIBADAN MFB
+• UNICAL MFB
+• UNIFUND MFB
+• UNILAG MFB LTD
+• UNILORIN MFB
+• UNIMAID MFB
+• UNITED CAPITAL MFB
+  Website: - | Address: 3rd & 4th FLOORS AFRILAND TOWERS, 97/105 BROAD STREET, LAGOS
+• UNIUYO MFB
+• UNIVERSITY OF BENIN MFB
+• UNN MFB
+• UNUBI MFB
+• URBAN MFB
+• URE MFB
+• UTAKO MFB
+• UTUH MFB
+• UVUOMA MFB
+• UVURU MFB
+• UZONDU MFB
+• VCL MFB
+• VFD MFB LTD
+• VICTORY MFB
+• VISA MFB
+• VISCOUNT MFB
+• WAILA MFB
+• WAYA MFB
+• WELFARE MFB
+• WETLAND MFB
+• WOLIWO MFB
+• WOMEN DEVELOPMENT MFB
+• WRA MFB
+• WUDIL MFB
+• Wallet Microfinance Bank
+• XSLNCE MFB
+• YABO MFB
+• YAURI EMIRATES MFB
+• YCT Microfinance Bank
+• YENENG MFB
+• YES MFB
+• YOBE STATE MFB
+• Yankari MFB
+• ZAFEC MFB LTD
+• ZAZZAU MFB
+• ZEFA MFB
+• ZIKORA MFB
+• ZION MFB
+• ZURMI MFB
+• ZURU MFB
+• e-BARCS MFB
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Citibank Nigeria Limited
+  - Street Address: '27 Kofo Abayomi Street, Victoria Island, Lagos.' → 'nan'
+  - Website: 'www.citibank.com' → 'nan'
+
+• First City Monument Bank Plc
+  - Street Address: 'nan' → 'Primrose Towers, 6-10 Floors 17A Tinubu Square'
+  - Website: 'nan' → 'www.fcmb-ltd.com'
+
+• Globus Bank Limited
+  - Street Address: 'No 6 Adeyemo Alakija Street, Victoria Island, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• Guaranty Trust Bank Plc
+  - Street Address: '635, Akin Adesola Street, Victoria Island, Lagos' → 'nan'
+  - Website: 'www.gtbplc.com' → 'nan'
+
+• Providus Bank
+  - Street Address: 'Plot 54, Ademola Adetokunbo' → 'nan'
+  - Website: '-' → 'nan'
+
+• Signature Bank Limited
+  - Street Address: 'nan' → 'Plot 31B, Gana Street, Maitama, FCT Abuja'
+  - Website: 'nan' → '-'
+
+• Zenith Bank Plc
+  - Street Address: 'Plot 84, Ajose Adeogun Street, Victoria Island, La' → 'nan'
+  - Website: 'www.zenithbank.com' → 'nan'
+
+[Development Finance Institutions]
+• NIGERIA EXPORT IMPORT BANK
+  - Street Address: 'nan' → 'Plot 975, Cadastral Zone A0, Central Business Dist'
+  - Website: 'nan' → 'www.neximbank.com.ng'
+
+• The Infrastructure Bank
+  - Street Address: 'Plot 977, Central Business District, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+[Finance Companies]
+• CO-LINK INVESTMENT MANAGEMENT COMPANY LIMITED
+  - Street Address: 'NO,1 MOTOR WAYS AVENUE, ALAUSA, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• CORE CAPITAL LIMITED
+  - Street Address: 'YCMA BUILDING, 77 AWOLOWO ROAD IKOYI, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• DOMINION FINANCE LIMITED
+  - Street Address: 'nan' → '207 IGBOSERE ROAD, LAGOS ISLAND, LAGOS'
+  - Website: 'nan' → '-'
+
+• NORTHQUEST FINANCE COMPANY LIMITED
+  - Street Address: '8B Oluwakayode Jacobs Crescent, Lekki Phase 1, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• PREFERRED FINANCE COMPANY LIMITED
+  - Street Address: '3rd Floor, Infinity House, Kaura Namoda Street, off Faskari Crescent Area3, Garki, Abuja FCT' → 'nan'
+  - Website: '-' → 'nan'
+
+• SPRING SKY FINANCE COMPANY LIMITED
+  - Street Address: 'Plot 6, Block 101, Furo Ezimaora Road, Lekki Phase 1, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+[Merchant Banks]
+• FBNQUEST MERCHANT BANK
+  - Street Address: 'nan' → '2 Kofo Abayomi Street'
+  - Website: 'nan' → '-'
+
+[Mobile Money Operators]
+• HEDONMARK MANAGEMENT SERVICES LIMITED
+  - Street Address: 'NCR Building (8th Floor)t, 6 Broad Street, Lagos Island, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• OPAY DIGITAL SERVICES LIMITED (FORMERLY PAYCOM NIGERIA LIMITED)
+  - Street Address: 'Alexander House Otunba Jobi Fele Way Agidingbi, Alausa, Ikeja, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• PAGATECH LIMITED
+  - Street Address: '176 Herbert Macaulay Way 3rd Floor, Yaba, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• TEASY INTERNATIONAL COMPANY LTD.
+  - Street Address: 'nan' → 'No 3 Elbe Close Off Panama Street, Maitama, Abuja'
+  - Website: 'nan' → '-'
+
+[Non-Interest Banks]
+• Summit Bank Limited
+  - Street Address: 'No. 5 Amal Pepple Street Off Ameyo Adadevoh Way, Jahi Abuja.' → 'nan'
+  - Website: '-' → 'nan'
+
+[Payment Service Banks]
+• SMARTCASH PSB LIMITED
+  - Street Address: 'Plot L2 401 Close Banana Island, Ikoyi, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+

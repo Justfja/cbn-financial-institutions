@@ -1,21 +1,21 @@
 Institution Name,Category,Name of Financial Institution,Instituition Type,Categorization,Old Name,Date of New Name,Street Address,Area,State,Telephone Number(s),Website,Email,Fax,PostalAddress,country,Ownership Type,Other Information,Date Licensed
 Access Bank Plc,Commercial Banks,Access Bank Plc,Commercial Bank,International,Access Bank Plc,17/01/1990,"14/15, Prince Alaba Oniru Road, Victoria Island, Lagos",Victoria Island,LAGOS,"(234) 01 26210404-41,2626273-76,2641571-72,3201889",www.accessbankplc.com,info@accessbankplc.com,(234) 01 2621037,"Plot 1665, Oyin Jolayemi Street",NGN,Domestic,"Access Bank, Capital Bank Int. Marina Bank,","5th Feb, 2001 (previously licensed Dec. 19, 1988)"
 Alpha Morgan Bank Limited,Commercial Banks,Alpha Morgan Bank Limited,Commercial Bank,Regional,-,01/01/1900,"44 Ademola Adetokunbo Crescent, Wuse II, Abuja",Wuse 2,ABUJA,08151717171,-,-,-,-,NGN,Domestic,-,10/28/2024
-Citibank Nigeria Limited,Commercial Banks,Citibank Nigeria Limited,Commercial Bank,National,Nigerian International Bank Ltd,11/10/2004,"27 Kofo Abayomi Street, Victoria Island, Lagos.",Victoria Island,LAGOS,234 01 2622000-9,www.citibank.com,-,"234 01 2618916,2623334","P.O.Box 6391, Victoria island",NGN,Foreign,Nigerian International Bank Ltd,"3rd January, 2006"
+Citibank Nigeria Limited,Commercial Banks,,,,,,,,,,,,,,,,,
 Ecobank Nigeria Plc,Commercial Banks,,,,,,,,,,,,,,,,,
 Fidelity Bank Plc,Commercial Banks,,,,,,,,,,,,,,,,,
 First Bank Nigeria Limited,Commercial Banks,,,,,,,,,,,,,,,,,
-First City Monument Bank Plc,Commercial Banks,,,,,,,,,,,,,,,,,
-Globus Bank Limited,Commercial Banks,Globus Bank Limited,Commercial Bank,Regional,-,01/01/1900,"No 6 Adeyemo Alakija Street, Victoria Island, Lagos",Victoria Island,LAGOS,-,-,-,-,-,NGN,Domestic,-,"5th November, 2021"
-Guaranty Trust Bank Plc,Commercial Banks,Guaranty Trust Bank Plc,Commercial Bank,International,-,17/01/1990,"635, Akin Adesola Street, Victoria Island, Lagos",Victoria Island,LAGOS,"234-01-2622650-69,3201100",www.gtbplc.com,-,234-01-2622698-9,"Plot 1669, Oyin Jolayemi Street V.I. Lagos",NGN,-,Guaranty Trust Bank Plc,"3rd January, 2006 (previously licensed August 1, 1990)"
+First City Monument Bank Plc,Commercial Banks,First City Monument Bank Plc,Commercial Bank,International,First City Monument Bank Plc,11/11/1983,"Primrose Towers, 6-10 Floors 17A Tinubu Square",Tinubu Square,LAGOS,01 2665944 - 53,www.fcmb-ltd.com,caf@firstcitygroup.com,01 2665126,"P. O. Box 9117, Lagos Nigeria",NGN,-,"FCMB, Co-operative Dev, NAMBL, Midas","3rd January, 2006 (previously August 11,1983)"
+Globus Bank Limited,Commercial Banks,,,,,,,,,,,,,,,,,
+Guaranty Trust Bank Plc,Commercial Banks,,,,,,,,,,,,,,,,,
 Keystone Bank Limited,Commercial Banks,,,,,,,,,,,,,,,,,
 Nova Commercial Bank Limited,Commercial Banks,Nova Commercial Bank Limited,Commercial Bank,National,-,01/01/1900,"23 Kofo Abayomi Street, Victoria Island, Lagos",Lagos,LAGOS,02012804000 +2348012804000,-,-,-,-,NGN,Domestic,-,07/01/2024
 Optimus Bank,Commercial Banks,Optimus Bank,Commercial Bank,National,-,01/01/1900,"No 55 Bishop Oluwole Street, Victoria Island, Lagos",Victoria island,LAGOS,+23419063600,https://optimusbank.com,opticonnect@optimusbank.com,-,-,NGN,Domestic,-,21/10/2022
 Parallex Bank Ltd,Commercial Banks,,,,,,,,,,,,,,,,,
 Polaris Bank Plc,Commercial Banks,,,,,,,,,,,,,,,,,
 Premium Trust Bank,Commercial Banks,,,,,,,,,,,,,,,,,
-Providus Bank,Commercial Banks,Providus Bank,Commercial Bank,Regional,-,01/01/1900,"Plot 54, Ademola Adetokunbo",Victoria Island,LAGOS,-,-,-,-,-,NGN,-,-,"11 May, 2016"
-Signature Bank Limited,Commercial Banks,,,,,,,,,,,,,,,,,
+Providus Bank,Commercial Banks,,,,,,,,,,,,,,,,,
+Signature Bank Limited,Commercial Banks,Signature Bank Limited,Commercial Bank,Regional,-,01/01/1900,"Plot 31B, Gana Street, Maitama, FCT Abuja",Abuja,ABUJA,XXXXXXXXX,-,-,-,"Plot 31B, Gana Street, Maitama, FCT Abuja",NGN,Domestic,-,04/26/2024
 Stanbic IBTC Bank Plc,Commercial Banks,,,,,,,,,,,,,,,,,
 Standard Chartered Bank Nigeria Ltd.,Commercial Banks,Standard Chartered Bank Nigeria Ltd.,Commercial Bank,National,-,01/12/2004,"142 Ahmadu Bello Way, Victoria Island, Lagos.",Victoria Island,LAGOS,"234 01 3262000,2626801-5",www.ng.standardchartered.com,stanchart.info@ng.standardchartered.com,"234 01 2626814,3201659","105B, Ajose Adeogun Street, Victoria Island, Lagos",NGN,-,Standard Chartered Bank,"3rd January, 2006"
 Sterling Bank Plc,Commercial Banks,Sterling Bank Plc,Commercial Bank,National,NAL Merchant Bank Ltd,25/01/1999,"Sterling Towers, 20 Marina, Lagos.","20 Marina, Lagos",LAGOS,234 1-2702300-1,www.sterlingbankng.com,webmaster@sterlingbankng.com,"(234) -1-2633294, 2635540","P.M.B. 12735, Sterling Towers, Lagos, Nigeria",NGN,-,"Magnum Trust Bank Ltd, NBM Bank Ltd, NAL Bank Plc,","3rd January, 2006"
@@ -26,4 +26,4 @@ Union Bank of Nigeria Plc,Commercial Banks,Union Bank of Nigeria Plc,Commercial 
 United Bank For Africa Plc,Commercial Banks,,,,,,,,,,,,,,,,,
 Unity Bank Plc,Commercial Banks,Unity Bank Plc,Commercial Bank,National,-,02/01/2006,"Plot 42, Ahmed Onibudo Street, Victoria Island, Lagos.","Central Business District,",ABUJA,(234) 09-4616700-9,www.unitybankng.com,-,(234) 01 2693256,P. O. Box 52463 Lagos State,NGN,Domestic,"New Africa, TCB, Centre-Point,BON,NNB,Intercity,Pa",3rd January 2006
 Wema Bank Plc,Commercial Banks,Wema Bank Plc,Commercial Bank,National,Agbomagbe Bank Limited,18/01/1965,"Wema Towers 54, Marina Lagos Island",Lagos,LAGOS,"234 012669236,2669713",www.wemabank.com,info@wemabank.com,234 01 2669236,"54, Marina, P. M. B. 12862, Lagos",NGN,-,"Wema Bank Plc, National Bank Plc",3rd January 2006
-Zenith Bank Plc,Commercial Banks,Zenith Bank Plc,Commercial Bank,International,Zenith International Bank Ltd,13/09/2004,"Plot 84, Ajose Adeogun Street, Victoria Island, La",Victoria Island,LAGOS,"(234) 1 4618301, 4618311, 4618321, 2620727",www.zenithbank.com,enquiry@zenithbank.com,(234) 1 2610249,"P.O. Box 75315 Plot 84, Ajose Adeogun Street, Vict",NGN,-,Zenith Bank Plc,"3rd January 2006 (previously licensed June 20, 1990)"
+Zenith Bank Plc,Commercial Banks,,,,,,,,,,,,,,,,,
