@@ -1,0 +1,373 @@
+CBN Financial Institutions Change Report - 2025-05-15
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 840)
+New institutions: 115
+Removed institutions: 0
+Institutions with changed details: 54
+
+ADDED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Finance Companies]
+• AAA FINANCE & INVESTMENT COMPANY LIMITED
+• ADDOSSER FINANCE LIMITED
+• AIQ CAPITAL FINANCE COMPANY LIMITED
+• ALC FINANCE COMPANY LTD
+• ALLIANZBRIDGE FINANCE COMPANY LIMITED
+• AMS FINANCE & MANAGEMENT COMPANY LIMITED
+• AQUILA LEASING LIMITED
+• ARKERS FINANCE COMPANY LIMITED
+• BANCORP FINANCE LIMITED
+• BERKSHIRE FINANCE COMPANY LIMITED
+• BRANCH INTERNATIONAL FINANCIAL SERVICES LTD
+• C & I LEASING PLC
+• CANDOURCREST FINANCE LIMITED
+• CAPITALFIELD FINANCIAL MANAGEMENT LIMITED
+• CAPRI-MARTINS FINANCE LIMITED
+• CARBON FINANCE AND INVESTMENT LIMITED
+• CASH-LINK LEASING PLC
+• CELOX FINANCE & INVESTMENT LIMITED
+• CEVIANT FINANCE LIMITED
+• CFS Financial Services Limited
+  Website: - | Address: Eleganza Building, 15B Wesley/Joseph Street,
+• CITIHOMES FINANCE COMPANY LIMITED
+• CO-LINK INVESTMENT MANAGEMENT COMPANY LIMITED
+• CONSUMER INVESTMENT LIMITED
+• CORE CAPITAL LIMITED
+• COUNTY FINANCE LIMITED
+• CREDIT DIRECT LIMITED
+• CREDITE CAPITAL FINANCE & INVESTMENT LIMITED
+• CROWNWISE FINANCE & INVESTMENTS PLC
+• CRYSTAL FINANCE COMPANY LIMITED
+• CS ADVANCE FINANCE COMPANY LIMITED
+• Centrum Finance Company Limited
+• DE-REAL PEOPLE FINANCE LIMITED
+• DIGNITY FINANCE LIMITED
+  Website: - | Address: YOMA PLACE, NO 5 O.P. FINGESI STREET, UTAKO DISTRICT, ABUJA, FCT
+• DOMINION FINANCE LIMITED
+  Website: - | Address: 207 IGBOSERE ROAD, LAGOS ISLAND, LAGOS
+• DYNAMIC FINANCE LIMITED
+• E-FINANCE LIMITED
+• ENCO FINANCE COMPANY LTD
+• EVERDEN FINANCIAL SERVICES LTD
+• EVIB FINANCE COMPANY LIMITED
+  Website: - | Address: 3 Shalom Drivem Patrick Harbour Estate Off Mojisola Onikoyi Estate, Ikoyi Lagos
+• FACTORING & SUPPLY CHAIN FINANCE LIMITED
+• FAST CREDIT LIMITED
+• FEWCHORE FINANCE COMPANY LIMITED
+• FIDUCIA FINANCE COMPANY LIMITED
+  Website: - | Address: The Rock Tower, The Rock Drive, Lekki Phase 1, Lagos State
+• FINANCE AND COMMERCIAL SERVICES LIMITED
+• FINANCIAL DERIVATIVES CO. LTD
+  Website: - | Address: 11A, Goriola Street;
+• FIRST CORNERSTONE FINANCE AND INVESTMENT LIMITED
+• FIRST MARINA TRUST LIMITED
+• FLOBAL FINANCIAL SERVICES LIMITED
+• FUNDIT FINANCIAL SERVICES LIMITED
+• FUNDQUEST FINANCIAL SERVICES LIMITED
+• FUNDSWORTH LIMITED
+  Website: - | Address: 6, Louis Solomon Close;
+• GADOL FINANCE LTD
+• GDL FINANCE AND LEASING COMPANY LIMITED
+• GOODGATE FINANCE LTD
+• GRAND TREASURERS LIMITED
+• GREENBOND FINANCE COMPANY LIMITED
+• GRIFFIN FINANCE LIMITED
+• HIDDEKEL CAPITAL LTD
+• Harmony Breakthrough Finance Company Limited
+  Website: - | Address: 1st Floor Old Kingsway Building Radio Nigeria, Dugbe Ibadan, Oyo State
+• INITIATIVE FINANCE LIMITED
+• LECON FINANCIAL SERVICES COMPANY LIMITED
+• LIGHT HOUSE INVESTMENTS LIMITED
+• LUKEFIELD FINANCE LIMITED
+• MERISTEM FINANCE LIMITED
+• MEZCREDIT FINANCE LIMITED
+• MIM FINANCE COMPANY LTD
+• NEWEDGE FINANCE LIMITED
+• NICHOLE FINANCE COMPANY LIMITED
+• NOBLESERVE CAPITAL MANAGEMENT LIMITED
+• NOLT FINANCE COMPANY LIMITED
+  Website: - | Address: Suite 4, First Floor, 11 Awolowo Road, Ikoyi, Lagos State
+• NORTHQUEST FINANCE COMPANY LIMITED
+  Website: - | Address: 8B Oluwakayode Jacobs Crescent, Lekki Phase 1, Lagos State
+• O3 CAPITAL LIMITED
+• OKAZI FINANCE LIMITED
+• OPTICOM LEASING COMPANY LIMITED
+• ORANGE ONE FINANCE COMPANY LIMITED
+• OXYGEN X FINANCE COMPANY LIMITED
+  Website: - | Address: 4th Floor Plot 1665, Oyin Jolayemi Street, Victoria Island Lagos
+• One-Stop Finance Company
+• PAGE INTERNATIONAL FINANCIAL SERVICES LIMITED
+• PARADIGM FINANCE LIMITED
+• PERENNIAL FINANCE LIMITED
+• PFI FINANCIAL LIMITED
+• PILOT FINANCE LIMITED
+• PREFERRED FINANCE COMPANY LIMITED
+  Website: - | Address: 3rd Floor, Infinity House, Kaura Namoda Street, off Faskari Crescent Area3, Garki, Abuja FCT
+• PROSPERIS FINNANCE LIMITED
+• QUIDPRO FINANCE COMPANY LIMITED
+• QUITS FINANCE LIMITED
+• REDOAK TRUST AND INVESTMENT LIMITED
+• RESOLUTION FINANCE LIMITED
+• ROSABON FINANCIAL SERVICES LIMITED
+• ROYAL CREST FINANCE LIMITED
+• ROYAL EXCHANGE FINANCE AND INVESTMENT LIMITED
+• SAGE GREY FINANCE LIMITED
+• SFS CREDITS LIMITED
+• SIMPLE FINANCE LIMTED
+• SKYSTONE CAPITAL AND INVESTMENT LIMITED
+• SNOW FINANCIAL SERVICES LIMITED
+• SPRING SKY FINANCE COMPANY LIMITED
+  Website: - | Address: Plot 6, Block 101, Furo Ezimaora Road, Lekki Phase 1, Lagos State
+• STILL EARTH CAPITAL FINANCE LIMITED
+• STIRLING TRUST COMPANY LIMITED
+  Website: - | Address: Plot PC 10, Engineering Close,
+• SUPRA FINANCE LIMITED
+• TEKLA FACTROING AND FINANCE
+• THE BROOK FINANCE LTD
+• THOMAS GILTS FINANCE LIMITED
+• TRANSKREDIT FINANCE COMPANY LIMITED
+• TRINITY FINANCE LIMITED
+• TROPICS FINANCE AND INVESTMENT COMPANY LIMITED
+• UNIVERSAL INVEST & DEV. CO. LTD
+• UT FINANCIAL SERVICES NIGERIA LIMITED
+• VALE FINANCE LTD
+• VIVA FINANCE LIMITED
+• WESTWOOD FINANCIAL SERVICES LIMITED
+• WOODHALL FINANCE COMPANY LIMITED
+  Website: - | Address: 22B, Gerrard Road, Ikoyi, Lagos State
+• WSTC FINANCIAL SERVICES LIMITED
+• Whitecrust Finance Company Limited
+• ZEDVANCE FINANCE LIMITED
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• First City Monument Bank Plc
+  - Street Address: 'Primrose Towers, 6-10 Floors 17A Tinubu Square' → 'nan'
+  - Website: 'www.fcmb-ltd.com' → 'nan'
+
+• Nova Commercial Bank Limited
+  - Street Address: 'nan' → '23 Kofo Abayomi Street, Victoria Island, Lagos'
+  - Website: 'nan' → '-'
+
+• Providus Bank
+  - Street Address: 'nan' → 'Plot 54, Ademola Adetokunbo'
+  - Website: 'nan' → '-'
+
+• Signature Bank Limited
+  - Street Address: 'Plot 31B, Gana Street, Maitama, FCT Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• Standard Chartered Bank Nigeria Ltd.
+  - Street Address: '142 Ahmadu Bello Way, Victoria Island, Lagos.' → 'nan'
+  - Website: 'www.ng.standardchartered.com' → 'nan'
+
+• SunTrust Bank Nigeria Limited
+  - Street Address: 'nan' → '1 Oladele Olashore Street'
+  - Website: 'nan' → '-'
+
+• Tatum Bank Limited
+  - Street Address: 'nan' → 'Plot 1088 Cadastral Zone A01 Area 3, Garki, Abuja'
+  - Website: 'nan' → '-'
+
+• Titan Trust Bank Ltd
+  - Street Address: 'nan' → 'Plot 1680 Sanusi Fafunwa Street, Victoria Island, Lagos'
+  - Website: 'nan' → '-'
+
+• Union Bank of Nigeria Plc
+  - Street Address: 'nan' → 'Stallion Plaza, 36 Marina, Lagos'
+  - Website: 'nan' → '-'
+
+• Wema Bank Plc
+  - Street Address: 'nan' → 'Wema Towers 54, Marina Lagos Island'
+  - Website: 'nan' → 'www.wemabank.com'
+
+• Zenith Bank Plc
+  - Street Address: 'nan' → 'Plot 84, Ajose Adeogun Street, Victoria Island, La'
+  - Website: 'nan' → 'www.zenithbank.com'
+
+[Development Finance Institutions]
+• BANK OF INDUSTRY
+  - Street Address: 'nan' → '23, Marina, Lagos'
+  - Website: 'nan' → '-'
+
+• Development Bank of Nigeria PLC
+  - Street Address: 'nan' → 'Plot 1386A Tigris Crescent, Maitama, FCT Abuja'
+  - Website: 'nan' → '-'
+
+• FEDERAL MORTGAGE BANK OF NIGERIA
+  - Street Address: 'nan' → 'Plot 266, Cadastral Zone A0, Central Business Dist'
+  - Website: 'nan' → '-'
+
+• NIGERIA EXPORT IMPORT BANK
+  - Street Address: 'nan' → 'Plot 975, Cadastral Zone A0, Central Business Dist'
+  - Website: 'nan' → 'www.neximbank.com.ng'
+
+[Holding Companies]
+• STERLING FINANCIAL HOLDINGS LIMITED
+  - Street Address: 'nan' → 'NO 22 Marina, Lagos'
+  - Website: 'nan' → '-'
+
+[Merchant Banks]
+• FBNQUEST MERCHANT BANK
+  - Street Address: 'nan' → '2 Kofo Abayomi Street'
+  - Website: 'nan' → '-'
+
+[Micro-finance Banks]
+• AACB Microfinance Bank Limited
+  - Street Address: 'nan' → 'Adazi-Ani Town Hall, Adazi Ani,'
+  - Website: 'nan' → '-'
+
+• AVE MARIA MFB
+  - Street Address: 'NO.16, OKE ASUNNARA, IWERE-ILE IWAJOWA LGA, OYO STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Abia State University Microfinance Bank Limited
+  - Street Address: 'nan' → 'Uturu, Isuikwuato LGA, Abia State'
+  - Website: 'nan' → '-'
+
+• Adazi-Nnukwu Microfinance Bank Limited
+  - Street Address: 'nan' → 'Near Eke Market, Adazi Nnukwu, Adazi, Anambra State'
+  - Website: 'nan' → '-'
+
+• Ahmadu Bello University Microfinance Bank Limited
+  - Street Address: 'nan' → 'Main Campus, Opp. Post Graduate School,'
+  - Website: 'nan' → '-'
+
+• Ajewole Microfinance Bank Limited
+  - Street Address: 'Ilorin Road, Sabo, Ogbomosho' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ajose Microfinance Bank Limited
+  - Street Address: 'nan' → 'Ejinrin Road, Ijebu South'
+  - Website: 'nan' → '-'
+
+• Ajuta Microfinance Bank Limited
+  - Street Address: 'Market Road, Loso Quarters, Ogbagi Akoko' → 'nan'
+  - Website: '-' → 'nan'
+
+• Akpo Microfinance Bank Limited
+  - Street Address: 'Akpo Junction, Akpo, Aguata LGA, Anambra State' → 'nan'
+  - Website: '-' → 'nan'
+
+• All Workers Microfinance Bank Limited
+  - Street Address: '30, MBARI STREET, IKENEGBU LAYOUT, OWERRI, IMO STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Alor Microfinance Bank Limited
+  - Street Address: 'nan' → 'Nkwor Alor Market Square, Idemili South LGA, Anambra State'
+  - Website: 'nan' → '-'
+
+• Amucha Microfinance Bank Limited
+  - Street Address: 'Bank House, Amucha, Via Orlu Njaba' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aniocha Microfinance Bank Limited
+  - Street Address: 'nan' → 'Umeadi House, Ogbeofu Quarter'
+  - Website: 'nan' → '-'
+
+• Apa Microfinance Bank Limited
+  - Street Address: 'nan' → 'Makurdi Road, Adoka, Otukpo'
+  - Website: 'nan' → '-'
+
+• Aspire Microfinance Bank LImited
+  - Street Address: 'nan' → 'No. 254, Umusadegi Road, Kwale'
+  - Website: 'nan' → '-'
+
+• Astra Polaris Microfinance Bank Limited
+  - Street Address: 'nan' → 'ADIGBE AREA, OBAFEMI OWODE LGA, ABEOKUTA, OGUN STATE'
+  - Website: 'nan' → '-'
+
+• Auchi Microfinance Bank Limited
+  - Street Address: '40, Otaru Road, Auchi' → 'nan'
+  - Website: '-' → 'nan'
+
+• Awe Microfinance Bank Limited
+  - Street Address: 'Awe-Iwo Road, Awe, Oyo State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Awka-Etiti Microfinance Bank Limited
+  - Street Address: 'nan' → 'KM 1-3, Nnobi Awka Etiti Road, Idemili LGA, Anambra'
+  - Website: 'nan' → '-'
+
+• Balogun Fulani Microfinance Bank Limited
+  - Street Address: 'nan' → '9, Balogun Fulani Road, Ilorin, Kwara State'
+  - Website: 'nan' → '-'
+
+• Bauchi CFA Mirofinance Bank Limited
+  - Street Address: 'Mohammed Adamu Hashidu House, No. 21 Abdulkadir Ahmed Road, P.M.B. 0125, Bauchi, Bauchi State.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bauchi Investment Corporation MFB Limited (BIC)
+  - Street Address: '37, Abdulkadir Ahmed Road, Bauchi' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bethel Microfinance Bank Limited
+  - Street Address: 'nan' → 'PLOT C/1 OWERRI ROAD EXTENSION, SECRETARIAT QTRS, ASATA, ENUGU STATE.'
+  - Website: 'nan' → '-'
+
+• Flexi Microfinance Bank
+  - Street Address: 'nan' → 'No 63 Adekunle Fajuyi Way, GRA Ikeja, Lagos State'
+  - Website: 'nan' → '-'
+
+• Ladder Microfinance Bank
+  - Street Address: 'nan' → 'No 77 Ayangburen Road, Ikorodu, Lagos State'
+  - Website: 'nan' → '-'
+
+• PRUDENT MFB
+  - Street Address: 'nan' → 'PLOT NO. MF-03A, SAUKA VILLAGE EXTENSION, KUJE ABUJA'
+  - Website: 'nan' → '-'
+
+• Pointone Microfinance Bank
+  - Street Address: 'nan' → 'No 23, Odozie Street, Ojodu Abiodun, Lagos State'
+  - Website: 'nan' → '-'
+
+• SOURCE MICROFINANCE BANK LIMITED
+  - Street Address: 'nan' → '169 Ipaja Road, Agege, Lagos'
+  - Website: 'nan' → '-'
+
+[Mobile Money Operators]
+• FORTIS MOBILE MONEY LIMITED
+  - Street Address: 'Suit 402 Capital Hub Mabushi, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• HEDONMARK MANAGEMENT SERVICES LIMITED
+  - Street Address: 'nan' → 'NCR Building (8th Floor)t, 6 Broad Street, Lagos Island, Lagos'
+  - Website: 'nan' → '-'
+
+• KONGAPAY TECHNOLOGIES LIMITED (FORMERLY ZINTERNET LIMITED )
+  - Street Address: 'nan' → '1 Redemption Crescent Gbagada, before UPS, off Oshodi Apapa Express way, Lagos'
+  - Website: 'nan' → '-'
+
+• TEASY INTERNATIONAL COMPANY LTD.
+  - Street Address: 'nan' → 'No 3 Elbe Close Off Panama Street, Maitama, Abuja'
+  - Website: 'nan' → '-'
+
+• VISUAL ICT LIMITED
+  - Street Address: 'nan' → 'No 4, Tamale Street, Wuse Zone 3, Abuja'
+  - Website: 'nan' → '-'
+
+• XPRESS MTS LIMITED
+  - Street Address: 'nan' → 'N0 23 Oba Akinjobi Way, Ikeja GRA, Lagos'
+  - Website: 'nan' → '-'
+
+[Non-Interest Banks]
+• Alternative Bank Limited
+  - Street Address: 'nan' → 'No 239, Ikorodu Road, Obanikoro, Ilupeju, Mushin LGA Lagos.'
+  - Website: 'nan' → 'https://altbank.ng'
+
+[Payment Service Banks]
+• SMARTCASH PSB LIMITED
+  - Street Address: 'nan' → 'Plot L2 401 Close Banana Island, Ikoyi, Lagos'
+  - Website: 'nan' → '-'
+
+[Primary Mortgage Banks]
+• Adamawa Mortgage Bank Limited
+  - Street Address: 'nan' → 'No 1, Bishop Street, Jimeta Yola, Adamawa State'
+  - Website: 'nan' → '-'
+
