@@ -1,0 +1,178 @@
+CBN Financial Institutions Change Report - 2025-05-22
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 955)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 40
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Guaranty Trust Bank Plc
+  - Street Address: '635, Akin Adesola Street, Victoria Island, Lagos' → 'nan'
+  - Website: 'www.gtbplc.com' → 'nan'
+
+• Nova Commercial Bank Limited
+  - Street Address: '23 Kofo Abayomi Street, Victoria Island, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• Standard Chartered Bank Nigeria Ltd.
+  - Street Address: '142 Ahmadu Bello Way, Victoria Island, Lagos.' → 'nan'
+  - Website: 'www.ng.standardchartered.com' → 'nan'
+
+• Sterling Bank Plc
+  - Street Address: 'Sterling Towers, 20 Marina, Lagos.' → 'nan'
+  - Website: 'www.sterlingbankng.com' → 'nan'
+
+• SunTrust Bank Nigeria Limited
+  - Street Address: '1 Oladele Olashore Street' → 'nan'
+  - Website: '-' → 'nan'
+
+• Zenith Bank Plc
+  - Street Address: 'Plot 84, Ajose Adeogun Street, Victoria Island, La' → 'nan'
+  - Website: 'www.zenithbank.com' → 'nan'
+
+[Development Finance Institutions]
+• FEDERAL MORTGAGE BANK OF NIGERIA
+  - Street Address: 'Plot 266, Cadastral Zone A0, Central Business Dist' → 'nan'
+  - Website: '-' → 'nan'
+
+• NIGERIA EXPORT IMPORT BANK
+  - Street Address: 'Plot 975, Cadastral Zone A0, Central Business Dist' → 'nan'
+  - Website: 'www.neximbank.com.ng' → 'nan'
+
+• The Infrastructure Bank
+  - Street Address: 'Plot 977, Central Business District, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+[Finance Companies]
+• CO-LINK INVESTMENT MANAGEMENT COMPANY LIMITED
+  - Street Address: 'NO,1 MOTOR WAYS AVENUE, ALAUSA, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• CORE CAPITAL LIMITED
+  - Street Address: 'YCMA BUILDING, 77 AWOLOWO ROAD IKOYI, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• FIDUCIA FINANCE COMPANY LIMITED
+  - Street Address: 'The Rock Tower, The Rock Drive, Lekki Phase 1, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• FUNDSWORTH LIMITED
+  - Street Address: '6, Louis Solomon Close;' → 'nan'
+  - Website: '-' → 'nan'
+
+[Merchant Banks]
+• FBNQUEST MERCHANT BANK
+  - Street Address: 'nan' → '2 Kofo Abayomi Street'
+  - Website: 'nan' → '-'
+
+[Micro-finance Banks]
+• AACB Microfinance Bank Limited
+  - Street Address: 'Adazi-Ani Town Hall, Adazi Ani,' → 'nan'
+  - Website: '-' → 'nan'
+
+• ACE Microfinance Bank Limited
+  - Street Address: '3, Daniel Aliyu Street, Kwali, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• AMML Microfinance Bank Limited (Abuja Markets Management Ltd)
+  - Street Address: 'Plot 1363, Ladoke Akintola Boulevard, Garki Model Market, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• AVE MARIA MFB
+  - Street Address: 'nan' → 'NO.16, OKE ASUNNARA, IWERE-ILE IWAJOWA LGA, OYO STATE'
+  - Website: 'nan' → '-'
+
+• AWESOME MFB
+  - Street Address: 'nan' → 'DUO PLAZA OPP GWAGWALADAULTRA MODERN MARKET, KUTUNKU, ABUJA'
+  - Website: 'nan' → '-'
+
+• Abia State University Microfinance Bank Limited
+  - Street Address: 'nan' → 'Uturu, Isuikwuato LGA, Abia State'
+  - Website: 'nan' → '-'
+
+• Adazi-Enu Microfinance Bank Limited
+  - Street Address: 'nan' → 'Nkwor Market Square, Adazi- Enu, Anaocha Local Govt'
+  - Website: 'nan' → '-'
+
+• Adazi-Nnukwu Microfinance Bank Limited
+  - Street Address: 'nan' → 'Near Eke Market, Adazi Nnukwu, Adazi, Anambra State'
+  - Website: 'nan' → '-'
+
+• Afemai Microfinance Bank Limited
+  - Street Address: 'nan' → '61B, Bode Road, Jattu-Uzairue'
+  - Website: 'nan' → '-'
+
+• Agosasa Microfinance Bank Limited
+  - Street Address: '5, Ilupeju Estate, Ipokia Road,' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ahmadu Bello University Microfinance Bank Limited
+  - Street Address: 'Main Campus, Opp. Post Graduate School,' → 'nan'
+  - Website: '-' → 'nan'
+
+• Akokwa Microfinance Bank Limited
+  - Street Address: 'nan' → 'Oris-Akokwa Market Square,'
+  - Website: 'nan' → '-'
+
+• Akpo Microfinance Bank Limited
+  - Street Address: 'Akpo Junction, Akpo, Aguata LGA, Anambra State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Alor Microfinance Bank Limited
+  - Street Address: 'Nkwor Alor Market Square, Idemili South LGA, Anambra State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Apa Microfinance Bank Limited
+  - Street Address: 'Makurdi Road, Adoka, Otukpo' → 'nan'
+  - Website: '-' → 'nan'
+
+• Apple Microfinance Bank Limited
+  - Street Address: '26, Agbon Street, Oru-Ijebu' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aramoko Microfinance Bank Limited
+  - Street Address: 'Civic Centre, Aramoko Ekiti' → 'nan'
+  - Website: '-' → 'nan'
+
+• Auchi Polytechnic Microfinance Bank Limited
+  - Street Address: 'Main Gate, Main Campus, Auchi Polytechnic, Benin-Okene Expressway, Auchi, Edo State.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Awe Microfinance Bank Limited
+  - Street Address: 'Awe-Iwo Road, Awe, Oyo State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Babcock Microfinance Bank Limited
+  - Street Address: 'Babcock University, Babcock University Road, Ilishan-Remo, Ogun State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Balera Microfinance Bank Limited
+  - Street Address: 'NO. 2, KAFANCHAN ROAD, LERE LERE LGA KADUNA STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bejin-Doko Microfinance Bank Limited
+  - Street Address: 'nan' → 'BIDA ROAD, DOKO GARAGE, NEAR POLICE STATION, LAVUN LGA, P.OBOX 568, BIDA, NIGER STATE'
+  - Website: 'nan' → '-'
+
+• Blooms Microfinance Bank
+  - Street Address: 'nan' → 'No 108 Lagos Road, Ikorodu, Lagos State'
+  - Website: 'nan' → '-'
+
+• Boost Microfinance Bank Limited
+  - Street Address: 'No 108 Lagos Road, Ikorodu, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ladder Microfinance Bank
+  - Street Address: 'No 77 Ayangburen Road, Ikorodu, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Suntop Microfinance Bank
+  - Street Address: 'PHASE 2, ULTRA MODERN MARKET, WESTERN RESERVOIR ROAD, ILORIN KWARA STATE' → 'nan'
+  - Website: '-' → 'nan'
+
