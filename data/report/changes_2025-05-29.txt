@@ -1,0 +1,134 @@
+CBN Financial Institutions Change Report - 2025-05-29
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 955)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 29
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Citibank Nigeria Limited
+  - Street Address: 'nan' → '27 Kofo Abayomi Street, Victoria Island, Lagos.'
+  - Website: 'nan' → 'www.citibank.com'
+
+• Ecobank Nigeria Plc
+  - Street Address: '21 Ahmadu Bello Way, Victoria Island, Lagos.' → 'nan'
+  - Website: 'www.ecobank.com' → 'nan'
+
+• Globus Bank Limited
+  - Street Address: 'nan' → 'No 6 Adeyemo Alakija Street, Victoria Island, Lagos'
+  - Website: 'nan' → '-'
+
+• SunTrust Bank Nigeria Limited
+  - Street Address: 'nan' → '1 Oladele Olashore Street'
+  - Website: 'nan' → '-'
+
+• Wema Bank Plc
+  - Street Address: 'nan' → 'Wema Towers 54, Marina Lagos Island'
+  - Website: 'nan' → 'www.wemabank.com'
+
+• Zenith Bank Plc
+  - Street Address: 'nan' → 'Plot 84, Ajose Adeogun Street, Victoria Island, La'
+  - Website: 'nan' → 'www.zenithbank.com'
+
+[Development Finance Institutions]
+• BANK OF INDUSTRY
+  - Street Address: 'nan' → '23, Marina, Lagos'
+  - Website: 'nan' → '-'
+
+• NIGERIA EXPORT IMPORT BANK
+  - Street Address: 'nan' → 'Plot 975, Cadastral Zone A0, Central Business Dist'
+  - Website: 'nan' → 'www.neximbank.com.ng'
+
+• The Infrastructure Bank
+  - Street Address: 'nan' → 'Plot 977, Central Business District, Abuja'
+  - Website: 'nan' → '-'
+
+[Finance Companies]
+• CO-LINK INVESTMENT MANAGEMENT COMPANY LIMITED
+  - Street Address: 'nan' → 'NO,1 MOTOR WAYS AVENUE, ALAUSA, LAGOS'
+  - Website: 'nan' → '-'
+
+• Centrum Finance Company Limited
+  - Street Address: 'nan' → 'Centrum Finance Company Limited No 9B Lumumbashi Street Abacha Estate Wuse Zone 4 Abuja'
+  - Website: 'nan' → 'centrumfinanceltd.com'
+
+• FIDUCIA FINANCE COMPANY LIMITED
+  - Street Address: 'nan' → 'The Rock Tower, The Rock Drive, Lekki Phase 1, Lagos State'
+  - Website: 'nan' → '-'
+
+• FINANCIAL DERIVATIVES CO. LTD
+  - Street Address: 'nan' → '11A, Goriola Street;'
+  - Website: 'nan' → '-'
+
+• One-Stop Finance Company
+  - Street Address: 'nan' → 'No 96 Ogui Road, Enugu, Enugu State'
+  - Website: 'nan' → '-'
+
+[Micro-finance Banks]
+• AMML Microfinance Bank Limited (Abuja Markets Management Ltd)
+  - Street Address: 'nan' → 'Plot 1363, Ladoke Akintola Boulevard, Garki Model Market, Abuja'
+  - Website: 'nan' → '-'
+
+• AVE MARIA MFB
+  - Street Address: 'NO.16, OKE ASUNNARA, IWERE-ILE IWAJOWA LGA, OYO STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Astra Polaris Microfinance Bank Limited
+  - Street Address: 'nan' → 'ADIGBE AREA, OBAFEMI OWODE LGA, ABEOKUTA, OGUN STATE'
+  - Website: 'nan' → '-'
+
+• Auchi Polytechnic Microfinance Bank Limited
+  - Street Address: 'nan' → 'Main Gate, Main Campus, Auchi Polytechnic, Benin-Okene Expressway, Auchi, Edo State.'
+  - Website: 'nan' → '-'
+
+• Awka-Etiti Microfinance Bank Limited
+  - Street Address: 'KM 1-3, Nnobi Awka Etiti Road, Idemili LGA, Anambra' → 'nan'
+  - Website: '-' → 'nan'
+
+• Babura Microfinance Bank Limited
+  - Street Address: 'nan' → 'OPPOSITE DISTRICT HEAD'S OFFICE, BABURA, JIGAWA STATE'
+  - Website: 'nan' → '-'
+
+• Balogun Fulani Microfinance Bank Limited
+  - Street Address: 'nan' → '9, Balogun Fulani Road, Ilorin, Kwara State'
+  - Website: 'nan' → '-'
+
+• Bam Microfinance Bank Limited
+  - Street Address: 'nan' → 'SUITE D77/67, AREA11 SHOPPING MALL (BY FCDA JUNCTION), AHMADU BELLO WAY, AREA 11, GARKI, ABUJA, FCT'
+  - Website: 'nan' → '-'
+
+• Banex Microfinance Bank Limited
+  - Street Address: 'nan' → 'SUITE C 1 & 2 BANEX PLAZA VINA WUSE II, ABUJA'
+  - Website: 'nan' → '-'
+
+• Barnawa Microfinance Bank Limited
+  - Street Address: 'nan' → 'PLOT 3, MOZAMBIQUE ROAD, BARNAWA SHOPPING COMPLEX, BARNAWA KADUNA SOUTH, KADUNA STATE.'
+  - Website: 'nan' → '-'
+
+• Bejin-Doko Microfinance Bank Limited
+  - Street Address: 'BIDA ROAD, DOKO GARAGE, NEAR POLICE STATION, LAVUN LGA, P.OBOX 568, BIDA, NIGER STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• NUGGETS MFB
+  - Street Address: 'nan' → 'NO.15, SULAIMON SHODERU STREET, POWER LINE ROAD, IKORODU, LAGOS'
+  - Website: 'nan' → '-'
+
+• Pointone Microfinance Bank
+  - Street Address: 'nan' → 'No 23, Odozie Street, Ojodu Abiodun, Lagos State'
+  - Website: 'nan' → '-'
+
+• SOURCE MICROFINANCE BANK LIMITED
+  - Street Address: 'nan' → '169 Ipaja Road, Agege, Lagos'
+  - Website: 'nan' → '-'
+
+[Mobile Money Operators]
+• PAGATECH LIMITED
+  - Street Address: 'nan' → '176 Herbert Macaulay Way 3rd Floor, Yaba, Lagos'
+  - Website: 'nan' → '-'
+
