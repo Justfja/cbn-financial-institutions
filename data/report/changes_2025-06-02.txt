@@ -1,0 +1,36 @@
+CBN Financial Institutions Change Report - 2025-06-02
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 955)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 5
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Ecobank Nigeria Plc
+  - Street Address: 'nan' → '21 Ahmadu Bello Way, Victoria Island, Lagos.'
+  - Website: 'nan' → 'www.ecobank.com'
+
+[Finance Companies]
+• CFS Financial Services Limited
+  - Street Address: 'nan' → 'Eleganza Building, 15B Wesley/Joseph Street,'
+  - Website: 'nan' → '-'
+
+[Micro-finance Banks]
+• AVE MARIA MFB
+  - Street Address: 'nan' → 'NO.16, OKE ASUNNARA, IWERE-ILE IWAJOWA LGA, OYO STATE'
+  - Website: 'nan' → '-'
+
+• Awka-Etiti Microfinance Bank Limited
+  - Street Address: 'nan' → 'KM 1-3, Nnobi Awka Etiti Road, Idemili LGA, Anambra'
+  - Website: 'nan' → '-'
+
+• Bejin-Doko Microfinance Bank Limited
+  - Street Address: 'nan' → 'BIDA ROAD, DOKO GARAGE, NEAR POLICE STATION, LAVUN LGA, P.OBOX 568, BIDA, NIGER STATE'
+  - Website: 'nan' → '-'
+
