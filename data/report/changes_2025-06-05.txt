@@ -1,0 +1,27 @@
+CBN Financial Institutions Change Report - 2025-06-05
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 955)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 3
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Development Finance Institutions]
+• FEDERAL MORTGAGE BANK OF NIGERIA
+  - Street Address: 'Plot 266, Cadastral Zone A0, Central Business Dist' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• AWESOME MFB
+  - Street Address: 'DUO PLAZA OPP GWAGWALADAULTRA MODERN MARKET, KUTUNKU, ABUJA' → 'nan'
+  - Website: '-' → 'nan'
+
+• Awe Microfinance Bank Limited
+  - Street Address: 'Awe-Iwo Road, Awe, Oyo State' → 'nan'
+  - Website: '-' → 'nan'
+
