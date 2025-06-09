@@ -1,0 +1,181 @@
+CBN Financial Institutions Change Report - 2025-06-09
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 955)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 41
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• First City Monument Bank Plc
+  - Street Address: 'Primrose Towers, 6-10 Floors 17A Tinubu Square' → 'nan'
+  - Website: 'www.fcmb-ltd.com' → 'nan'
+
+• Guaranty Trust Bank Plc
+  - Street Address: '635, Akin Adesola Street, Victoria Island, Lagos' → 'nan'
+  - Website: 'www.gtbplc.com' → 'nan'
+
+• Nova Commercial Bank Limited
+  - Street Address: '23 Kofo Abayomi Street, Victoria Island, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• Signature Bank Limited
+  - Street Address: 'Plot 31B, Gana Street, Maitama, FCT Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• Wema Bank Plc
+  - Street Address: 'Wema Towers 54, Marina Lagos Island' → 'nan'
+  - Website: 'www.wemabank.com' → 'nan'
+
+• Zenith Bank Plc
+  - Street Address: 'Plot 84, Ajose Adeogun Street, Victoria Island, La' → 'nan'
+  - Website: 'www.zenithbank.com' → 'nan'
+
+[Development Finance Institutions]
+• BANK OF INDUSTRY
+  - Street Address: '23, Marina, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• NIGERIA EXPORT IMPORT BANK
+  - Street Address: 'Plot 975, Cadastral Zone A0, Central Business Dist' → 'nan'
+  - Website: 'www.neximbank.com.ng' → 'nan'
+
+[Finance Companies]
+• DIGNITY FINANCE LIMITED
+  - Street Address: 'YOMA PLACE, NO 5 O.P. FINGESI STREET, UTAKO DISTRICT, ABUJA, FCT' → 'nan'
+  - Website: '-' → 'nan'
+
+• DOMINION FINANCE LIMITED
+  - Street Address: '207 IGBOSERE ROAD, LAGOS ISLAND, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• FIDUCIA FINANCE COMPANY LIMITED
+  - Street Address: 'The Rock Tower, The Rock Drive, Lekki Phase 1, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• FUNDSWORTH LIMITED
+  - Street Address: '6, Louis Solomon Close;' → 'nan'
+  - Website: '-' → 'nan'
+
+• NOLT FINANCE COMPANY LIMITED
+  - Street Address: 'Suite 4, First Floor, 11 Awolowo Road, Ikoyi, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• One-Stop Finance Company
+  - Street Address: 'No 96 Ogui Road, Enugu, Enugu State' → 'nan'
+  - Website: '-' → 'nan'
+
+• SPRING SKY FINANCE COMPANY LIMITED
+  - Street Address: 'Plot 6, Block 101, Furo Ezimaora Road, Lekki Phase 1, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• STIRLING TRUST COMPANY LIMITED
+  - Street Address: 'Plot PC 10, Engineering Close,' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• AACB Microfinance Bank Limited
+  - Street Address: 'Adazi-Ani Town Hall, Adazi Ani,' → 'nan'
+  - Website: '-' → 'nan'
+
+• AMML Microfinance Bank Limited (Abuja Markets Management Ltd)
+  - Street Address: 'Plot 1363, Ladoke Akintola Boulevard, Garki Model Market, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• AWESOME MFB
+  - Street Address: 'nan' → 'DUO PLAZA OPP GWAGWALADAULTRA MODERN MARKET, KUTUNKU, ABUJA'
+  - Website: 'nan' → '-'
+
+• AZSA Microfinance Bank Limited
+  - Street Address: '37 OSOLO WAY, AJAO ESTATE OFF INTERNATIONAL AIRPORT LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• Abia State University Microfinance Bank Limited
+  - Street Address: 'Uturu, Isuikwuato LGA, Abia State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ajose Microfinance Bank Limited
+  - Street Address: 'Ejinrin Road, Ijebu South' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aliero Microfinance Bank Limited
+  - Street Address: 'Attahiru Road, Aliero Local Government Area, Aliero' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ample Microfinance Bank Limited
+  - Street Address: 'Comfort Fatoyinbo House, Ilorin-Kabba Road, Eruku, Kwara State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aniocha Microfinance Bank Limited
+  - Street Address: 'Umeadi House, Ogbeofu Quarter' → 'nan'
+  - Website: '-' → 'nan'
+
+• Apple Microfinance Bank Limited
+  - Street Address: '26, Agbon Street, Oru-Ijebu' → 'nan'
+  - Website: '-' → 'nan'
+
+• Astra Polaris Microfinance Bank Limited
+  - Street Address: 'ADIGBE AREA, OBAFEMI OWODE LGA, ABEOKUTA, OGUN STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Auchi Polytechnic Microfinance Bank Limited
+  - Street Address: 'Main Gate, Main Campus, Auchi Polytechnic, Benin-Okene Expressway, Auchi, Edo State.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Awe Microfinance Bank Limited
+  - Street Address: 'nan' → 'Awe-Iwo Road, Awe, Oyo State'
+  - Website: 'nan' → '-'
+
+• Awka-Etiti Microfinance Bank Limited
+  - Street Address: 'KM 1-3, Nnobi Awka Etiti Road, Idemili LGA, Anambra' → 'nan'
+  - Website: '-' → 'nan'
+
+• Awkuzu Microfinance Bank Limited
+  - Street Address: 'OTUOCHA-ABAGANA ROAD, AWKUZU, ANAMBRA' → 'nan'
+  - Website: '-' → 'nan'
+
+• Babcock Microfinance Bank Limited
+  - Street Address: 'Babcock University, Babcock University Road, Ilishan-Remo, Ogun State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Babura Microfinance Bank Limited
+  - Street Address: 'OPPOSITE DISTRICT HEAD'S OFFICE, BABURA, JIGAWA STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Balogun Fulani Microfinance Bank Limited
+  - Street Address: '9, Balogun Fulani Road, Ilorin, Kwara State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Banex Microfinance Bank Limited
+  - Street Address: 'SUITE C 1 & 2 BANEX PLAZA VINA WUSE II, ABUJA' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bauchi CFA Mirofinance Bank Limited
+  - Street Address: 'Mohammed Adamu Hashidu House, No. 21 Abdulkadir Ahmed Road, P.M.B. 0125, Bauchi, Bauchi State.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bejin-Doko Microfinance Bank Limited
+  - Street Address: 'BIDA ROAD, DOKO GARAGE, NEAR POLICE STATION, LAVUN LGA, P.OBOX 568, BIDA, NIGER STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bichi Microfinance Bank Limited
+  - Street Address: 'No. 1, Bichi Main Street, Bichi Town, Bichi LGA, Kano State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Blooms Microfinance Bank
+  - Street Address: 'No 108 Lagos Road, Ikorodu, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Boost Microfinance Bank Limited
+  - Street Address: 'No 108 Lagos Road, Ikorodu, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• WAYA MFB
+  - Street Address: 'PLOT 7, KANO CRESCENT, AGBARA ADA-ODO, OTA LGA, OGUN STATE' → 'nan'
+  - Website: '-' → 'nan'
+
