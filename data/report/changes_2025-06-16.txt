@@ -1,0 +1,150 @@
+CBN Financial Institutions Change Report - 2025-06-16
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 955)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 33
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Ecobank Nigeria Plc
+  - Street Address: '21 Ahmadu Bello Way, Victoria Island, Lagos.' → 'nan'
+  - Website: 'www.ecobank.com' → 'nan'
+
+• First City Monument Bank Plc
+  - Street Address: 'Primrose Towers, 6-10 Floors 17A Tinubu Square' → 'nan'
+  - Website: 'www.fcmb-ltd.com' → 'nan'
+
+• Titan Trust Bank Ltd
+  - Street Address: 'nan' → 'Plot 1680 Sanusi Fafunwa Street, Victoria Island, Lagos'
+  - Website: 'nan' → '-'
+
+[Finance Companies]
+• WOODHALL FINANCE COMPANY LIMITED
+  - Street Address: 'nan' → '22B, Gerrard Road, Ikoyi, Lagos State'
+  - Website: 'nan' → '-'
+
+• Whitecrust Finance Company Limited
+  - Street Address: 'nan' → '402, Ikorodu Road, By Ojota Bus Stop, Lagos State'
+  - Website: 'nan' → '-'
+
+[Merchant Banks]
+• FBNQUEST MERCHANT BANK
+  - Street Address: 'nan' → '2 Kofo Abayomi Street'
+  - Website: 'nan' → '-'
+
+[Micro-finance Banks]
+• AWESOME MFB
+  - Street Address: 'nan' → 'DUO PLAZA OPP GWAGWALADAULTRA MODERN MARKET, KUTUNKU, ABUJA'
+  - Website: 'nan' → '-'
+
+• Abia State University Microfinance Bank Limited
+  - Street Address: 'nan' → 'Uturu, Isuikwuato LGA, Abia State'
+  - Website: 'nan' → '-'
+
+• Abigi Microfinance Bank Limited
+  - Street Address: 'nan' → '28, Moborode Odofin Street,'
+  - Website: 'nan' → '-'
+
+• Accion Microfinance Bank Limited
+  - Street Address: 'nan' → 'ELIZADE PLAZA, 4TH FLOOR, 322A IKORODU ROAD, ANTHONY, IKEJA, LAGOS'
+  - Website: 'nan' → '-'
+
+• Adazi-Enu Microfinance Bank Limited
+  - Street Address: 'nan' → 'Nkwor Market Square, Adazi- Enu, Anaocha Local Govt'
+  - Website: 'nan' → '-'
+
+• Agosasa Microfinance Bank Limited
+  - Street Address: 'nan' → '5, Ilupeju Estate, Ipokia Road,'
+  - Website: 'nan' → '-'
+
+• Ahmadu Bello University Microfinance Bank Limited
+  - Street Address: 'nan' → 'Main Campus, Opp. Post Graduate School,'
+  - Website: 'nan' → '-'
+
+• Ajewole Microfinance Bank Limited
+  - Street Address: 'nan' → 'Ilorin Road, Sabo, Ogbomosho'
+  - Website: 'nan' → '-'
+
+• Alvana Microfinance Bank Limited
+  - Street Address: 'nan' → 'Alvan Ikoku College of Education'
+  - Website: 'nan' → '-'
+
+• Ample Microfinance Bank Limited
+  - Street Address: 'nan' → 'Comfort Fatoyinbo House, Ilorin-Kabba Road, Eruku, Kwara State'
+  - Website: 'nan' → '-'
+
+• Amucha Microfinance Bank Limited
+  - Street Address: 'nan' → 'Bank House, Amucha, Via Orlu Njaba'
+  - Website: 'nan' → '-'
+
+• Anchorage Microfinance Bank Limited
+  - Street Address: 'nan' → 'Highbury Plaza, 104 Gado Nasco Road, Kubwa, abuja'
+  - Website: 'nan' → '-'
+
+• Aniocha Microfinance Bank Limited
+  - Street Address: 'nan' → 'Umeadi House, Ogbeofu Quarter'
+  - Website: 'nan' → '-'
+
+• Aogo Microfinance Bank Limited
+  - Street Address: 'nan' → 'Oba Adesanoye House,'
+  - Website: 'nan' → '-'
+
+• Aspire Microfinance Bank LImited
+  - Street Address: 'nan' → 'No. 254, Umusadegi Road, Kwale'
+  - Website: 'nan' → '-'
+
+• Awkuzu Microfinance Bank Limited
+  - Street Address: 'nan' → 'OTUOCHA-ABAGANA ROAD, AWKUZU, ANAMBRA'
+  - Website: 'nan' → '-'
+
+• Babcock Microfinance Bank Limited
+  - Street Address: 'Babcock University, Babcock University Road, Ilishan-Remo, Ogun State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Balera Microfinance Bank Limited
+  - Street Address: 'nan' → 'NO. 2, KAFANCHAN ROAD, LERE LERE LGA KADUNA STATE'
+  - Website: 'nan' → '-'
+
+• Bam Microfinance Bank Limited
+  - Street Address: 'SUITE D77/67, AREA11 SHOPPING MALL (BY FCDA JUNCTION), AHMADU BELLO WAY, AREA 11, GARKI, ABUJA, FCT' → 'nan'
+  - Website: '-' → 'nan'
+
+• Banex Microfinance Bank Limited
+  - Street Address: 'SUITE C 1 & 2 BANEX PLAZA VINA WUSE II, ABUJA' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bethel Microfinance Bank Limited
+  - Street Address: 'nan' → 'PLOT C/1 OWERRI ROAD EXTENSION, SECRETARIAT QTRS, ASATA, ENUGU STATE.'
+  - Website: 'nan' → '-'
+
+• Blooms Microfinance Bank
+  - Street Address: 'No 108 Lagos Road, Ikorodu, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Flexi Microfinance Bank
+  - Street Address: 'nan' → 'No 63 Adekunle Fajuyi Way, GRA Ikeja, Lagos State'
+  - Website: 'nan' → '-'
+
+• Pointone Microfinance Bank
+  - Street Address: 'nan' → 'No 23, Odozie Street, Ojodu Abiodun, Lagos State'
+  - Website: 'nan' → '-'
+
+• SOURCE MICROFINANCE BANK LIMITED
+  - Street Address: 'nan' → '169 Ipaja Road, Agege, Lagos'
+  - Website: 'nan' → '-'
+
+• UNITED CAPITAL MFB
+  - Street Address: 'nan' → '3rd & 4th FLOORS AFRILAND TOWERS, 97/105 BROAD STREET, LAGOS'
+  - Website: 'nan' → '-'
+
+[Mobile Money Operators]
+• PALMPAY LIMITED
+  - Street Address: 'nan' → 'No 63, Adekunle Fajuyi Street, Ikeja, Lagos'
+  - Website: 'nan' → '-'
+
