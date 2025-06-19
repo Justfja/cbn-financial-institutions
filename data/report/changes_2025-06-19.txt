@@ -1,0 +1,114 @@
+CBN Financial Institutions Change Report - 2025-06-19
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 949 (previous: 955)
+New institutions: 0
+Removed institutions: 6
+Institutions with changed details: 20
+
+REMOVED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Development Finance Institutions]
+• BANK OF INDUSTRY
+  Website: - | Address: 23, Marina, Lagos
+• Bank of Agriculture (BOA)
+  Website: - | Address: Yakubu Gowan Way, PMB 21555, Kaduna
+• Development Bank of Nigeria PLC
+  Website: - | Address: Plot 1386A Tigris Crescent, Maitama, FCT Abuja
+• FEDERAL MORTGAGE BANK OF NIGERIA
+  Website: - | Address: Plot 266, Cadastral Zone A0, Central Business Dist
+• NIGERIA EXPORT IMPORT BANK
+  Website: www.neximbank.com.ng | Address: Plot 975, Cadastral Zone A0, Central Business Dist
+• The Infrastructure Bank
+  Website: - | Address: Plot 977, Central Business District, Abuja
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Ecobank Nigeria Plc
+  - Street Address: 'nan' → '21 Ahmadu Bello Way, Victoria Island, Lagos.'
+  - Website: 'nan' → 'www.ecobank.com'
+
+• First City Monument Bank Plc
+  - Street Address: 'nan' → 'Primrose Towers, 6-10 Floors 17A Tinubu Square'
+  - Website: 'nan' → 'www.fcmb-ltd.com'
+
+• Globus Bank Limited
+  - Street Address: 'No 6 Adeyemo Alakija Street, Victoria Island, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• Optimus Bank
+  - Street Address: 'No 55 Bishop Oluwole Street, Victoria Island, Lagos' → 'nan'
+  - Website: 'https://optimusbank.com' → 'nan'
+
+• Titan Trust Bank Ltd
+  - Street Address: 'Plot 1680 Sanusi Fafunwa Street, Victoria Island, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• AVE MARIA MFB
+  - Street Address: 'NO.16, OKE ASUNNARA, IWERE-ILE IWAJOWA LGA, OYO STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Awkuzu Microfinance Bank Limited
+  - Street Address: 'OTUOCHA-ABAGANA ROAD, AWKUZU, ANAMBRA' → 'nan'
+  - Website: '-' → 'nan'
+
+• Babcock Microfinance Bank Limited
+  - Street Address: 'nan' → 'Babcock University, Babcock University Road, Ilishan-Remo, Ogun State'
+  - Website: 'nan' → '-'
+
+• Bam Microfinance Bank Limited
+  - Street Address: 'nan' → 'SUITE D77/67, AREA11 SHOPPING MALL (BY FCDA JUNCTION), AHMADU BELLO WAY, AREA 11, GARKI, ABUJA, FCT'
+  - Website: 'nan' → '-'
+
+• Banex Microfinance Bank Limited
+  - Street Address: 'nan' → 'SUITE C 1 & 2 BANEX PLAZA VINA WUSE II, ABUJA'
+  - Website: 'nan' → '-'
+
+• Bauchi CFA Mirofinance Bank Limited
+  - Street Address: 'Mohammed Adamu Hashidu House, No. 21 Abdulkadir Ahmed Road, P.M.B. 0125, Bauchi, Bauchi State.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bejin-Doko Microfinance Bank Limited
+  - Street Address: 'nan' → 'BIDA ROAD, DOKO GARAGE, NEAR POLICE STATION, LAVUN LGA, P.OBOX 568, BIDA, NIGER STATE'
+  - Website: 'nan' → '-'
+
+• Blooms Microfinance Bank
+  - Street Address: 'nan' → 'No 108 Lagos Road, Ikorodu, Lagos State'
+  - Website: 'nan' → '-'
+
+• Wallet Microfinance Bank
+  - Street Address: 'Suite 312-314C Royal Plaza, Opposite Mararaba Building Materials Market, Mararaba Karu LGA, Nasarawa State.' → 'nan'
+  - Website: '-' → 'nan'
+
+[Mobile Money Operators]
+• ABEG TECHNOLOGIES LIMITED
+  - Street Address: 'Tesmot House 3 Abdulrahman Okene Close, Off Ligali Ayorinde Street, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• CHAMS MOBILE LIMITED
+  - Street Address: '8 Louis Solomon Close Off Ahmadu Bello Way ,Victoria Island, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• ETRANZACT INTERNATIONAL LIMITED
+  - Street Address: '27/29 Adeyemo Alakija Street Victoria Island' → 'nan'
+  - Website: '-' → 'nan'
+
+• PAGATECH LIMITED
+  - Street Address: '176 Herbert Macaulay Way 3rd Floor, Yaba, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• PALMPAY LIMITED
+  - Street Address: 'No 63, Adekunle Fajuyi Street, Ikeja, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+[Non-Interest Banks]
+• Summit Bank Limited
+  - Street Address: 'nan' → 'No. 5 Amal Pepple Street Off Ameyo Adadevoh Way, Jahi Abuja.'
+  - Website: 'nan' → '-'
+
