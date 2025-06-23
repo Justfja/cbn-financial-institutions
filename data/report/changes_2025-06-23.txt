@@ -1,0 +1,85 @@
+CBN Financial Institutions Change Report - 2025-06-23
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 949)
+New institutions: 6
+Removed institutions: 0
+Institutions with changed details: 13
+
+ADDED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Development Finance Institutions]
+• BANK OF INDUSTRY
+  Website: - | Address: 23, Marina, Lagos
+• Bank of Agriculture (BOA)
+  Website: - | Address: Yakubu Gowan Way, PMB 21555, Kaduna
+• Development Bank of Nigeria PLC
+  Website: - | Address: Plot 1386A Tigris Crescent, Maitama, FCT Abuja
+• FEDERAL MORTGAGE BANK OF NIGERIA
+  Website: - | Address: Plot 266, Cadastral Zone A0, Central Business Dist
+• NIGERIA EXPORT IMPORT BANK
+  Website: www.neximbank.com.ng | Address: Plot 975, Cadastral Zone A0, Central Business Dist
+• The Infrastructure Bank
+  Website: - | Address: Plot 977, Central Business District, Abuja
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Globus Bank Limited
+  - Street Address: 'nan' → 'No 6 Adeyemo Alakija Street, Victoria Island, Lagos'
+  - Website: 'nan' → '-'
+
+• Optimus Bank
+  - Street Address: 'nan' → 'No 55 Bishop Oluwole Street, Victoria Island, Lagos'
+  - Website: 'nan' → 'https://optimusbank.com'
+
+• Titan Trust Bank Ltd
+  - Street Address: 'nan' → 'Plot 1680 Sanusi Fafunwa Street, Victoria Island, Lagos'
+  - Website: 'nan' → '-'
+
+[Micro-finance Banks]
+• AVE MARIA MFB
+  - Street Address: 'nan' → 'NO.16, OKE ASUNNARA, IWERE-ILE IWAJOWA LGA, OYO STATE'
+  - Website: 'nan' → '-'
+
+• Awkuzu Microfinance Bank Limited
+  - Street Address: 'nan' → 'OTUOCHA-ABAGANA ROAD, AWKUZU, ANAMBRA'
+  - Website: 'nan' → '-'
+
+• Bauchi CFA Mirofinance Bank Limited
+  - Street Address: 'nan' → 'Mohammed Adamu Hashidu House, No. 21 Abdulkadir Ahmed Road, P.M.B. 0125, Bauchi, Bauchi State.'
+  - Website: 'nan' → '-'
+
+• Berachah Microfinance Bank Limited
+  - Street Address: 'nan' → 'PLOT 1, CMD ROAD, IKOSI, KETU, LAGOS'
+  - Website: 'nan' → '-'
+
+• Wallet Microfinance Bank
+  - Street Address: 'nan' → 'Suite 312-314C Royal Plaza, Opposite Mararaba Building Materials Market, Mararaba Karu LGA, Nasarawa State.'
+  - Website: 'nan' → '-'
+
+[Mobile Money Operators]
+• ABEG TECHNOLOGIES LIMITED
+  - Street Address: 'nan' → 'Tesmot House 3 Abdulrahman Okene Close, Off Ligali Ayorinde Street, Lagos'
+  - Website: 'nan' → '-'
+
+• CHAMS MOBILE LIMITED
+  - Street Address: 'nan' → '8 Louis Solomon Close Off Ahmadu Bello Way ,Victoria Island, Lagos'
+  - Website: 'nan' → '-'
+
+• ETRANZACT INTERNATIONAL LIMITED
+  - Street Address: 'nan' → '27/29 Adeyemo Alakija Street Victoria Island'
+  - Website: 'nan' → '-'
+
+• PAGATECH LIMITED
+  - Street Address: 'nan' → '176 Herbert Macaulay Way 3rd Floor, Yaba, Lagos'
+  - Website: 'nan' → '-'
+
+• PALMPAY LIMITED
+  - Street Address: 'nan' → 'No 63, Adekunle Fajuyi Street, Ikeja, Lagos'
+  - Website: 'nan' → '-'
+
