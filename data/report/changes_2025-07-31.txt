@@ -1,0 +1,98 @@
+CBN Financial Institutions Change Report - 2025-07-31
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 955)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 20
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Ecobank Nigeria Plc
+  - Street Address: '21 Ahmadu Bello Way, Victoria Island, Lagos.' → 'nan'
+  - Website: 'www.ecobank.com' → 'nan'
+
+[Finance Companies]
+• EVIB FINANCE COMPANY LIMITED
+  - Street Address: '3 Shalom Drivem Patrick Harbour Estate Off Mojisola Onikoyi Estate, Ikoyi Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• FINANCIAL DERIVATIVES CO. LTD
+  - Street Address: '11A, Goriola Street;' → 'nan'
+  - Website: '-' → 'nan'
+
+• WOODHALL FINANCE COMPANY LIMITED
+  - Street Address: '22B, Gerrard Road, Ikoyi, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Whitecrust Finance Company Limited
+  - Street Address: '402, Ikorodu Road, By Ojota Bus Stop, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• ACE Microfinance Bank Limited
+  - Street Address: '3, Daniel Aliyu Street, Kwali, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ajuta Microfinance Bank Limited
+  - Street Address: 'Market Road, Loso Quarters, Ogbagi Akoko' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aku Diewa Microfinance Bank Limited
+  - Street Address: 'ENU ORIE UWELE, AKU, ENUGU STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Alvana Microfinance Bank Limited
+  - Street Address: 'Alvan Ikoku College of Education' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aniocha Microfinance Bank Limited
+  - Street Address: 'Umeadi House, Ogbeofu Quarter' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aramoko Microfinance Bank Limited
+  - Street Address: 'Civic Centre, Aramoko Ekiti' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bejin-Doko Microfinance Bank Limited
+  - Street Address: 'BIDA ROAD, DOKO GARAGE, NEAR POLICE STATION, LAVUN LGA, P.OBOX 568, BIDA, NIGER STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Berachah Microfinance Bank Limited
+  - Street Address: 'PLOT 1, CMD ROAD, IKOSI, KETU, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bethel Microfinance Bank Limited
+  - Street Address: 'PLOT C/1 OWERRI ROAD EXTENSION, SECRETARIAT QTRS, ASATA, ENUGU STATE.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bichi Microfinance Bank Limited
+  - Street Address: 'No. 1, Bichi Main Street, Bichi Town, Bichi LGA, Kano State' → 'nan'
+  - Website: '-' → 'nan'
+
+• NUGGETS MFB
+  - Street Address: 'NO.15, SULAIMON SHODERU STREET, POWER LINE ROAD, IKORODU, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• Pointone Microfinance Bank
+  - Street Address: 'No 23, Odozie Street, Ojodu Abiodun, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• SOURCE MICROFINANCE BANK LIMITED
+  - Street Address: '169 Ipaja Road, Agege, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+[Payment Service Banks]
+• MOMO PAYMENT SERVICE BANK
+  - Street Address: 'ATLANTIS BUILDING, PLOT 290B, AKIN ADESOLA STREET, VICTORIA ISLAND LAGOS' → 'nan'
+  - Website: 'www.momopsb.com' → 'nan'
+
+[Primary Mortgage Banks]
+• Adamawa Mortgage Bank Limited
+  - Street Address: 'No 1, Bishop Street, Jimeta Yola, Adamawa State' → 'nan'
+  - Website: '-' → 'nan'
+
