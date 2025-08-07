@@ -1,0 +1,166 @@
+CBN Financial Institutions Change Report - 2025-08-07
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 955)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 37
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Ecobank Nigeria Plc
+  - Street Address: '21 Ahmadu Bello Way, Victoria Island, Lagos.' → 'nan'
+  - Website: 'www.ecobank.com' → 'nan'
+
+• Titan Trust Bank Ltd
+  - Street Address: 'Plot 1680 Sanusi Fafunwa Street, Victoria Island, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+[Finance Companies]
+• FUNDSWORTH LIMITED
+  - Street Address: '6, Louis Solomon Close;' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• ACE Microfinance Bank Limited
+  - Street Address: '3, Daniel Aliyu Street, Kwali, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• AMML Microfinance Bank Limited (Abuja Markets Management Ltd)
+  - Street Address: 'Plot 1363, Ladoke Akintola Boulevard, Garki Model Market, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• AVE MARIA MFB
+  - Street Address: 'NO.16, OKE ASUNNARA, IWERE-ILE IWAJOWA LGA, OYO STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• AZSA Microfinance Bank Limited
+  - Street Address: '37 OSOLO WAY, AJAO ESTATE OFF INTERNATIONAL AIRPORT LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• Achina Microfinance Bank Limited
+  - Street Address: 'Achima Aguata LGA, Anambra State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Afemai Microfinance Bank Limited
+  - Street Address: '61B, Bode Road, Jattu-Uzairue' → 'nan'
+  - Website: '-' → 'nan'
+
+• Agosasa Microfinance Bank Limited
+  - Street Address: '5, Ilupeju Estate, Ipokia Road,' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ahmadu Bello University Microfinance Bank Limited
+  - Street Address: 'Main Campus, Opp. Post Graduate School,' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ajuta Microfinance Bank Limited
+  - Street Address: 'Market Road, Loso Quarters, Ogbagi Akoko' → 'nan'
+  - Website: '-' → 'nan'
+
+• Akokwa Microfinance Bank Limited
+  - Street Address: 'Oris-Akokwa Market Square,' → 'nan'
+  - Website: '-' → 'nan'
+
+• Akpo Microfinance Bank Limited
+  - Street Address: 'Akpo Junction, Akpo, Aguata LGA, Anambra State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aku Diewa Microfinance Bank Limited
+  - Street Address: 'ENU ORIE UWELE, AKU, ENUGU STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Alekun Microfinance Bank Limited
+  - Street Address: 'nan' → '6, Oladipo Diya Road, Odogbolu'
+  - Website: 'nan' → '-'
+
+• Aliero Microfinance Bank Limited
+  - Street Address: 'Attahiru Road, Aliero Local Government Area, Aliero' → 'nan'
+  - Website: '-' → 'nan'
+
+• All Workers Microfinance Bank Limited
+  - Street Address: '30, MBARI STREET, IKENEGBU LAYOUT, OWERRI, IMO STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Alor Microfinance Bank Limited
+  - Street Address: 'Nkwor Alor Market Square, Idemili South LGA, Anambra State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Apa Microfinance Bank Limited
+  - Street Address: 'Makurdi Road, Adoka, Otukpo' → 'nan'
+  - Website: '-' → 'nan'
+
+• Apple Microfinance Bank Limited
+  - Street Address: '26, Agbon Street, Oru-Ijebu' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aramoko Microfinance Bank Limited
+  - Street Address: 'Civic Centre, Aramoko Ekiti' → 'nan'
+  - Website: '-' → 'nan'
+
+• Auchi Microfinance Bank Limited
+  - Street Address: '40, Otaru Road, Auchi' → 'nan'
+  - Website: '-' → 'nan'
+
+• Awka-Etiti Microfinance Bank Limited
+  - Street Address: 'KM 1-3, Nnobi Awka Etiti Road, Idemili LGA, Anambra' → 'nan'
+  - Website: '-' → 'nan'
+
+• Banex Microfinance Bank Limited
+  - Street Address: 'SUITE C 1 & 2 BANEX PLAZA VINA WUSE II, ABUJA' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bauchi CFA Mirofinance Bank Limited
+  - Street Address: 'Mohammed Adamu Hashidu House, No. 21 Abdulkadir Ahmed Road, P.M.B. 0125, Bauchi, Bauchi State.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bejin-Doko Microfinance Bank Limited
+  - Street Address: 'BIDA ROAD, DOKO GARAGE, NEAR POLICE STATION, LAVUN LGA, P.OBOX 568, BIDA, NIGER STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Berachah Microfinance Bank Limited
+  - Street Address: 'PLOT 1, CMD ROAD, IKOSI, KETU, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bethel Microfinance Bank Limited
+  - Street Address: 'PLOT C/1 OWERRI ROAD EXTENSION, SECRETARIAT QTRS, ASATA, ENUGU STATE.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bichi Microfinance Bank Limited
+  - Street Address: 'No. 1, Bichi Main Street, Bichi Town, Bichi LGA, Kano State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Blooms Microfinance Bank
+  - Street Address: 'No 108 Lagos Road, Ikorodu, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Boost Microfinance Bank Limited
+  - Street Address: 'No 108 Lagos Road, Ikorodu, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Suntop Microfinance Bank
+  - Street Address: 'PHASE 2, ULTRA MODERN MARKET, WESTERN RESERVOIR ROAD, ILORIN KWARA STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+[Mobile Money Operators]
+• FUNDS AND ELECTRONIC TRANSFER (FETS) LIMITED
+  - Street Address: '15 Cameron Road, Ikoyi, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• TEASY INTERNATIONAL COMPANY LTD.
+  - Street Address: 'No 3 Elbe Close Off Panama Street, Maitama, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• VTNETWORK LIMITED
+  - Street Address: '11, Okunola Abass Street Bodija Ibadan' → 'nan'
+  - Website: '-' → 'nan'
+
+[Payment Service Banks]
+• SMARTCASH PSB LIMITED
+  - Street Address: 'Plot L2 401 Close Banana Island, Ikoyi, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
