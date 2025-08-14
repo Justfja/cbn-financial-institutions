@@ -1,0 +1,178 @@
+CBN Financial Institutions Change Report - 2025-08-14
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 955)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 40
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Finance Companies]
+• CFS Financial Services Limited
+  - Street Address: 'Eleganza Building, 15B Wesley/Joseph Street,' → 'nan'
+  - Website: '-' → 'nan'
+
+• EVIB FINANCE COMPANY LIMITED
+  - Street Address: '3 Shalom Drivem Patrick Harbour Estate Off Mojisola Onikoyi Estate, Ikoyi Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• Harmony Breakthrough Finance Company Limited
+  - Street Address: '1st Floor Old Kingsway Building Radio Nigeria, Dugbe Ibadan, Oyo State' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• AVE MARIA MFB
+  - Street Address: 'NO.16, OKE ASUNNARA, IWERE-ILE IWAJOWA LGA, OYO STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Alvana Microfinance Bank Limited
+  - Street Address: 'Alvan Ikoku College of Education' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ample Microfinance Bank Limited
+  - Street Address: 'Comfort Fatoyinbo House, Ilorin-Kabba Road, Eruku, Kwara State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Amucha Microfinance Bank Limited
+  - Street Address: 'Bank House, Amucha, Via Orlu Njaba' → 'nan'
+  - Website: '-' → 'nan'
+
+• Anchorage Microfinance Bank Limited
+  - Street Address: 'Highbury Plaza, 104 Gado Nasco Road, Kubwa, abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aniocha Microfinance Bank Limited
+  - Street Address: 'Umeadi House, Ogbeofu Quarter' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aramoko Microfinance Bank Limited
+  - Street Address: 'Civic Centre, Aramoko Ekiti' → 'nan'
+  - Website: '-' → 'nan'
+
+• Aspire Microfinance Bank LImited
+  - Street Address: 'No. 254, Umusadegi Road, Kwale' → 'nan'
+  - Website: '-' → 'nan'
+
+• Auchi Polytechnic Microfinance Bank Limited
+  - Street Address: 'Main Gate, Main Campus, Auchi Polytechnic, Benin-Okene Expressway, Auchi, Edo State.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Awe Microfinance Bank Limited
+  - Street Address: 'Awe-Iwo Road, Awe, Oyo State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Babcock Microfinance Bank Limited
+  - Street Address: 'Babcock University, Babcock University Road, Ilishan-Remo, Ogun State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Babura Microfinance Bank Limited
+  - Street Address: 'OPPOSITE DISTRICT HEAD'S OFFICE, BABURA, JIGAWA STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Barnawa Microfinance Bank Limited
+  - Street Address: 'PLOT 3, MOZAMBIQUE ROAD, BARNAWA SHOPPING COMPLEX, BARNAWA KADUNA SOUTH, KADUNA STATE.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bauchi CFA Mirofinance Bank Limited
+  - Street Address: 'Mohammed Adamu Hashidu House, No. 21 Abdulkadir Ahmed Road, P.M.B. 0125, Bauchi, Bauchi State.' → 'nan'
+  - Website: '-' → 'nan'
+
+• Bejin-Doko Microfinance Bank Limited
+  - Street Address: 'BIDA ROAD, DOKO GARAGE, NEAR POLICE STATION, LAVUN LGA, P.OBOX 568, BIDA, NIGER STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Berachah Microfinance Bank Limited
+  - Street Address: 'PLOT 1, CMD ROAD, IKOSI, KETU, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• Blooms Microfinance Bank
+  - Street Address: 'No 108 Lagos Road, Ikorodu, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Boost Microfinance Bank Limited
+  - Street Address: 'No 108 Lagos Road, Ikorodu, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Ladder Microfinance Bank
+  - Street Address: 'No 77 Ayangburen Road, Ikorodu, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• NUGGETS MFB
+  - Street Address: 'NO.15, SULAIMON SHODERU STREET, POWER LINE ROAD, IKORODU, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• PRUDENT MFB
+  - Street Address: 'PLOT NO. MF-03A, SAUKA VILLAGE EXTENSION, KUJE ABUJA' → 'nan'
+  - Website: '-' → 'nan'
+
+• Pointone Microfinance Bank
+  - Street Address: 'No 23, Odozie Street, Ojodu Abiodun, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• SOURCE MICROFINANCE BANK LIMITED
+  - Street Address: '169 Ipaja Road, Agege, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• UNITED CAPITAL MFB
+  - Street Address: '3rd & 4th FLOORS AFRILAND TOWERS, 97/105 BROAD STREET, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
+• WAYA MFB
+  - Street Address: 'PLOT 7, KANO CRESCENT, AGBARA ADA-ODO, OTA LGA, OGUN STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Wallet Microfinance Bank
+  - Street Address: 'Suite 312-314C Royal Plaza, Opposite Mararaba Building Materials Market, Mararaba Karu LGA, Nasarawa State.' → 'nan'
+  - Website: '-' → 'nan'
+
+[Mobile Money Operators]
+• CHAMS MOBILE LIMITED
+  - Street Address: '8 Louis Solomon Close Off Ahmadu Bello Way ,Victoria Island, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• ETRANZACT INTERNATIONAL LIMITED
+  - Street Address: '27/29 Adeyemo Alakija Street Victoria Island' → 'nan'
+  - Website: '-' → 'nan'
+
+• FORTIS MOBILE MONEY LIMITED
+  - Street Address: 'Suit 402 Capital Hub Mabushi, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• HEDONMARK MANAGEMENT SERVICES LIMITED
+  - Street Address: 'NCR Building (8th Floor)t, 6 Broad Street, Lagos Island, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• PARKWAY PROJECTS LIMITED
+  - Street Address: '295, Herbert Macaulay way, Yaba, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• TEASY INTERNATIONAL COMPANY LTD.
+  - Street Address: 'No 3 Elbe Close Off Panama Street, Maitama, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• VISUAL ICT LIMITED
+  - Street Address: 'No 4, Tamale Street, Wuse Zone 3, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• VTNETWORK LIMITED
+  - Street Address: '11, Okunola Abass Street Bodija Ibadan' → 'nan'
+  - Website: '-' → 'nan'
+
+[Non-Interest Banks]
+• Alternative Bank Limited
+  - Street Address: 'No 239, Ikorodu Road, Obanikoro, Ilupeju, Mushin LGA Lagos.' → 'nan'
+  - Website: 'https://altbank.ng' → 'nan'
+
+• Summit Bank Limited
+  - Street Address: 'No. 5 Amal Pepple Street Off Ameyo Adadevoh Way, Jahi Abuja.' → 'nan'
+  - Website: 'www.summitbankng.com' → 'nan'
+
+[Payment Service Banks]
+• SMARTCASH PSB LIMITED
+  - Street Address: 'Plot L2 401 Close Banana Island, Ikoyi, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
