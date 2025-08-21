@@ -1,0 +1,36 @@
+CBN Financial Institutions Change Report - 2025-08-21
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 955)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 5
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Guaranty Trust Bank Plc
+  - Street Address: '635, Akin Adesola Street, Victoria Island, Lagos' → 'nan'
+  - Website: 'www.gtbplc.com' → 'nan'
+
+[Finance Companies]
+• FUNDSWORTH LIMITED
+  - Street Address: '6, Louis Solomon Close;' → 'nan'
+  - Website: '-' → 'nan'
+
+• PREFERRED FINANCE COMPANY LIMITED
+  - Street Address: '3rd Floor, Infinity House, Kaura Namoda Street, off Faskari Crescent Area3, Garki, Abuja FCT' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• TRIUMPHANT MICROFINANCE BANK LIMITED
+  - Street Address: 'Suit A8-A10 Bethany Plaza Odenigbo Road, Nsukka, Enugu State' → 'nan'
+  - Website: '-' → 'nan'
+
+• UNITED CAPITAL MFB
+  - Street Address: '3rd & 4th FLOORS AFRILAND TOWERS, 97/105 BROAD STREET, LAGOS' → 'nan'
+  - Website: '-' → 'nan'
+
