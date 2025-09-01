@@ -1,0 +1,78 @@
+CBN Financial Institutions Change Report - 2025-09-01
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 938)
+New institutions: 17
+Removed institutions: 0
+Institutions with changed details: 6
+
+ADDED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Mobile Money Operators]
+• ABEG TECHNOLOGIES LIMITED
+  Website: - | Address: Tesmot House 3 Abdulrahman Okene Close, Off Ligali Ayorinde Street, Lagos
+• CHAMS MOBILE LIMITED
+  Website: - | Address: 8 Louis Solomon Close Off Ahmadu Bello Way ,Victoria Island, Lagos
+• ETRANZACT INTERNATIONAL LIMITED
+  Website: - | Address: 27/29 Adeyemo Alakija Street Victoria Island
+• FORTIS MOBILE MONEY LIMITED
+  Website: - | Address: Suit 402 Capital Hub Mabushi, Abuja
+• FUNDS AND ELECTRONIC TRANSFER (FETS) LIMITED
+  Website: - | Address: 15 Cameron Road, Ikoyi, Lagos
+• HEDONMARK MANAGEMENT SERVICES LIMITED
+  Website: - | Address: NCR Building (8th Floor)t, 6 Broad Street, Lagos Island, Lagos
+• KONGAPAY TECHNOLOGIES LIMITED (FORMERLY ZINTERNET LIMITED )
+  Website: - | Address: 1 Redemption Crescent Gbagada, before UPS, off Oshodi Apapa Express way, Lagos
+• MKUDI LIMITED
+  Website: - | Address: Plot 1648C, Oko-Awo Close, Victoria Island, Eti Osa
+• NOWNOW DIGITAL SYSTEMS LIMITED (FORMERLY CONTEC GLOBAL INFOTECH LIMITED)
+  Website: - | Address: 239/241 Ikorodu Road Beside Sterling Bank Head Office Annex Office illupeju
+• OPAY DIGITAL SERVICES LIMITED (FORMERLY PAYCOM NIGERIA LIMITED)
+  Website: - | Address: Alexander House Otunba Jobi Fele Way Agidingbi, Alausa, Ikeja, Lagos
+• PAGATECH LIMITED
+  Website: - | Address: 176 Herbert Macaulay Way 3rd Floor, Yaba, Lagos
+• PALMPAY LIMITED
+  Website: - | Address: No 63, Adekunle Fajuyi Street, Ikeja, Lagos
+• PARKWAY PROJECTS LIMITED
+  Website: - | Address: 295, Herbert Macaulay way, Yaba, Lagos
+• TEASY INTERNATIONAL COMPANY LTD.
+  Website: - | Address: No 3 Elbe Close Off Panama Street, Maitama, Abuja
+• VISUAL ICT LIMITED
+  Website: - | Address: No 4, Tamale Street, Wuse Zone 3, Abuja
+• VTNETWORK LIMITED
+  Website: - | Address: 11, Okunola Abass Street Bodija Ibadan
+• XPRESS MTS LIMITED
+  Website: - | Address: N0 23 Oba Akinjobi Way, Ikeja GRA, Lagos
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Finance Companies]
+• NOLT FINANCE COMPANY LIMITED
+  - Street Address: 'Suite 4, First Floor, 11 Awolowo Road, Ikoyi, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+[Micro-finance Banks]
+• ACE Microfinance Bank Limited
+  - Street Address: '3, Daniel Aliyu Street, Kwali, Abuja' → 'nan'
+  - Website: '-' → 'nan'
+
+• Akpo Microfinance Bank Limited
+  - Street Address: 'Akpo Junction, Akpo, Aguata LGA, Anambra State' → 'nan'
+  - Website: '-' → 'nan'
+
+• All Workers Microfinance Bank Limited
+  - Street Address: '30, MBARI STREET, IKENEGBU LAYOUT, OWERRI, IMO STATE' → 'nan'
+  - Website: '-' → 'nan'
+
+• Alor Microfinance Bank Limited
+  - Street Address: 'Nkwor Alor Market Square, Idemili South LGA, Anambra State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Alvana Microfinance Bank Limited
+  - Street Address: 'Alvan Ikoku College of Education' → 'nan'
+  - Website: '-' → 'nan'
+
