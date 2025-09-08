@@ -1,0 +1,94 @@
+CBN Financial Institutions Change Report - 2025-09-08
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 955)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 19
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Commercial Banks]
+• Providus Bank
+  - Street Address: 'nan' → 'Plot 54, Ademola Adetokunbo'
+  - Website: 'nan' → '-'
+
+• Signature Bank Limited
+  - Street Address: 'nan' → 'Plot 31B, Gana Street, Maitama, FCT Abuja'
+  - Website: 'nan' → '-'
+
+• Tatum Bank Limited
+  - Street Address: 'nan' → 'Plot 1088 Cadastral Zone A01 Area 3, Garki, Abuja'
+  - Website: 'nan' → '-'
+
+• Titan Trust Bank Ltd
+  - Street Address: 'nan' → 'Plot 1680 Sanusi Fafunwa Street, Victoria Island, Lagos'
+  - Website: 'nan' → '-'
+
+• Union Bank of Nigeria Plc
+  - Street Address: 'nan' → 'Stallion Plaza, 36 Marina, Lagos'
+  - Website: 'nan' → '-'
+
+• United Bank For Africa Plc
+  - Street Address: 'nan' → '57, Marina'
+  - Website: 'nan' → 'www.ubagroup.com'
+
+• Unity Bank Plc
+  - Street Address: 'nan' → 'Plot 42, Ahmed Onibudo Street, Victoria Island, Lagos.'
+  - Website: 'nan' → 'www.unitybankng.com'
+
+[Development Finance Institutions]
+• FEDERAL MORTGAGE BANK OF NIGERIA
+  - Street Address: 'nan' → 'Plot 266, Cadastral Zone A0, Central Business Dist'
+  - Website: 'nan' → '-'
+
+• NIGERIA EXPORT IMPORT BANK
+  - Street Address: 'nan' → 'Plot 975, Cadastral Zone A0, Central Business Dist'
+  - Website: 'nan' → 'www.neximbank.com.ng'
+
+[Micro-finance Banks]
+• Afemai Microfinance Bank Limited
+  - Street Address: 'nan' → '61B, Bode Road, Jattu-Uzairue'
+  - Website: 'nan' → '-'
+
+• Agosasa Microfinance Bank Limited
+  - Street Address: 'nan' → '5, Ilupeju Estate, Ipokia Road,'
+  - Website: 'nan' → '-'
+
+• Amucha Microfinance Bank Limited
+  - Street Address: 'nan' → 'Bank House, Amucha, Via Orlu Njaba'
+  - Website: 'nan' → '-'
+
+• Apa Microfinance Bank Limited
+  - Street Address: 'nan' → 'Makurdi Road, Adoka, Otukpo'
+  - Website: 'nan' → '-'
+
+• NUGGETS MFB
+  - Street Address: 'nan' → 'NO.15, SULAIMON SHODERU STREET, POWER LINE ROAD, IKORODU, LAGOS'
+  - Website: 'nan' → '-'
+
+• Pointone Microfinance Bank
+  - Street Address: 'nan' → 'No 23, Odozie Street, Ojodu Abiodun, Lagos State'
+  - Website: 'nan' → '-'
+
+[Mobile Money Operators]
+• NOWNOW DIGITAL SYSTEMS LIMITED (FORMERLY CONTEC GLOBAL INFOTECH LIMITED)
+  - Street Address: 'nan' → '239/241 Ikorodu Road Beside Sterling Bank Head Office Annex Office illupeju'
+  - Website: 'nan' → '-'
+
+• TEASY INTERNATIONAL COMPANY LTD.
+  - Street Address: 'nan' → 'No 3 Elbe Close Off Panama Street, Maitama, Abuja'
+  - Website: 'nan' → '-'
+
+• VTNETWORK LIMITED
+  - Street Address: 'nan' → '11, Okunola Abass Street Bodija Ibadan'
+  - Website: 'nan' → '-'
+
+[Payment Service Banks]
+• SMARTCASH PSB LIMITED
+  - Street Address: 'nan' → 'Plot L2 401 Close Banana Island, Ikoyi, Lagos'
+  - Website: 'nan' → '-'
+
