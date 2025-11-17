@@ -1,0 +1,22 @@
+CBN Financial Institutions Change Report - 2025-11-17
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 955)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 2
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• PRUDENT MFB
+  - Street Address: 'PLOT NO. MF-03A, SAUKA VILLAGE EXTENSION, KUJE ABUJA' → 'nan'
+  - Website: '-' → 'nan'
+
+• Pointone Microfinance Bank
+  - Street Address: 'No 23, Odozie Street, Ojodu Abiodun, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
