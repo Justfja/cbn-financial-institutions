@@ -580,6 +580,7 @@ MADELYN MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 MADOBI MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 MAGAJIN-GIRI MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 MAGNET MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
+MAIGATARI MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 MAIN TRUST MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 MAINLAND MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
 MAINSTREET MFB,Micro-finance Banks,,,,,,,,,,,,,,,,,
@@ -899,7 +900,7 @@ LOTUS BANK LTD,Non-Interest Banks,,,,,,,,,,,,,,,,,
 Summit Bank Limited,Non-Interest Banks,Summit Bank Limited,Non-Interest Bank,Regional,-,06/02/2025,"No. 5 Amal Pepple Street Off Ameyo Adadevoh Way, Jahi Abuja.",Abuja,ABUJA,+234 (0) 700 700 0005,www.summitbankng.com,info@summitbankng.com,-,"No. 5 Amal Pepple Street Off Ameyo Adadevoh Way, Jahi Abuja.",NGN,Domestic,-,2/6/2025
 TAJ,Non-Interest Banks,,,,,,,,,,,,,,,,,
 ABBEY MORTGAGE BANK,Primary Mortgage Banks,,,,,,,,,,,,,,,,,
-Adamawa Mortgage Bank Limited,Primary Mortgage Banks,,,,,,,,,,,,,,,,,
+Adamawa Mortgage Bank Limited,Primary Mortgage Banks,Adamawa Mortgage Bank Limited,Primary Mortgage Institutions,State,-,01/01/1900,"No 1, Bishop Street, Jimeta Yola, Adamawa State",Yola,ADAMAWA,07032268912,-,-,-,-,NGN,Domestic,-,05/23/2024
 AG HOMES,Primary Mortgage Banks,,,,,,,,,,,,,,,,,
 AKWA SAVINGS,Primary Mortgage Banks,,,,,,,,,,,,,,,,,
 ASO SAVINGS & LOANS,Primary Mortgage Banks,,,,,,,,,,,,,,,,,
@@ -933,13 +934,13 @@ STB BUILDING SOCIETY,Primary Mortgage Banks,,,,,,,,,,,,,,,,,
 TRUSTBOND MORTGAGE BANK,Primary Mortgage Banks,,,,,,,,,,,,,,,,,
 9 PSB Ltd,Payment Service Banks,,,,,,,,,,,,,,,,,
 Hope PSB Ltd,Payment Service Banks,,,,,,,,,,,,,,,,,
-MOMO PAYMENT SERVICE BANK,Payment Service Banks,,,,,,,,,,,,,,,,,
+MOMO PAYMENT SERVICE BANK,Payment Service Banks,MOMO PAYMENT SERVICE BANK,Payment Service Bank,National,MOMO PAYMENT SERVICE BANK,01/01/1900,"ATLANTIS BUILDING, PLOT 290B, AKIN ADESOLA STREET, VICTORIA ISLAND LAGOS",VICTORIA ISLAND,LAGOS,xxxxxxxxxx,www.momopsb.com,-,-,"P.M.B. 80147 ADEOLA ODEKU POST OFFICE, VICTORIA ISLAND, LAGOS",NGN,Domestic,-,04/08/2022
 Moneymaster PSB Ltd,Payment Service Banks,,,,,,,,,,,,,,,,,
-SMARTCASH PSB LIMITED,Payment Service Banks,,,,,,,,,,,,,,,,,
+SMARTCASH PSB LIMITED,Payment Service Banks,SMARTCASH PSB LIMITED,Payment Service Bank,None,-,01/01/1900,"Plot L2 401 Close Banana Island, Ikoyi, Lagos",Ikoyi,LAGOS,09125939939,-,-,-,-,NGN,Domestic,-,04/27/2022
 ABEG TECHNOLOGIES LIMITED,Mobile Money Operators,ABEG TECHNOLOGIES LIMITED,Mobile Money Operator,None,ABEG TECHNOLOGIES LIMITED,01/01/1900,"Tesmot House 3 Abdulrahman Okene Close, Off Ligali Ayorinde Street, Lagos",Lagos,LAGOS,xxxxx,-,tricia@abeg.app,-,-,NGN,Domestic,-,01/03/2023
 CHAMS MOBILE LIMITED,Mobile Money Operators,CHAMS MOBILE LIMITED,Mobile Money Operator,None,CHAMS MOBILE LIMITED,01/01/1900,"8 Louis Solomon Close Off Ahmadu Bello Way ,Victoria Island, Lagos",Victoria Island,LAGOS,xxx,-,colaniyan@chamsmobile.com,-,-,NGN,Domestic,-,09/24/2012
 ETRANZACT INTERNATIONAL LIMITED,Mobile Money Operators,ETRANZACT INTERNATIONAL LIMITED,Mobile Money Operator,None,ETRANZACT INTERNATIONAL LIMITED,01/01/1900,27/29 Adeyemo Alakija Street Victoria Island,Victoria Island,LAGOS,xxxx,-,Oluwafemi.Aminu@etranzactng.com,-,-,NGN,Domestic,-,08/18/2021
-FORTIS MOBILE MONEY LIMITED,Mobile Money Operators,,,,,,,,,,,,,,,,,
+FORTIS MOBILE MONEY LIMITED,Mobile Money Operators,FORTIS MOBILE MONEY LIMITED,Mobile Money Operator,None,FORTIS MOBILE MONEY LIMITED,01/01/1900,"Suit 402 Capital Hub Mabushi, Abuja",Mabushi,ABUJA,xxxx,-,aagabaenwere@fortismobilemoney.com,-,-,NGN,Domestic,-,12/10/2013
 FUNDS AND ELECTRONIC TRANSFER (FETS) LIMITED,Mobile Money Operators,FUNDS AND ELECTRONIC TRANSFER (FETS) LIMITED,Mobile Money Operator,None,FUNDS AND ELECTRONIC TRANSFER (FETS) LIMITED,01/01/1900,"15 Cameron Road, Ikoyi, Lagos",Ikoyi,LAGOS,xxxxx,-,JOHN.MAGO@FETSLIMITED.COM,-,-,NGN,Domestic,-,12/10/2013
 HEDONMARK MANAGEMENT SERVICES LIMITED,Mobile Money Operators,HEDONMARK MANAGEMENT SERVICES LIMITED,Mobile Money Operator,None,HEDONMARK MANAGEMENT SERVICES LIMITED,01/01/1900,"NCR Building (8th Floor)t, 6 Broad Street, Lagos Island, Lagos",Lagos Island,LAGOS,xxxxx,-,oshone@zoto.com.ng,-,-,NGN,Domestic,-,01/15/2014
 KONGAPAY TECHNOLOGIES LIMITED (FORMERLY ZINTERNET LIMITED ),Mobile Money Operators,KONGAPAY TECHNOLOGIES LIMITED (FORMERLY ZINTERNET LIMITED ),Mobile Money Operator,None,ZINTERNET LIMITED,01/01/1900,"1 Redemption Crescent Gbagada, before UPS, off Oshodi Apapa Express way, Lagos",Apapa,LAGOS,xxxxx,-,michael@kongapay.com,-,-,NGN,Domestic,-,09/24/2012

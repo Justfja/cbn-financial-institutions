@@ -1,0 +1,38 @@
+CBN Financial Institutions Change Report - 2025-12-01
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 955 (previous: 954)
+New institutions: 1
+Removed institutions: 0
+Institutions with changed details: 4
+
+ADDED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• MAIGATARI MFB
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Mobile Money Operators]
+• FORTIS MOBILE MONEY LIMITED
+  - Street Address: 'nan' → 'Suit 402 Capital Hub Mabushi, Abuja'
+  - Website: 'nan' → '-'
+
+[Payment Service Banks]
+• MOMO PAYMENT SERVICE BANK
+  - Street Address: 'nan' → 'ATLANTIS BUILDING, PLOT 290B, AKIN ADESOLA STREET, VICTORIA ISLAND LAGOS'
+  - Website: 'nan' → 'www.momopsb.com'
+
+• SMARTCASH PSB LIMITED
+  - Street Address: 'nan' → 'Plot L2 401 Close Banana Island, Ikoyi, Lagos'
+  - Website: 'nan' → '-'
+
+[Primary Mortgage Banks]
+• Adamawa Mortgage Bank Limited
+  - Street Address: 'nan' → 'No 1, Bishop Street, Jimeta Yola, Adamawa State'
+  - Website: 'nan' → '-'
+
