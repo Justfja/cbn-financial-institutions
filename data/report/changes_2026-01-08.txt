@@ -1,0 +1,63 @@
+CBN Financial Institutions Change Report - 2026-01-08
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 976 (previous: 955)
+New institutions: 21
+Removed institutions: 0
+Institutions with changed details: 0
+
+ADDED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Development Finance Institutions]
+• NATIONAL CREDIT GUARANTEE COMPANY LIMITED
+  Website: - | Address: Plot 256 zone A.O. Off Herbert Macaulay Way, Abuja, FCT
+• NIGERIAN CONSUMER CREDIT CORPORATION
+  Website: - | Address: Caesar Building, The Centurion Complex Ooposite Church gate, CEntral Business District Abuja
+
+[Finance Companies]
+• APICES FINANCE COMPANY LIMITED
+  Website: - | Address: Suite B1/B2 Innovation Plaza Plot 770, Idris Gidado Street, Wuye Abuja
+• ASCESIA FINANCE COMPANY LIMITED
+  Website: - | Address: Suite 101b Samfa Plaza Ndola Crescent Wuse Zone 5, Abuja
+• CREDITPRO FINANCE COMPANY LIMITED
+  Website: - | Address: 25 WAMPCO Road Ikeja Lagos
+• LUCIDUM FINANCE COMPANY LIMITED
+  Website: - | Address: 9 Adedeji Adekola Close, Off Freedom Way, Lekki Phase 1, Lagos State
+• SYNC FINANCE COMPANY LIMITED
+  Website: - | Address: 1c Amaechi Onuoha Crescent Lekki Phase 1, Lekki, Lagos State
+
+[Micro-finance Banks]
+• AVVIC MICROFINANCE BANK LIMITED
+  Website: - | Address: House B1, Rose Garden Court, Rangers Avenue, Independent Layout, Enugu North, Enugu
+• BAIGE MICROFINANCE BANK LIMITED
+  Website: - | Address: No 90B Isawo Rd Owutu Agric Ikorodu, Lagos
+• CASHA MICROFINANCE BANK
+  Website: - | Address: 1 & 2 Block 5 Police Affairs Quarters Phase IV, Kubwa, Abuja
+• CASHWISE MICROFINANCE BANK LIMITED
+  Website: - | Address: No 3 Ejurin Itkin Road, Epe, Lagos State
+• GRANULE MICROFINANCE BANK
+  Website: - | Address: No 63 Bashorun Akobo Road, Ibadan, Oyo State
+• HEDGE MICROFINANCE BANK LIMITED
+  Website: - | Address: No 1 Serenity Road Off Karshi-Apo Byepass Way, Karu LGS, Nasarawa State
+• KWARA POLYTECHNIC MICROFINANCE BANK LIMITED
+  Website: - | Address: Old Jebba Road, Ara Road, Ilorin, Moro Kwara State
+• MAYDEN MICROFINANCE BANK
+  Website: - | Address: No 7 Alfred Rewane Road, Ikoyi, Lagos
+• OYE VERSITY MICROFINANCE BANK LIMITED
+  Website: - | Address: no 1 Federal University Ote-Ekiti, Ekiti State
+• PACT MICROFINANCE BANK
+  Website: - | Address: 3 Ayetoro Road, Epe, Lagos State
+• SEAL MICROFINANCE BANK LIMITED
+  Website: - | Address: No 186 Murtala Mohammed Way Ikpoba Okha LGA, Edo State
+• TEERUS MICROFINANCE BANK LIMITED
+  Website: - | Address: Suite 6 LSDC Complex Bode Thomas Street Alaka Surulere Lagos
+• WE MICROFINANCE BANK LIMITED
+  Website: - | Address: No 7, Duru Street by Cemetery Road, Aba, Abia State
+
+[Non-Interest Banks]
+• SUMMIT BANK LIMITED
+  Website: - | Address: No 5, Amal Pepple Street, Off Ameyo Adadevoh Way, Jahi, Abuja
+
