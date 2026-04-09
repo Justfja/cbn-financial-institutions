@@ -1,0 +1,31 @@
+CBN Financial Institutions Change Report - 2026-04-09
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 983 (previous: 976)
+New institutions: 7
+Removed institutions: 0
+Institutions with changed details: 0
+
+ADDED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Finance Companies]
+• BRAVEWOOD FINANCE COMPANY LIMITED
+  Website: - | Address: 5A Sasegbon Street, GRA, Ikeja, Lagos
+• COWRY FINANCE COMPANY LIMITED
+  Website: - | Address: Plot 1319 Karimu Kotun Street, Victoria Island Lagos
+• SOHCAHTOA FINANCE COMPANY LIMITED
+  Website: - | Address: First Floor, Capwire House 19, Sinari Daranjo Street, Victoria Island, Lagos
+• THE SCIART FINANCE COMPANY LIMITED
+  Website: - | Address: Unit 12, Trocadero Centre, The Rock Drive, Lekki-Phrase 1, Lagos
+
+[Micro-finance Banks]
+• 1Trust Microfinance Bank Limited
+  Website: - | Address: No 222 Aba Road, Rumuokalagbor, Obio-Akpor LGS, Rivers State.
+• Davenport Microfinance Bank Limited
+  Website: - | Address: Shop 8 & 9 Block D, Animashaun Plaza No 202, Lagos-Epe Road, Epe, Epe Local Government Area, Lagos State
+• Katsu Microfinance Bank Limited
+  Website: - | Address: No 12 Station Road, Agbado, Ogun State
+
