@@ -1,0 +1,17 @@
+CBN Financial Institutions Change Report - 2026-04-30
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 982 (previous: 983)
+New institutions: 0
+Removed institutions: 1
+Institutions with changed details: 0
+
+REMOVED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Non-Interest Banks]
+• Summit Bank Limited
+  Website: www.summitbankng.com | Address: No. 5 Amal Pepple Street Off Ameyo Adadevoh Way, Jahi Abuja.
+
