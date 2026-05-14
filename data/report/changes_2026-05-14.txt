@@ -1,0 +1,25 @@
+CBN Financial Institutions Change Report - 2026-05-14
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 986 (previous: 982)
+New institutions: 4
+Removed institutions: 0
+Institutions with changed details: 0
+
+ADDED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Finance Companies]
+• TRUSTWORD FINANCE COMPANY LIMITED
+  Website: - | Address: First Floor, Book Shop House, No 50 Broad Street, Lagos Island, Lagos State
+• XOFT FINANCE COMPANY LIMITED
+  Website: - | Address: 3rd Floor, Churchgate Towers 2, Victoria Island, Lagos
+
+[Micro-finance Banks]
+• Onewallet Microfinance Bank Limited
+  Website: - | Address: KM 7, Port-harcourt-Enugu Highway, Umuigwe, Osisioma, Abia State
+• Paragon Microfinance Bank Limited
+  Website: - | Address: No 8 Chubb Road, Ikot Ekpene LGA, Akwa Ibom State
+
