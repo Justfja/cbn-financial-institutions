@@ -1,0 +1,188 @@
+CBN Financial Institutions Change Report - 2026-05-21
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 1067 (previous: 986)
+New institutions: 81
+Removed institutions: 0
+Institutions with changed details: 1
+
+ADDED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Merchant Banks]
+• Stable Microfinance Bank Limited
+  Website: - | Address: 46, Jagumolu Street Bariga, Lagos State
+
+[Micro-finance Banks]
+• 5TT Microfinance Bank Limited
+  Website: - | Address: Afor Marker Square Akatta Orlu East Local Government, Orlu, Imo State
+• Adike Microfinance Bank Limited
+  Website: - | Address: Mike Ajegbo Road, Obosi, Idemili North LG, Anambra State
+• Advancly Microfinance Bank Limited
+  Website: - | Address: 39 Agege Motor Road bu Mosalashi Bus stop Surulere, Lagos State
+• Afole Microfinance Bank Limited
+  Website: - | Address: Isale Odofin Quarters, Otan Ayegbaju Osun State
+• Akata Microfinance Bank Limited
+  Website: - | Address: No. 3 AUD Junction, Off Akande market, Ogbomoso, Oyo State
+• Al'Hikma Microfinance Bank Limited
+  Website: - | Address: AC11 Danmasanni Bello Sani Road, Rigachikum, Kaduna, Kaduna State
+• Avantus Microfinance bank Limited
+  Website: - | Address: Shop 1, Market Street, Owena Ijesa Osun State
+• Avest Microfinance bank Limited
+  Website: - | Address: Suite 23, Yomade shopping Complex, Awoyaya, Ibeju LGA, Lagos State
+• BKD NEW Microfinance bank Limited
+  Website: - | Address: No 1 Salihi Road, Opp. Central Mosque, Birnin Kudu, Jigawa State
+• BWAY Microfinance bank Limited
+  Website: - | Address: 49A Lafiaji Way, Dolphin Estate, Ikoyi Lagos State
+• Bankeasy Microfinance bank Limited
+  Website: - | Address: No 3, palace Way Iba, Ifelodun LGA, Osun State
+• Basawa Microfinance bank Limited
+  Website: - | Address: KM 4 Old Kano Road BASAWA, Sabo Gari, Zaria, Kaduna State.
+• Bloc Microfinance bank Limited
+  Website: - | Address: Ogboukwu Plaza, beside Esmeck Plaza Balogun Business Association, International Tradefaor Complex, Badagrey Expressway, Lagos State
+• Bold Microfinance bank Limited
+  Website: - | Address: Opp. Hospital Management Board MDS AreaOsogbo, Osun State
+• Casa Microfinance bank Limited
+  Website: - | Address: No 110 Central Mosque Road by Recreatio Center, Epe Lagos State
+• Cedrus Microfinance Bank Limited
+  Website: - | Address: No 24 Muhammadu Buhari Way Kaduna, Kaduna State
+• Charis Microfinance Bank Limited
+  Website: - | Address: Plot 314, Lagos Road, Madidu, Ikorodu, Lagos State
+• Cool Microfinance Bank Limited
+  Website: - | Address: Road J, Goruba Road, Opposite Mumed Secondary School, Katsina State
+• DSC Microfinance Bank Limited
+  Website: - | Address: 2 Moore Street, Ile-Ife, Osun State
+• Dabtikir Microfinance Bank Limited
+  Website: - | Address: No 50 Mubi Road, Hong, Adamawa State
+• Dash Microfinance Bank Limited
+  Website: - | Address: 5 Adewunmi Adu Street , off Sanni Balogun, Jibowu Road Abule-egba, Lagos State
+• Duxbank Microfinance Bank Limited
+  Website: - | Address: Plot 7928 Adetokunbo Ademola Crescent, Wuse 2 Abuja
+• Edusoko Microfinance Bank Limited
+  Website: - | Address: Etsu Yahaya Abubakar Ultra Modern Park Esso Bida Niger State
+• Ehinoma Microfinance Bank Limited
+  Website: - | Address: 7, Royal Street Uhunwmode LGA, Edo State
+• Ellington Microfinance Bank Limited
+  Website: - | Address: 9 Emma Abimbola Cole Street, Lekki Phase 1, Lekki, Lagos State
+• Entrepreneur Microfinance Bank Limited
+  Website: - | Address: No 19, Araromi Street, Off Berkley Street, lagos Island, Lagos State
+• Esteem Microfinance Bank Limited
+  Website: - | Address: Dantata Shopping Plaza Ibrahim Taiwo Road, Kano State
+• Ikere Microfinance Bank Limited
+  Website: - | Address: Oke Aodu Street Ikere-kiti, Ekiti State
+• Indulge Microfinance Bank Limited
+  Website: - | Address: 56 Opebi Road, Salvation Bus Stop, Ikeja, Lagos
+• Isi-Ego Microfinance Bank Limited
+  Website: - | Address: 25 Ziks Avenue Amaobia, Awka South, Anambra State
+• Kaizen Microfinance Bank Limited
+  Website: - | Address: 154 Awolowo Road, Ikoyi, Lagos State
+• Koboweb Microfinance Bank Limited
+  Website: - | Address: No 4 Barnawa Close, Gwarimpa, Abuja
+• Koins Microfinance Bank Limited
+  Website: - | Address: No 24, Kofo Abayomi Street Victoria Island, Lagos State
+• Kolisa Microfinance Bank Limited
+  Website: - | Address: 124B Umejei Road, Ibusa, Delta State
+• Lightway Microfinance Bank Limited
+  Website: - | Address: No 4B Road, Shola Oguntade Close, Lekki, Lagos State
+• MBAG Microfinance Bank Limited
+  Website: - | Address: No 244 Iju Waterworks, Iju Ishaga, Iju, Lagos State
+• Mia Microfinance Bank Limited
+  Website: - | Address: No 280, maiduguri Road, By Tarauni Market Junction, Kano, kano State
+• Moddibo Adama University Microfinance Bank Limited
+  Website: - | Address: Sangare Ward Girei Local Government Are, Yola, Adamawa State.
+• Movasco-Op Microfinance Bank Limited
+  Website: - | Address: Michael Okpara University of Agriculture, Umudike Abia State
+• Muamala Microfinance Bank Limited
+  Website: - | Address: 1A Murada Ventures Shopping Complex, Opp IBB Market, Suleja, Niger State
+• Nexton Microfinance Bank Limited
+  Website: - | Address: Opp Ijebu North East LGA Secretariat, Ijebu North Ogun State
+• Novus Microfinance Bank Limited
+  Website: - | Address: Plot BNA 6178, New Bridge Road, Makurdi, Benue State
+• Oganiru Microfinance Bank Limited
+  Website: - | Address: Akpo Junction Akpo Aguata LGA, Anambra State
+• Okada Microfinance Bank Limited
+  Website: - | Address: Mission Road Okada, Igbinedion University Ovia North East LGA, Edo State
+• Olomu Aperan Microfinance Bank Limited
+  Website: - | Address: 92 Aperan Road Omu-Aran, Kwara State
+• Optimum Global Microfinance Bank Limited
+  Website: - | Address: No 26 Western Avenue, Ojuelegba, Surulere, Lagos State
+• Ourpass Microfinance Bank Limited
+  Website: - | Address: Community Development House, Barrack Road, Ifon, Ondo State
+• Payrep Microfinance Bank Limited
+  Website: - | Address: Behind Esu Kuchikau Palace, Keffi-Abuja Expressway, Kuchikau-Masaka, Karu LGA, Nasarawa State
+• Pioneer Microfinance Bank Limited
+  Website: - | Address: Line C4/1-6, Relief Market, Obodukwu Road, Ogbaru LGA Onitsha, Anambra State
+• Platinum Microfinance Bank Limited
+  Website: - | Address: 160 Zik Avenue, Awka, Anambra State
+• Plusone Microfinance Bank Limited
+  Website: - | Address: 57 Isawo Road, Owutu-Agric, Ikorudu, Lagos State
+• Premier Microfinance Bank Limited
+  Website: - | Address: 1 Michika Main Market, Michika, Adamawa State
+• Ricia Capital Microfinance Bank Limited
+  Website: - | Address: 27, Annex, Adelabu Shopping Complex, Orita-Challenge, Ibadan, Oyo State
+• Royal Excellent Microfinance Bank Limited
+  Website: - | Address: 12 O'Connor Street, Asata, Enugu State
+• Run Microfinance Bank Limited
+  Website: - | Address: 1, Bank Road, Ola, Osun State
+• Savesimple Microfinance Bank Limited
+  Website: - | Address: 101 Borno way, Yaba, Lagos State
+• Shine Microfinance Bank Limited
+  Website: - | Address: No. 13, Adebare Road, Ogudu, Lagos State
+• Silverend Microfinance Bank Limited
+  Website: - | Address: Opayemi House, Opposite Gowon Estate, Alimosho LGA, Lagos State
+• Sosa Microfinance Bank Limited
+  Website: - | Address: B45, Samson Odugbesan Street, Oke-Ala, Ososa-Ijebu, Ogun State
+• Springfield Microfinance Bank Limited
+  Website: - | Address: No. 38, Ogunlana Drive, Surulere, Lagos State
+• Springville Microfinance Bank Limited
+  Website: - | Address: 1, Ikenna Road, Aiyepe, Ogun State
+• Strait Sahara Microfinance Bank Limited
+  Website: - | Address: 140 Benue Crescent, Wadata, Makurdi, Benue State
+• Swifttrust Microfinance Bank Limited
+  Website: - | Address: Plot 960, Ahmadu Bello Way, Wuse 2, Abuja, FCT.
+• Teerus Microfinance Bank Limited
+  Website: - | Address: Suite 6 LSD Complex, Bode Thomas Street, Alaka Surulere, Lagos State
+• Tellerone FI Microfinance Bank Limited
+  Website: - | Address: 105 Abiodun Atiba Raod, Opposite L.A, Tower School, Ide-ope, Oyo State
+• Tenn Microfinance Bank Limited
+  Website: - | Address: 36, Old Aba Road, Rumukwurusi, Port Harcourt, Rivers State
+• Transpay Microfinance Bank Limited
+  Website: - | Address: Suite C2/C6, Melita Plaza, Plot 599, Gwarjo Street, Off Gimbiya Street, Area 11, Garki, Abuja
+• UBJ Microfinance Bank Limited
+  Website: - | Address: No. 26A Central Road, Ubiaja, Esan South-East LGA, Edo State
+• Uforo Microfinance Bank Limited
+  Website: - | Address: 4 Market Road, Ikpe, Ikot Nkot, Ini LGA, Akwa Ibom State
+• Ultraviolet Microfinance Bank Limited
+  Website: - | Address: 9, Dunukofia Street, Area 11, Abuja.
+• Umunri Microfinance Bank Limited
+  Website: - | Address: No. 1, Civic Center Complex, Enugwu-Ukwu, Anambra State
+• Unicorn Microfinance Bank Limited
+  Website: - | Address: 28, Ayangbure Road, Ikorodu, Lagos State
+• Vangel Microfinance Bank Limited
+  Website: - | Address: KM 1, Toronto Road, Umuro Owerri, Imo State
+• Verdant-Capital Microfinance Bank Limited
+  Website: - | Address: 48, Bamgbose Street, Lagos Island, Lagos State.
+• Vista Microfinance Bank Limited
+  Website: - | Address: No. 405, Oron Road, Uyo, Akwa Ibom State
+• Weston-Charis Microfinance Bank Limited
+  Website: - | Address: No. 2, Olaogun Street, Apapa Road, Ebute Metta, Lagos State
+• Willows Microfinance Bank Limited
+  Website: - | Address: Plot 15, New Oniru Market Road, Oniru Estate, Victoria Island, Lagos State
+• Zircon Microfinance Bank Limited
+  Website: - | Address: No. KM 19, Badagry Expressway, Paku Bus Stop, Besides Fed. Road Safety Corp, Okokomaiko, Lagos
+• Zitra Microfinance Bank Limited
+  Website: - | Address: No. 405, Oron Road, Uyo, Akwa Ibom State
+
+[Non-Interest Banks]
+• Mint Microfinance Bank Limited
+  Website: - | Address: No 104, Oron Road, Uyo to Ikot Ubo Ubium, Nsit Ubium LGA, Akwa Ibom State
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• Katsu Microfinance Bank Limited
+  - Street Address: 'No 12 Station Road, Agbado, Ogun State' → 'No 12 Station Road Agbado Ogun State.'
+
