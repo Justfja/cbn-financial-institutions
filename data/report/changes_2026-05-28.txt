@@ -1,0 +1,17 @@
+CBN Financial Institutions Change Report - 2026-05-28
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 1067 (previous: 1067)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 1
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• Katsu Microfinance Bank Limited
+  - Street Address: 'No 12 Station Road Agbado Ogun State.' → 'No 12 Station Road, Agbado, Ogun State'
+
