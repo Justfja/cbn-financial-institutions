@@ -1,0 +1,31 @@
+CBN Financial Institutions Change Report - 2026-08-27
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 1067 (previous: 1067)
+New institutions: 1
+Removed institutions: 1
+Institutions with changed details: 1
+
+ADDED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Merchant Banks]
+• QUEST MERCHANT BANK
+  Website: - | Address: 2 Kofo Abayomi Street
+
+REMOVED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Merchant Banks]
+• FBNQUEST MERCHANT BANK
+  Website: - | Address: 2 Kofo Abayomi Street
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• Katsu Microfinance Bank Limited
+  - Street Address: 'No 12 Station Road Agbado Ogun State.' → 'No 12 Station Road, Agbado, Ogun State'
+
