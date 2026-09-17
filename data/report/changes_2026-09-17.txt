@@ -1,0 +1,70 @@
+CBN Financial Institutions Change Report - 2026-09-17
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 1032 (previous: 1067)
+New institutions: 0
+Removed institutions: 35
+Institutions with changed details: 1
+
+REMOVED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Merchant Banks]
+• Stable Microfinance Bank Limited
+  Website: - | Address: 46, Jagumolu Street Bariga, Lagos State
+
+[Micro-finance Banks]
+• Abia SME Microfinance Bank
+• Apple Microfinance Bank Limited
+  Website: - | Address: 26, Agbon Street, Oru-Ijebu
+• Avantus Microfinance bank Limited
+  Website: - | Address: Shop 1, Market Street, Owena Ijesa Osun State
+• BOMPAI MFB
+• BUSU MFB
+• Bejin-Doko Microfinance Bank Limited
+  Website: - | Address: BIDA ROAD, DOKO GARAGE, NEAR POLICE STATION, LAVUN LGA, P.OBOX 568, BIDA, NIGER STATE
+• CASHA MICROFINANCE BANK
+  Website: - | Address: 1 & 2 Block 5 Police Affairs Quarters Phase IV, Kubwa, Abuja
+• CREEKLINE MFB
+• DAWAKIN TOFA MFB
+• Entrepreneur Microfinance Bank Limited
+  Website: - | Address: No 19, Araromi Street, Off Berkley Street, lagos Island, Lagos State
+• Esteem Microfinance Bank Limited
+  Website: - | Address: Dantata Shopping Plaza Ibrahim Taiwo Road, Kano State
+• GEZAWA MFB
+• GOLD MFB
+• JANMAA MFB
+• KANO POLY MFB
+• MBAG Microfinance Bank Limited
+  Website: - | Address: No 244 Iju Waterworks, Iju Ishaga, Iju, Lagos State
+• MERCHANT MFB
+• MINJI-SE CHURCHILL MFB
+• MINJIBIR MFB
+• MWAGHAVUL MFB
+• Ourpass Microfinance Bank Limited
+  Website: - | Address: Community Development House, Barrack Road, Ifon, Ondo State
+• RIMIN GADO MFB
+• SAFEGATE MFB
+• SHANONO MFB
+• STANFORD MFB
+• SUMAILA MFB
+• SUPREME MFB
+• Strait Sahara Microfinance Bank Limited
+  Website: - | Address: 140 Benue Crescent, Wadata, Makurdi, Benue State
+• TOFA MFB
+• TSANYAWA MFB
+• Verdant-Capital Microfinance Bank Limited
+  Website: - | Address: 48, Bamgbose Street, Lagos Island, Lagos State.
+• YENENG MFB
+• ZAFEC MFB LTD
+• ZURU MFB
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• Katsu Microfinance Bank Limited
+  - Street Address: 'No 12 Station Road Agbado Ogun State.' → 'No 12 Station Road, Agbado, Ogun State'
+
