@@ -1,0 +1,39 @@
+CBN Financial Institutions Change Report - 2026-09-24
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 1032 (previous: 1032)
+New institutions: 2
+Removed institutions: 2
+Institutions with changed details: 2
+
+ADDED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• Moniepoint MFB
+• OPAY MFB LIMITEd
+  Website: - | Address: Plot 9, Dr. Nurudeen Olowopopo Avenue Central Business District, Alausa Ikeja, Lagos State.
+
+REMOVED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• ROLEZ MFB
+
+[Mobile Money Operators]
+• OPAY DIGITAL SERVICES LIMITED (FORMERLY PAYCOM NIGERIA LIMITED)
+  Website: - | Address: Alexander House Otunba Jobi Fele Way Agidingbi, Alausa, Ikeja, Lagos
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• Alert Microfinance Bank
+  - Street Address: 'nan' → '123 Herbert Macaulay Way, Ebute Metta, Lagos'
+  - Website: 'nan' → '-'
+
+• Katsu Microfinance Bank Limited
+  - Street Address: 'No 12 Station Road Agbado Ogun State.' → 'No 12 Station Road, Agbado, Ogun State'
+
