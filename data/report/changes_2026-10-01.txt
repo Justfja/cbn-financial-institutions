@@ -1,0 +1,71 @@
+CBN Financial Institutions Change Report - 2026-10-01
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 1032 (previous: 1032)
+New institutions: 0
+Removed institutions: 0
+Institutions with changed details: 14
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• Katsu Microfinance Bank Limited
+  - Street Address: 'No 12 Station Road Agbado Ogun State.' → 'nan'
+  - Website: '-' → 'nan'
+  - Street Address: 'No 12 Station Road Agbado Ogun State.' → 'No 12 Station Road, Agbado, Ogun State'
+
+• Kolisa Microfinance Bank Limited
+  - Street Address: '124B Umejei Road, Ibusa, Delta State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Lightway Microfinance Bank Limited
+  - Street Address: 'No 4B Road, Shola Oguntade Close, Lekki, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• MAYDEN MICROFINANCE BANK
+  - Street Address: 'No 7 Alfred Rewane Road, Ikoyi, Lagos' → 'nan'
+  - Website: '-' → 'nan'
+
+• Novus Microfinance Bank Limited
+  - Street Address: 'Plot BNA 6178, New Bridge Road, Makurdi, Benue State' → 'nan'
+  - Website: '-' → 'nan'
+
+• OPAY MFB LIMITEd
+  - Street Address: 'Plot 9, Dr. Nurudeen Olowopopo Avenue Central Business District, Alausa Ikeja, Lagos State.' → 'nan'
+  - Website: '-' → 'nan'
+
+• OYE VERSITY MICROFINANCE BANK LIMITED
+  - Street Address: 'no 1 Federal University Ote-Ekiti, Ekiti State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Oganiru Microfinance Bank Limited
+  - Street Address: 'Akpo Junction Akpo Aguata LGA, Anambra State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Okada Microfinance Bank Limited
+  - Street Address: 'Mission Road Okada, Igbinedion University Ovia North East LGA, Edo State' → 'nan'
+  - Website: '-' → 'nan'
+
+• PRUDENT MFB
+  - Street Address: 'PLOT NO. MF-03A, SAUKA VILLAGE EXTENSION, KUJE ABUJA' → 'nan'
+  - Website: '-' → 'nan'
+
+• Paragon Microfinance Bank Limited
+  - Street Address: 'No 8 Chubb Road, Ikot Ekpene LGA, Akwa Ibom State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Pioneer Microfinance Bank Limited
+  - Street Address: 'Line C4/1-6, Relief Market, Obodukwu Road, Ogbaru LGA Onitsha, Anambra State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Plusone Microfinance Bank Limited
+  - Street Address: '57 Isawo Road, Owutu-Agric, Ikorudu, Lagos State' → 'nan'
+  - Website: '-' → 'nan'
+
+• Sosa Microfinance Bank Limited
+  - Street Address: 'B45, Samson Odugbesan Street, Oke-Ala, Ososa-Ijebu, Ogun State' → 'nan'
+  - Website: '-' → 'nan'
+
