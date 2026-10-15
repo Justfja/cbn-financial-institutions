@@ -1,0 +1,29 @@
+CBN Financial Institutions Change Report - 2026-10-15
+================================================================================
+
+SUMMARY
+--------------------------------------------------------------------------------
+Total institutions: 1026 (previous: 1032)
+New institutions: 0
+Removed institutions: 6
+Institutions with changed details: 1
+
+REMOVED INSTITUTIONS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• Basawa Microfinance bank Limited
+  Website: - | Address: KM 4 Old Kano Road BASAWA, Sabo Gari, Zaria, Kaduna State.
+• CHANELLE MFB
+• CRYSTABEL MFB
+• FRONTLINE MFB
+• IWADE MFB
+• KAMBA MFB
+
+CHANGED INSTITUTION DETAILS
+--------------------------------------------------------------------------------
+
+[Micro-finance Banks]
+• Katsu Microfinance Bank Limited
+  - Street Address: 'No 12 Station Road Agbado Ogun State.' → 'No 12 Station Road, Agbado, Ogun State'
+
